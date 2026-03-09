@@ -190,7 +190,8 @@ Please make sure your code follows the existing style and includes relevant test
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
+TODO list:
+Add a lot more scrapers than yf...like reddit(may bee)....other dorking like nyt, bloomberg , etc.....keep on adding legitimate sites here
 ## Author
 
 **Nithylesh** — [GitHub Profile](https://github.com/Nithylesh)
