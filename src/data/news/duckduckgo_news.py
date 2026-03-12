@@ -9,6 +9,7 @@ def fetch_web_news(query_term, max_results=5):
             for article in results:
                 news_records.append({
                     "title": article.get('title', 'No Title'),
+                    "snippet": article.get('body', 'No summary available.'),
                     "source": article.get('source', 'Unknown Web Source'),
                     "url": article.get('url', '')
                 })

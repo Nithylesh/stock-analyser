@@ -1,0 +1,53 @@
+
+=== GLOBAL MACRO TRENDS ===
+Article 1:
+Headline: IEA reportedly eyes record oil reserve release; CPI ahead - what’s moving markets - Investing.com
+Context: Citing officials familiar with the matter, the WSJ said the release would surpass the 182 million barrels of oil that IEA member nations made available after Russia's invasion of Ukraine in 2022. IEA countries are seen deciding on the proposal on Wednesday, the WSJ said.
+----------------------------------------
+
+Article 2:
+Headline: Reliance Goes From Trump Foe to Friend With Oil Refinery Pledge - Bloomberg
+Context: President Donald Trump said the US will get its first new oil refinery in 50 years with the help of investment from India’s ... Donald Trump announced a $300 billion oil refinery project in Brownsville, Texas, the first new US refinery in 50 years, and publicly thanked “partners in India, Reliance” for backing the historic ...
+----------------------------------------
+
+Article 3:
+Headline: Iran-Israel war: Every 10% rise in oil prices could shave 20–25 bps off India’s GDP growth, says HDFC Bank - The Economic Times
+Context: The conflict, in which nearly every country in the Middle East has sustained damage from missiles or drone strikes, has left ships carrying oil unable to safely pass through the Strait of Hormuz, Motorists queue up as others wait behind a rope for their turn to get fuel at a pump, fearing a possible fuel shortage due to the Iran war, in Dhaka, Bangladesh, Sunday, March 8, 2026. (AP Photo/Mahmud Hossain Opu) Prices are displayed at a gas station in London, Monday, March 9, 2026. (AP Photo/Alberto Pezzali) An American flag flies outside a gas station as gasoline prices are displayed on Sunday, March 8, 2026, in Portland, Ore. (AP Photo/Jenny Kane) A broker watches his screens at the stock market in Frankfurt, Germany, Monday, March 9, 2026. (AP Photo/Michael Probst) A gas station attendant fills the tank of a car in Bangkok, Thailand, Monday, March 9, 2026. (AP Photo/Sakchai Lalit) WASHINGTON (AP) — The war with Iran is doing collateral damage to the world economy.
+----------------------------------------
+
+Article 4:
+Headline: Airlines hike fares as Middle East conflict sends fuel costs soaring - The Times of India
+Context: Qantas Airways, SAS, and Air New Zealand announced airfare increases due to a rise in fuel costs spurred by Middle East conflicts. Jet fuel prices surged from $90 to $200 per barrel, forcing airlines ... The price of jet fuel and diesel has surged since the war in Iran began, which could force airlines and trucking companies to pass on higher costs to their customers. By Shivangi Lahiri and Sameer Manekar March 10 (Reuters) - Australia's Qantas Airways, Scandinavia's SAS and Air New Zealand announced airfare hikes on Tuesday, blaming an abrupt spike in the cost of ...
+----------------------------------------
+
+Article 5:
+Headline: Induction stoves vanish from stores as India grapples with LPG crisis - India Today
+Context: Rising tensions between the US and Iran have led to a shortage of LPG cylinders, disrupting operations for restaurants and hotels in major Indian cities like Mumbai, Bengaluru and Kolkata. Meanwhile, Rising tensions between the US and Iran have led to a shortage of LPG cylinders, disrupting operations for restaurants and hotels in major Indian cities like Mumbai, Bengaluru and Kolkata. Meanwhile, ...
+----------------------------------------
+
+Article 6:
+Headline: Two LNG cargoes on their way to country, says govt amid gas shortage fears - Moneycontrol.com
+Context: The ministry of petroleum and natural gas on March 11 said that the country has started receiving cargoes for liquified natural gas and liquified petroleum gas with two LNG cargoes on their way to India amid concerns over shortage of gas. “Crude oil supply remains secure. Volumes secured today exceed what normally would arrive from strait of Hormuz,” Sujata Sharma, Joint Secretary at Petroleum and Natural Gas ministry, adding that state-run oil marketing companies have secured multiple crude cargoes from various countries. The official also said that two more cargoes of crude oil are on their way to India. She noted that today, almost 75% of crude oil is coming from routes other than the Strait of Hormuz as against 55% earlier. The country’s overall gas consumption is 189 MMSCMD of which 97.5 MMSCMD is produced domestically and the remaining is imported, as per official data. Sharma said that as much as 47.4 mmscmd gas supply has been affected due to force majeure conditions.
+----------------------------------------
+
+Article 7:
+Headline: Google wraps up $32B acquisition of cloud cybersecurity startup Wiz - TechCrunch
+Context: ‘Google stands behind Amazon and Microsoft in terms of market shares in cloud infrastructure, and our assessment confirmed that customers will continue to have credible alternatives and the ability to switch providers,’ says European Union antitrust leader Teresa Ribera in a statement Tuesday. Google is one step closer to buying cybersecurity star Wiz after the European Union Tuesday approved the $32 billion megadeal. “Google stands behind Amazon and Microsoft in terms of market shares in cloud infrastructure, and our assessment confirmed that customers will continue to have credible alternatives and the ability to switch providers,” said EU antitrust chief Teresa Ribera in a statement Tuesday. The European Commission said any data acquired by Google via the Wiz deal is not commercially sensitive and can also be assessed by other security software companies. [Related: AWS Vs. Microsoft Vs.
+----------------------------------------
+
+Article 8:
+Headline: Stock Market Highlights: Investors Lose Rs 6 Lakh Crore As Sensex Falls 1,000 Points - NDTV
+Context: Stock Market Crash Today: Indian benchmark indices Nifty 50 and BSE Sensex experienced a sharp decline on Tuesday, with IT and auto stocks leading the fall. Investor wealth plummeted by Rs 3 lakh ... Stock Market Crash: Indian equity markets experienced a sharp downturn, with the Sensex and Nifty plummeting around 2% due to escalating Middle East conflict involving the US and Iran. Surging crude ... Indian stocks fell sharply on the special trading on Sunday after Finance Minister Nirmala Sitharaman announced a hike in the securities transaction tax (STT) on futures and options in her Budget 2026 ...
+----------------------------------------
+
+Article 9:
+Headline: Sahara Group will have to refund Rs 14,106 cr raised through OFCDs as SAT upholds SEBI order - Moneycontrol.com
+Context: The Securities Appellate Tribunal (SAT) has upheld a Securities and Exchange Board of India (SEBI) order directing Sahara India Commercial Corporation Ltd (SICCL) and its directors to refund about Rs 14,106 crore raised through optionally fully convertible debentures (OFCDs) from nearly 1.98 crore investors, ruling that the fundraising constituted a public issue in violation of securities laws. On Moday, SAT dismissed appeals filed by SICCL, Sahara India, and several directors challenging SEBI’s October 31, 2018 order. The tribunal held that the company had issued OFCDs to over 1.98 crore people between July 1998 and June 2008, thereby triggering the regulatory requirements applicable to public issues. The tribunal ruled that the offer of debentures could not be treated as a private placement or a domestic arrangement, noting that the number of investors far exceeded the statutory threshold.
+----------------------------------------
+
+Article 10:
+Headline: Japan to release oil reserves starting March 16 amid Strait of Hormuz chokehold | World News - Hindustan Times
+Context: U.S. Interior Secretary Doug Burgum said Wednesday that the International Energy Agency should release oil stockpiles to address the massive supply disruption triggered by the Iran war. "Certainly these are the kinds of moments that these reserves are used for,  because what we have here is not a shortage of energy in the world," Burgum told Fox News in an interview. "We've got a transit problem which is temporary," he said. "When you have a temporary transit problem that we're resolving militarily and diplomatically, which we can resolve and will resolve, this is the perfect time to think about releasing some of those to take some pressure off of the global price." Burgum's comments come as the IEA has proposed to release 400 million barrels of oil, the biggest such action in the organization's history, sources told The Wall Street Journal .
+----------------------------------------
+
+

@@ -1,54 +1,72 @@
 import argparse
-
+import os
 # Import your custom modules
 from src.data.market.yfinance_client import fetch_price_data
 from src.data.news.duckduckgo_news import fetch_web_news
 from src.data.news.reddit_scraper import fetch_reddit_chatter
+from src.data.news.google_news_search import scrape_trending_news
 
-def run_agent(ticker, period="5d", start=None, end=None, indicator=None, charts=False, report=False):
-    """The core engine that runs the analysis based on CLI flags."""
-    print(f"\n========== AGENT TARGET: {ticker} ==========")
+def run_agent(ticker, period="5d", start=None, end=None, indicator=None, charts=False, report=False, trending=False):
+    """The core engine that runs the analysis and saves it to a temp file."""
+    temp_filename = f"temp_{ticker}_dossier.txt"
+    filepath = os.path.join("outputs", temp_filename)
     
-    # 1. Market Data (Handling periods or specific dates)
-    print(f"[+] FETCHING MARKET DATA (Period: {period if not start else start + ' to ' + end})...")
-    # Note: We will need to update fetch_price_data later to handle start/end dates!
+    # Clear the old file if it exists so we get a fresh context window!
+    if os.path.exists(filepath):
+        os.remove(filepath)
+        
+    print(f"\n========== AGENT TARGET: {ticker} ==========")
+    print(f"[+] Initializing fresh memory file: {temp_filename}")
+
+    # 1. Market Data
+    print(f"[+] Fetching Market Data... Saving to file.")
     prices = fetch_price_data(ticker, days=5) 
+    price_text = ""
     for p in prices:
-        print(f"    {p['date']}: Closing Price -> ${p['close_price']}")
+        price_text += f"{p['date']}: Closing Price -> ${p['close_price']}\n"
+    append_to_file(temp_filename, "MARKET DATA", price_text)
 
     # 2. News Data
-    print("\n[+] BROWSING LIVE WEB NEWS...")
-    news = fetch_web_news(ticker) # Using ticker as search term
+    print("[+] Browsing Live Web News... Saving to file.")
+    news = fetch_web_news(ticker)
+    news_text = ""
     if not news:
-        print("    No recent news found.")
+        news_text = "No recent news found.\n"
     else:
         for i, article in enumerate(news):
-            print(f"    {i+1}. {article['title']} (Source: {article['source']})")
+            news_text += f"{i+1}. {article['title']} (Source: {article['source']})\n"
+    append_to_file(temp_filename, "COMPANY NEWS", news_text)
 
-    # 3. Alternative Data
-    print("\n[+] SCRAPING REDDIT CHATTER (WallStreetBets & Stocks)...")
+    # 3. Alternative Data (Reddit)
+    print("[+] Scraping Reddit Chatter... Saving to file.")
     reddit_posts = fetch_reddit_chatter(ticker)
+    reddit_text = ""
     if not reddit_posts:
-        print("    No recent Reddit chatter found.")
+        reddit_text = "No recent Reddit chatter found.\n"
     else:
         for i, post in enumerate(reddit_posts):
-            print(f"    {i+1}. {post['title']}")
+            reddit_text += f"{i+1}. {post['title']}\n"
+    append_to_file(temp_filename, "REDDIT CHATTER", reddit_text)
 
-    # --- PLACEHOLDERS FOR NEW FLAGS ---
-    if indicator:
-        print(f"\n[+] CALCULATING TECHNICAL INDICATOR: {indicator.upper()}...")
-        print("    (Indicator logic goes here in the future)")
+    # 4. Global Trending News
+    if trending:
+        print("[+] Scraping Global Trending News... Saving to file.")
+        trending_news = scrape_trending_news()
+        append_to_file(temp_filename, "GLOBAL MACRO TRENDS", trending_news)
 
-    if charts:
-        print("\n[+] GENERATING VISUAL CHARTS...")
-        print("    (Chart generation logic goes here in the future)")
+    print(f"    [💾] Dossier successfully compiled in: outputs/{temp_filename}")
+    print("==================================================\n")
 
-    if report:
-        print("\n[+] EXPORTING FULL ANALYSIS REPORT...")
-        print(f"    (Report saved to outputs/{ticker}_report.pdf)")
-
-    print("\n==================================================\n")
-
+def append_to_file(filename, section_title, content):
+    """Silently appends data to a text file in the outputs folder."""
+    # Ensure the outputs folder actually exists
+    os.makedirs("outputs", exist_ok=True) 
+    filepath = os.path.join("outputs", filename)
+    
+    # Open in 'a' (append) mode
+    with open(filepath, 'a', encoding='utf-8') as f:
+        f.write(f"\n=== {section_title} ===\n")
+        f.write(content + "\n")
 
 def setup_cli():
     """Sets up the command line arguments and flags."""
@@ -68,6 +86,8 @@ def setup_cli():
     parser.add_argument("--charts", action="store_true", help="Generate visual charts")
     parser.add_argument("--indicator", type=str, help="Specific technical indicator (e.g., RSI, MACD)")
 
+    # just to scrape news from trending google news 
+    parser.add_argument("--trending", action="store_true", help="Scrape trending news from Google News")
     return parser.parse_args()
 
 
@@ -81,6 +101,25 @@ if __name__ == "__main__":
         target_tickers = args.tickers
     elif args.ticker:
         target_tickers = [args.ticker]
+    if args.trending and not target_tickers:
+        print("\n==================================================")
+        print("🚀 INITIALIZING AUTONOMOUS RESEARCH AGENT (GLOBAL SCOUT)")
+        print("==================================================\n")
+        
+        print("[+] Scraping Global Trending News... Saving to file.")
+        trending_news = scrape_trending_news()
+        
+        # Save it to a global temp file
+        temp_filename = "temp_global_trends.txt"
+        filepath = os.path.join("outputs", temp_filename)
+        if os.path.exists(filepath):
+            os.remove(filepath)
+            
+        append_to_file(temp_filename, "GLOBAL MACRO TRENDS", trending_news)
+        
+        print(f"    [💾] Data successfully saved to outputs/{temp_filename}")
+        exit(0)
+        
     else:
         print("❌ Error: You must provide at least one ticker using --ticker or --tickers.")
         exit(1)
@@ -94,5 +133,6 @@ if __name__ == "__main__":
             end=args.end,
             indicator=args.indicator,
             charts=args.charts,
-            report=args.report
+            report=args.report,
+            trending=args.trending
         )
