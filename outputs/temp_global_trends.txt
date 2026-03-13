@@ -1,53 +1,289 @@
-
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: IEA reportedly eyes record oil reserve release; CPI ahead - what’s moving markets - Investing.com
-Context: Citing officials familiar with the matter, the WSJ said the release would surpass the 182 million barrels of oil that IEA member nations made available after Russia's invasion of Ukraine in 2022. IEA countries are seen deciding on the proposal on Wednesday, the WSJ said.
+Headline: "India's Crude Oil Supplies Are Secure": Hardeep Puri Amid Middle East Crisis - NDTV
+Context: Iran Israel US War Strait Of Hormuz - "India's crude oil supplies are secure": Union Minister Hardeep Puri on concern over fuel as Middle East crisis spirals ... Find Middle East War Crisis Latest News, Videos & Pictures on Middle East War Crisis and see latest updates, news, information from NDTV.COM. Explore more on Middle East War Crisis.
 ----------------------------------------
 
 Article 2:
-Headline: Reliance Goes From Trump Foe to Friend With Oil Refinery Pledge - Bloomberg
-Context: President Donald Trump said the US will get its first new oil refinery in 50 years with the help of investment from India’s ... Donald Trump announced a $300 billion oil refinery project in Brownsville, Texas, the first new US refinery in 50 years, and publicly thanked “partners in India, Reliance” for backing the historic ...
+Headline: Rs 2 lakh crore wiped out! Sensex plunges 800 points; Nifty closes below 23,650. 6 factors behind today’s - The Economic Times
+Context: Indian stock markets experienced a sharp selloff on Thursday, with Sensex and Nifty 50 declining significantly. Escalating Iran-Israel tensions, persistent FII selling, and rising crude oil prices above $100 per barrel weighed heavily on investor sentiment. Stock Market Today: Indian benchmark indices began the week with a sharp jolt as escalating tensions in the Middle East triggered a wave of global risk-off sentiment. Indian stock markets experienced a sharp crash on Monday, with Sensex and Nifty closing nearly 2% lower due to escalating Middle East conflict and soaring crude oil prices. The selloff wiped off over Rs 8.
 ----------------------------------------
 
 Article 3:
-Headline: Iran-Israel war: Every 10% rise in oil prices could shave 20–25 bps off India’s GDP growth, says HDFC Bank - The Economic Times
-Context: The conflict, in which nearly every country in the Middle East has sustained damage from missiles or drone strikes, has left ships carrying oil unable to safely pass through the Strait of Hormuz, Motorists queue up as others wait behind a rope for their turn to get fuel at a pump, fearing a possible fuel shortage due to the Iran war, in Dhaka, Bangladesh, Sunday, March 8, 2026. (AP Photo/Mahmud Hossain Opu) Prices are displayed at a gas station in London, Monday, March 9, 2026. (AP Photo/Alberto Pezzali) An American flag flies outside a gas station as gasoline prices are displayed on Sunday, March 8, 2026, in Portland, Ore. (AP Photo/Jenny Kane) A broker watches his screens at the stock market in Frankfurt, Germany, Monday, March 9, 2026. (AP Photo/Michael Probst) A gas station attendant fills the tank of a car in Bangkok, Thailand, Monday, March 9, 2026. (AP Photo/Sakchai Lalit) WASHINGTON (AP) — The war with Iran is doing collateral damage to the world economy.
+Headline: India’s consumer inflation rises to 3.21% in February as oil risks loom - CNBC
+Context: India's inflation for February is within central bank's comfort level range but policy action is unlikely due to rising global energy prices ... March 12 (Reuters) - India's retail inflation rose 3.21% year-over-year in February from a revised 2.74% in January, government data showed on Thursday. A Reuters poll had projected retail inflation ... India's retail inflation rose 3.21% year-on-year in February from a revised 2.74% in January, government data showed on Thursday.
 ----------------------------------------
 
 Article 4:
-Headline: Airlines hike fares as Middle East conflict sends fuel costs soaring - The Times of India
-Context: Qantas Airways, SAS, and Air New Zealand announced airfare increases due to a rise in fuel costs spurred by Middle East conflicts. Jet fuel prices surged from $90 to $200 per barrel, forcing airlines ... The price of jet fuel and diesel has surged since the war in Iran began, which could force airlines and trucking companies to pass on higher costs to their customers. By Shivangi Lahiri and Sameer Manekar March 10 (Reuters) - Australia's Qantas Airways, Scandinavia's SAS and Air New Zealand announced airfare hikes on Tuesday, blaming an abrupt spike in the cost of ...
+Headline: NSE Appoints Morgan Stanley, 19 Others For India IPO — Check Full List - NDTV Profit
+Context: Kuku FM (Mebigo Labs) is preparing for a potential IPO of around $200 million (₹1,820 crore) The company has appointed Kotak Mahindra Capital, Axis Bank, and Morgan Stanley to manage the offering ... National Stock Exchange (NSE) has finalized its list of 20 merchant bankers, 8 law firms, and other intermediaries for its proposed IPO. The SEBI-cleared public offering is expected to be launched in ...
 ----------------------------------------
 
 Article 5:
-Headline: Induction stoves vanish from stores as India grapples with LPG crisis - India Today
-Context: Rising tensions between the US and Iran have led to a shortage of LPG cylinders, disrupting operations for restaurants and hotels in major Indian cities like Mumbai, Bengaluru and Kolkata. Meanwhile, Rising tensions between the US and Iran have led to a shortage of LPG cylinders, disrupting operations for restaurants and hotels in major Indian cities like Mumbai, Bengaluru and Kolkata. Meanwhile, ...
+Headline: Explained — Key factors behind the surge of up to 15% in power stocks led by NTPC Green Energy - CNBC TV18
+Context: Shares of NTPC Green Energy are up 13% and are the top gainers on the Nifty 500 in today's session. This is followed by shares of JSW Energy, which have surged 7%, while Adani Power, CESC, BHEL, Torrent Power,
 ----------------------------------------
 
 Article 6:
-Headline: Two LNG cargoes on their way to country, says govt amid gas shortage fears - Moneycontrol.com
-Context: The ministry of petroleum and natural gas on March 11 said that the country has started receiving cargoes for liquified natural gas and liquified petroleum gas with two LNG cargoes on their way to India amid concerns over shortage of gas. “Crude oil supply remains secure. Volumes secured today exceed what normally would arrive from strait of Hormuz,” Sujata Sharma, Joint Secretary at Petroleum and Natural Gas ministry, adding that state-run oil marketing companies have secured multiple crude cargoes from various countries. The official also said that two more cargoes of crude oil are on their way to India. She noted that today, almost 75% of crude oil is coming from routes other than the Strait of Hormuz as against 55% earlier. The country’s overall gas consumption is 189 MMSCMD of which 97.5 MMSCMD is produced domestically and the remaining is imported, as per official data. Sharma said that as much as 47.4 mmscmd gas supply has been affected due to force majeure conditions.
+Headline: Iran war threatens India’s ‘Goldilocks’ economy - Financial Times
+Context: MUMBAI, March 12 (Reuters) - India's external balance and government finances could be hit if oil prices stay high for an ... The U.S. and Israel's attack on Iran is expected to weigh more on India's economic growth than its inflation, which will encourage the Reserve Bank of India to keep interest rates low, three sources ... WASHINGTON, Feb 21 (Reuters) - President Donald Trump has pushed the United States to the brink of war with Iran even as aides urge him to focus more on voters' economic worries, highlighting the ...
 ----------------------------------------
 
 Article 7:
-Headline: Google wraps up $32B acquisition of cloud cybersecurity startup Wiz - TechCrunch
-Context: ‘Google stands behind Amazon and Microsoft in terms of market shares in cloud infrastructure, and our assessment confirmed that customers will continue to have credible alternatives and the ability to switch providers,’ says European Union antitrust leader Teresa Ribera in a statement Tuesday. Google is one step closer to buying cybersecurity star Wiz after the European Union Tuesday approved the $32 billion megadeal. “Google stands behind Amazon and Microsoft in terms of market shares in cloud infrastructure, and our assessment confirmed that customers will continue to have credible alternatives and the ability to switch providers,” said EU antitrust chief Teresa Ribera in a statement Tuesday. The European Commission said any data acquired by Google via the Wiz deal is not commercially sensitive and can also be assessed by other security software companies. [Related: AWS Vs. Microsoft Vs.
+Headline: Oil price jumps despite deal to release record amount of reserves - BBC
+Context: Oil prices climbed back above $100 a barrel and stock markets fell after three more cargo vessels were hit in the Gulf and Iran's new supreme leader vowed to keep blocking the key Strait of Hormuz shipping route. Brent crude rose by more than 9% on Thursday to $101.59 before easing slightly to $99.44. The jump came despite the International Energy Agency (IEA) saying on Wednesday that it will release a record 400 million barrels of oil in an attempt to curb the economic impact of the US-Israel war with Iran. Investors are increasingly concerned that the global economy will take longer to recover if strikes to shipping and energy infrastructure in and around the Strait of Hormuz continue. In his first public comment since being named as supreme leader, Mojtaba Khamenei said the "lever of blocking the Strait of Hormuz" should still be used by Iran. The strait is a key waterway for energy shipments but is effectively closed over concerns that vessels could be attacked.
 ----------------------------------------
 
 Article 8:
-Headline: Stock Market Highlights: Investors Lose Rs 6 Lakh Crore As Sensex Falls 1,000 Points - NDTV
-Context: Stock Market Crash Today: Indian benchmark indices Nifty 50 and BSE Sensex experienced a sharp decline on Tuesday, with IT and auto stocks leading the fall. Investor wealth plummeted by Rs 3 lakh ... Stock Market Crash: Indian equity markets experienced a sharp downturn, with the Sensex and Nifty plummeting around 2% due to escalating Middle East conflict involving the US and Iran. Surging crude ... Indian stocks fell sharply on the special trading on Sunday after Finance Minister Nirmala Sitharaman announced a hike in the securities transaction tax (STT) on futures and options in her Budget 2026 ...
+Headline: Trade setup for March 12: Can NIFTY50 hold the 23,700 support level on Thursday? Check details - Upstox
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 Article 9:
-Headline: Sahara Group will have to refund Rs 14,106 cr raised through OFCDs as SAT upholds SEBI order - Moneycontrol.com
-Context: The Securities Appellate Tribunal (SAT) has upheld a Securities and Exchange Board of India (SEBI) order directing Sahara India Commercial Corporation Ltd (SICCL) and its directors to refund about Rs 14,106 crore raised through optionally fully convertible debentures (OFCDs) from nearly 1.98 crore investors, ruling that the fundraising constituted a public issue in violation of securities laws. On Moday, SAT dismissed appeals filed by SICCL, Sahara India, and several directors challenging SEBI’s October 31, 2018 order. The tribunal held that the company had issued OFCDs to over 1.98 crore people between July 1998 and June 2008, thereby triggering the regulatory requirements applicable to public issues. The tribunal ruled that the offer of debentures could not be treated as a private placement or a domestic arrangement, noting that the number of investors far exceeded the statutory threshold.
+Headline: Iran War Exposes Cracks for Airlines That Connect the World - Bloomberg.com
+Context: The Iran war has exposed the fragility of modern travel, with airlines left reeling from a conflict that's squeezed them into increasingly narrow flight paths and thrown their long-term growth plans into disarray.
 ----------------------------------------
 
 Article 10:
-Headline: Japan to release oil reserves starting March 16 amid Strait of Hormuz chokehold | World News - Hindustan Times
-Context: U.S. Interior Secretary Doug Burgum said Wednesday that the International Energy Agency should release oil stockpiles to address the massive supply disruption triggered by the Iran war. "Certainly these are the kinds of moments that these reserves are used for,  because what we have here is not a shortage of energy in the world," Burgum told Fox News in an interview. "We've got a transit problem which is temporary," he said. "When you have a temporary transit problem that we're resolving militarily and diplomatically, which we can resolve and will resolve, this is the perfect time to think about releasing some of those to take some pressure off of the global price." Burgum's comments come as the IEA has proposed to release 400 million barrels of oil, the biggest such action in the organization's history, sources told The Wall Street Journal .
+Headline: Rupee trims losses after hitting record low, all eyes on oil prices - Reuters
+Context: By Jaspreet Kalra MUMBAI, March 12 (Reuters) - The Indian rupee hit a record low on Thursday as the latest attacks on oil and ... By Jaspreet Kalra MUMBAI, March 9 (Reuters) - The Indian rupee fell to a record low on Monday, as fears of a prolonged war in ... By Nimesh Vora MUMBAI, Mar 9 (Reuters) - The Indian rupee may slip to a record low at open on Monday, as a sharp surge in global oil prices fuelled by the widening Middle East conflict deepened ...
 ----------------------------------------
 
 
+
+==================================================
+=== PHASE 2: DEEP DIVE RESEARCH DATA ===
+==================================================
+
+
+########################################
+TREND: Middle East Conflict Impact on Oil Prices and Supply Security
+LLM Search Query: impact of Middle East conflict on oil prices and supply security for India
+Articles scraped: 10
+########################################
+
+[1] What's happening in India, Pakistan, Bangladesh, China as Iran-US war disrupts oil supply
+    Source : Hindustan Times on MSN  |  Date: 2026-03-10T17:37:59+00:00
+    URL    : https://www.msn.com/en-in/news/world/whats-happening-in-india-pakistan-bangladesh-china-as-iran-us-war-disrupts-oil-supply/ar-AA1XSqcc?ocid=BingNewsVerp
+    Content: Strait of Hormuz's near closure has pushed Saudi, the world’s largest oil exporter, to cut output. Many nations have increased efforts to avoid fuel shortages.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[2] India reports 37 oil and LPG tankers stranded near Strait of Hormuz as fuel shipments delayed
+    Source : Regtechtimes on MSN  |  Date: 2026-03-10T17:37:59+00:00
+    URL    : https://www.msn.com/en-us/money/markets/india-reports-37-oil-and-lpg-tankers-stranded-near-strait-of-hormuz-as-fuel-shipments-delayed/ar-AA1XTYh6?ocid=BingNewsVerp
+    Content: Rising tensions in the Middle East are disrupting global shipping and India’s energy supply. Around 37 Indian oil and LPG ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[3] Inside India newsletter: Energy, airlines and now over $50 billion in remittances to India at risk as Middle East conflict deepens
+    Source : CNBC on MSN  |  Date: 2026-03-05T17:37:59+00:00
+    URL    : https://www.msn.com/en-us/money/markets/inside-india-newsletter-energy-airlines-and-now-over-50-billion-in-remittances-to-india-at-risk-as-middle-east-conflict-deepens/ar-AA1XyrGw?ocid=BingNewsVerp
+    Content: India can't seem to escape from the fallout of the escalating conflict in the Middle East. After energy and aviation, ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[4] If Oil Prices Hit $200/BBL: What Will It Mean For India's GDP Forecast?
+    Source : Republic World  |  Date: 2026-03-06T17:37:59+00:00
+    URL    : https://www.republicworld.com/business/if-oil-prices-hit-200bbl-what-will-it-mean-for-india-s-gdp-forecast
+    Content: India's growth outlook projected at 7.6% for the current fiscal year could be adversely affected if the Israel-US conflict with Iran continues, placing rupee under pressure, and significant imported inflation. Recently, Iran’s Islamic Revolutionary Guard Corp spokesperson noted that oil prices would surge up to "$200 per barrel". Considering crude oil prices at $100 per barrel witness a 100% surge, India's 7.6% GDP projection for this fiscal year would have to brace itself for a 150-basis points (bps) impact, translating into a 1.5% decline to 6.1% GDP. "Every 10 rise in oil prices, if passed onto consumers fully, affects GDP growth by 15 bps, inflation by 30 bps, fiscal deficit by 0 15 of GDP C/A deficit by 0 4 of GDP," according to a Union Bank of India report. The volatility in oil prices began after continued US-Israeli attacks against Iran, which in retaliation fired missiles, and launched drone attacks on several targets across the Middle East region.
+----------------------------------------
+
+[5] Global fuel shock: Middle East conflict sparks gas shortage, India’s hotels and transport hit hard
+    Source : ABP News on MSN  |  Date: 2026-03-11T17:37:59+00:00
+    URL    : https://www.msn.com/en-in/entertainment/bollywood/global-fuel-shock-middle-east-conflict-sparks-gas-shortage-india-s-hotels-and-transport-hit-hard/vi-AA1YlOPF?ocid=BingNewsVerp
+    Content: The escalating conflict in the Middle East is beginning to ripple across global energy markets, creating fresh concerns over fuel security and economic stability. Rising tensions around the Strait of ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[6] Breaking news: Iran warns oil could hit $200 per barrel amid escalating Middle East war
+    Source : ABP News on MSN  |  Date: 2026-03-06T17:37:59+00:00
+    URL    : https://www.msn.com/en-in/video/news/breaking-news-iran-warns-oil-could-hit-200-per-barrel-amid-escalating-middle-east-war/vi-AA1YrdwN?ocid=BingNewsVerp
+    Content: Amid the ongoing conflict in the Middle East, Iran has warned that global crude oil prices could rise to $200 per barrel if the security situation in the region continues to deteriorate. Iran’s ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[7] Middle East conflict: Ministry gauging effects on national food sector
+    Source : Sinar Daily on MSN  |  Date: 2026-03-11T17:37:59+00:00
+    URL    : https://www.msn.com/en-my/news/national/middle-east-conflict-ministry-gauging-effects-on-national-food-sector/ar-AA1XWpI5?ocid=BingNewsVerp
+    Content: The impact of the increase in oil prices will probably result in an increase in prices.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[8] Oil prices surge, hit highest since April 2024 as Middle East conflict disrupts global energy supply
+    Source : Asianet Newsable on MSN  |  Date: 2026-03-06T17:37:59+00:00
+    URL    : https://www.msn.com/en-in/news/world/oil-prices-surge-hit-highest-since-april-2024-as-middle-east-conflict-disrupts-global-energy-supply/ar-AA1XFcMw?ocid=BingNewsVerp
+    Content: Global oil prices surged this week as rising Middle East crisis disrupted energy supplies. WTI crude jumped above $86/barrel while Brent climbed near $89, marking strongest weekly rally since 2022.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[9] India's energy supply secure despite West Asia conflict, says Centre
+    Source : MSN  |  Date: 2026-02-20T17:37:59+00:00
+    URL    : https://www.msn.com/en-in/money/general/india-s-energy-supply-secure-despite-west-asia-conflict-says-centre/ar-AA1Yursc?ocid=BingNewsVerp
+    Content: Amid sloganeering by the opposition MPs, Union Minister for Petroleum and Natural Gas, Hardeep Singh Puri, informed the Lok Sabha on Thursday that the country is successfully navigating the major ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[10] Middle East Conflict: KPKM Gauging Effects On National Food Sector
+    Source : BERNAMA  |  Date: 2026-03-11T17:37:59+00:00
+    URL    : https://www.bernama.com/en/news.php?id=2532854
+    Content: PUTRAJAYA, March 10 (Bernama) -- The Ministry of Agriculture and Food Security (KPKM) is assessing the possible impact of the conflict in Middle East on the country's food sector, including the potential increase in agricultural input costs due to uncertainty over world oil prices. Its minister Datuk Seri Mohamad Sabu said so far the direct impact on the country's food supply is expected to be limited as most of Malaysia's food imports are not sourced from countries in Middle East. He said the majority of the country's food imports come from ASEAN countries, India, Pakistan, New Zealand, Australia, Brazil and China. "For now, the impact is not that much because we do not import many food items from the Middle East. "But the impact of the increase in oil prices will probably result in an increase in prices and so on, we will wait for the report, we cannot speculate," he said.
+----------------------------------------
+
+
+########################################
+TREND: Consumer Inflation in India and Its Impact on Consumer Discretionary Sectors
+LLM Search Query: impact of rising consumer inflation in India on consumer discretionary sectors
+Articles scraped: 2
+########################################
+
+[1] Fidelity Select Consumer Discretionary Portfolio Q3 2025 Commentary
+    Source : Seeking Alpha  |  Date: 2026-01-06T09:40:00+00:00
+    URL    : https://seekingalpha.com/article/4857353-fidelity-select-consumer-discretionary-portfolio-q3-2025-commentary
+    Content: Fidelity Select Consumer Discretionary Portfolio is a sector-based, equity-focused strategy that seeks to outperform its benchmark through active management. Consumer discretionary stocks gained 9.58% in Q3 2025, according to the MSCI U.S. IMI Consumer ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[2] India consumer price inflation likely rose to 1.50% in December: Reuters poll
+    Source : Reuters  |  Date: 2026-01-09T02:04:00+00:00
+    URL    : https://www.reuters.com/business/india-consumer-price-inflation-likely-rose-150-december-2026-01-08/
+    Content: BENGALURU, Jan 9 (Reuters) - India's consumer inflation likely rose for a second straight month in December to an annual rate of 1.50%, driven by a broad-based pickup in food prices and fading favourable base effects, a Reuters poll showed. The increase ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+
+########################################
+TREND: Global Oil Price Fluctuations and Their Impact on Indian Airlines and Shipping
+LLM Search Query: impact of global oil price fluctuations on Indian airlines and shipping sectors
+Articles scraped: 10
+########################################
+
+[1] Oil Price Volatility: Causes, Effects, and Policy Implications
+    Source : Cfr.org  |  Date: 2016-06-13T00:00:00+00:00
+    URL    : https://www.cfr.org/reports/oil-price-volatility-causes-effects-and-policy-implications
+    Content: Sharp, rapid swings in the price of oil can have outsize effects on companies, economies, and global geopolitics. Oil price spikes can stunt economic growth, for example, and a sudden price plunge can wreak havoc on cash-strapped oil companies. For countries, an oil price roller coaster can blow a hole in government budgets, prompt wholesale economic reform, or alter geopolitical priorities seemingly overnight. At a workshop in New York, the Maurice R. Greenberg Center for Geoeconomic Studies convened nearly forty current and former government officials, economists, oil-market analysts, political scientists, and investors to explore what drives oil price volatility, what effects it has on both the economy and geopolitics, and what policy options are available to reduce price volatility. The report, which you can download here , summarizes the discussion’s highlights. The report reflects the views of workshop participants alone; CFR takes no position on policy issues.
+----------------------------------------
+
+[2] Crude’s medium-term impact hinges on exchange rates, global demand-supply and policy transmission, says FM Sitharaman
+    Source : ET Now on MSN  |  Date: 2026-03-09T17:38:11+00:00
+    URL    : https://www.msn.com/en-in/money/markets/crude-s-medium-term-impact-hinges-on-exchange-rates-global-demand-supply-and-policy-transmission-says-fm-sitharaman/ar-AA1XPd3C?ocid=BingNewsVerp
+    Content: Finance Minister Nirmala Sitharaman said India’s inflation remains near the lower bound and short-term impact of rising crude prices is limited, though medium-term effects depend on exchange rates, ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[3] Global oil and gas prices soar as Iran crisis disrupts shipping, production
+    Source : Reuters on MSN  |  Date: 2026-03-04T17:38:11+00:00
+    URL    : https://www.msn.com/en-us/money/markets/global-oil-and-gas-prices-soar-as-iran-crisis-disrupts-shipping-production/ar-AA1XsXNy?ocid=BingNewsVerp
+    Content: By Yousef Saba and Ahmed Elimam LONDON, March 3 (Reuters) - Global oil and gas prices jumped on Tuesday as the U.S.-Israeli war on Iran halted energy exports from the Middle East, with Tehran ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[4] Crude Chaos Hits India: Aviation and Manufacturing Sectors Reeling from Oil Surge
+    Source : EconoTimes  |  Date: 2026-03-09T04:59:00+00:00
+    URL    : https://www.econotimes.com/Crude-Chaos-Hits-India-Aviation-and-Manufacturing-Sectors-Reeling-from-Oil-Surge-1735692
+    Content: Global crude oil prices have soared by 20 to 30 percent due to the growing dispute between Israel and Iran, which has sparked a dramatic sell-off across Indian stock markets. As investors respond to the growing geopolitical conflicts in the Middle East, the Nifty indices have dropped by over 2 percent. India's aviation, paint, tyre, and oil marketing industries—which are battling dual impacts of growing input prices and broken supply chains—are the hardest hit. Though upstream energy firms like ONGC have seen profits, the overall Indian economy is under great strain as operating expenses rise. With InterGlobe Aviation (IndiGo) down as much as 7%, the Indian aviation sector has emerged as the main victim of this crisis, making it the top Nifty loser. Because jet fuel makes up about 40–50% of all operating costs, the spike in Brent crude has almost overnight destroyed profit margins.
+----------------------------------------
+
+[5] Rising crude prices: What it means for India's markets, investor portfolios
+    Source : Business Standard  |  Date: 2026-03-10T05:28:00+00:00
+    URL    : https://www.business-standard.com/finance/personal-finance/rising-crude-prices-what-it-means-for-india-s-markets-investor-portfolios-126031000322_1.html
+    Content: Crude oil directly impacts fuel prices and indirectly affects transportation, manufacturing, logistics, and food supply chains.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[6] Explained: How Middle East war is influencing Dalal Street stocks and sectors
+    Source : National Herald  |  Date: 2026-03-06T05:16:00+00:00
+    URL    : https://www.nationalheraldindia.com/business/explained-how-the-middle-east-war-is-influencing-dalal-street-stocks-and-sectors
+    Content: Escalating tensions between the United States, Israel and Iran are sending shockwaves through global financial and commodity markets, with rising oil prices and growing supply concerns triggering volatility across multiple sectors. From crude oil and precious metals to aviation, chemicals and aluminium, the geopolitical crisis is creating ripple effects that are being felt in India as well as the wider global economy . The most immediate impact of the conflict has been a sharp rise in oil prices. Global crude prices have climbed nearly 9–10 per cent in the past week amid fears that supply routes in the Middle East could be disrupted. A key concern for markets is the Strait of Hormuz — a strategic maritime chokepoint through which around one-fifth of global oil shipments pass. Any disruption to traffic through the strait could significantly affect global energy supply.
+----------------------------------------
+
+[7] Middle East crisis may hit trade, LNG-dependent sectors if disruption persists: Crisil
+    Source : The Economic Times  |  Date: 2026-03-05T08:39:10+00:00
+    URL    : https://www.msn.com/en-in/news/world/middle-east-crisis-may-hit-trade-lng-dependent-sectors-if-disruption-persists-crisil/ar-AA1XzmFU
+    Content: A prolonged war in the Middle East poses risks to Indian sectors like basmati rice, fertilisers, and airlines. Import-dependent industries face production disruptions and cost pressures. Higher energy prices could widen India's current account deficit and fuel inflation.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[8] Middle East tensions threaten oil, trade flows for India as crude jumps 8%
+    Source : Business Standard  |  Date: 2026-03-05T07:44:00+00:00
+    URL    : https://www.business-standard.com/finance/personal-finance/middle-east-tensions-threaten-oil-trade-flows-for-india-as-crude-jumps-8-126030500455_1.html
+    Content: With nearly 9 mn Indians residing in the Middle East - contributing 38% of India's total remittances - the region holds strategic importance for India.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[9] Crude oil tops $100 but petrol, diesel prices stay put: Govt shields Indian consumers for now
+    Source : ABP News  |  Date: 2026-03-09T05:21:31+00:00
+    URL    : https://www.msn.com/en-in/money/topstories/crude-oil-tops-100-but-petrol-diesel-prices-stay-put-govt-shields-indian-consumers-for-now/ar-AA1XNsFB
+    Content: India's retail fuel prices have remained unchanged despite a sharp surge in global crude oil prices above $100 per barrel, reflecting a temporary policy choice to shield consumers from immediate price shocks.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[10] Markets in wartime: Sectors to buy and avoid as the US-Iran conflict escalates
+    Source : Fortune India  |  Date: 2026-03-05T15:38:00+00:00
+    URL    : https://www.fortuneindia.com/markets/markets-in-wartime-sectors-to-buy-and-avoid-as-the-us-iran-conflict-escalates/130961
+    Content: As geopolitical tensions between the United States and Iran intensify, market experts are advising investors to reposition portfolios toward sectors that historically outperform during periods of conflict, while avoiding industries most vulnerable to rising commodity costs. According to a recent note titled Time and again: Geopolitical events are boon for investors by ICICI Direct, escalating tensions in the Middle East could have major ripple effects across global commodity markets and equities, particularly if crude oil supply routes face disruption. The brokerage said that the most critical risk lies around the Strait of Hormuz, a key global shipping corridor through which nearly one-fifth of the world’s oil supply passes. Any disruption to this route could trigger sharp spikes in oil prices and add volatility to global markets. Analysts say sectors linked to commodities and national security spending tend to perform well during wartime environments.
+----------------------------------------
+
+
+==================================================
+=== PHASE 3: LLM STOCK IMPACT ANALYSIS ===
+==================================================
+
+### TREND: Middle East Conflict Impact on Oil Prices and Supply Security
+
+**SUMMARY**
+- The Middle East conflict is disrupting global oil supply through the Strait of Hormuz, leading to potential supply shortages and price surges.
+- India, heavily reliant on imported oil, faces significant risks including fuel shortages, increased inflation, and economic strain.
+
+**BULLISH SECTORS**
+- **Energy Sector**: ONGC (ONGC.NS), Reliance Industries (RELIANCE.NS) - These companies may benefit from higher crude prices.
+- **Shipping Sector**: Shipping companies like Shipping Corporation of India (SCI.NS) could see increased demand for transporting oil.
+
+**BEARISH SECTORS**
+- **Consumer Discretionary**: Companies like Maruti Suzuki (MARUTI.NS), HDFC Bank (HDFCBANK.NS) - Higher fuel prices can reduce discretionary spending.
+- **Manufacturing**: Tata Motors (TATAMOTORS.NS), Hindustan Unilever (HINDUNILVR.NS) - Increased input costs can squeeze margins.
+
+**MAGNITUDE**
+- **High** - The potential for oil prices to surge to $200/bbl could have severe economic impacts.
+
+**TIME HORIZON**
+- **Medium (1-6 months)** - The immediate impact is seen in supply chain disruptions, with long-term effects depending on the duration of the conflict.
+
+### TREND: Consumer Inflation in India and Its Impact on Consumer Discretionary Sectors
+
+**SUMMARY**
+- Consumer inflation in India is rising, driven by food prices and fading base effects.
+- This trend could impact consumer spending and discretionary sectors, particularly those sensitive to price increases.
+
+**BULLISH SECTORS**
+- **Consumer Staples**: Companies like Amul (AMUL.NS), ITC (ITC.NS) - These sectors are less sensitive to inflation.
+- **Pharmaceuticals**: Dr. Reddy’s Laboratories (DRREDDY.NS), Cipla (CIPLA.NS) - Essential healthcare needs remain stable.
+
+**BEARISH SECTORS**
+- **Consumer Discretionary**: Maruti Suzuki (MARUTI.NS), HDFC Bank (HDFCBANK.NS) - Higher inflation can reduce discretionary spending.
+- **Retail**: Reliance Retail (RELIANCE.NS), Bharti Airtel (BHARTIARTL.NS) - E-commerce and telecom sectors may face reduced consumer spending.
+
+**MAGNITUDE**
+- **Medium** - Inflationary pressures are moderate but could escalate if supply chain disruptions persist.
+
+**TIME HORIZON**
+- **Short (< 1 month)** - Immediate impact on consumer spending and discretionary sectors.
+
+### TREND: Global Oil Price Fluctuations and Their Impact on Indian Airlines and Shipping
+
+**SUMMARY**
+- Global oil price fluctuations are affecting Indian airlines and shipping due to increased input costs and supply chain disruptions.
+- The Middle East conflict is exacerbating these issues, leading to higher fuel prices and operational challenges.
+
+**BULLISH SECTORS**
+- **Energy Sector**: ONGC (ONGC.NS), Reliance Industries (RELIANCE.NS) - Higher crude prices can boost profits.
+- **Shipping Sector**: Shipping Corporation of India (SCI.NS) - Increased demand for transporting oil.
+
+**BEARISH SECTORS**
+- **Airlines**: IndiGo (INDIGO.NS), Air India (AIRINDIA.NS) - Higher fuel costs can squeeze margins.
+- **Manufacturing**: Tata Motors (TATAMOTORS.NS), Hindustan Unilever (HINDUNILVR.NS) - Increased input costs can reduce profitability.
+
+**MAGNITUDE**
+- **High** - The potential for oil prices to surge to $200/bbl could severely impact airlines and shipping.
+
+**TIME HORIZON**
+- **Medium (1-6 months)** - Immediate supply chain disruptions with long-term effects depending on the conflict duration.
+
+### PORTFOLIO SIGNAL
+
+**Urgency Ranking:**
+1. Middle East Conflict Impact on Oil Prices and Supply Security
+2. Global Oil Price Fluctuations and Their Impact on Indian Airlines and Shipping
+3. Consumer Inflation in India and Its Impact on Consumer Discretionary Sectors
+
+**Allocation Bias:**
+- **Overweight Energy**: ONGC (ONGC.NS), Reliance Industries (RELIANCE.NS)
+- **Overweight Shipping**: Shipping Corporation of India (SCI.NS)
+- **Underweight Consumer Discretionary**: Maruti Suzuki (MARUTI.NS), HDFC Bank (HDFCBANK.NS)
+- **Underweight Airlines**: IndiGo (INDIGO.NS), Air India (AIRINDIA.NS)
+
+This allocation aims to capitalize on the potential upside in energy and shipping while mitigating risks in sectors likely to suffer from rising oil prices and inflation.

@@ -5,7 +5,7 @@ from src.data.market.yfinance_client import fetch_price_data
 from src.data.news.duckduckgo_news import fetch_web_news
 from src.data.news.reddit_scraper import fetch_reddit_chatter
 from src.data.news.google_news_search import scrape_trending_news
-
+from src.data.news.deep_researcher import generate_search_queries, execute_deep_dive, analyse_stock_impact
 def run_agent(ticker, period="5d", start=None, end=None, indicator=None, charts=False, report=False, trending=False):
     """The core engine that runs the analysis and saves it to a temp file."""
     temp_filename = f"temp_{ticker}_dossier.txt"
@@ -103,26 +103,47 @@ if __name__ == "__main__":
         target_tickers = [args.ticker]
     if args.trending and not target_tickers:
         print("\n==================================================")
-        print("🚀 INITIALIZING AUTONOMOUS RESEARCH AGENT (GLOBAL SCOUT)")
+        print("🚀 INITIALIZING AUTONOMOUS RESEARCH AGENT")
         print("==================================================\n")
         
-        print("[+] Scraping Global Trending News... Saving to file.")
+        # Define where the memory file lives
+        memory_filepath = os.path.join("outputs", "temp_global_trends.txt")
+        
+        # Ensure outputs folder exists
+        os.makedirs("outputs", exist_ok=True)
+        if os.path.exists(memory_filepath):
+            os.remove(memory_filepath)
+        
+        # --- PHASE 1: SCOUTING ---
         trending_news = scrape_trending_news()
+        with open(memory_filepath, 'w', encoding='utf-8') as f:
+            f.write("=== GLOBAL MACRO TRENDS ===\n")
+            f.write(trending_news)
+        print(f"    [💾] Phase 1 Data saved to {memory_filepath}")
         
-        # Save it to a global temp file
-        temp_filename = "temp_global_trends.txt"
-        filepath = os.path.join("outputs", temp_filename)
-        if os.path.exists(filepath):
-            os.remove(filepath)
+        # --- PHASE 2 & 3: STRATEGIZE AND DEEP DIVE ---
+        llm_queries = generate_search_queries(memory_filepath)
+        
+        if llm_queries:
+            # Note: We now capture the 'all_trends' returned by execute_deep_dive
+            all_trends = execute_deep_dive(llm_queries, memory_filepath)
             
-        append_to_file(temp_filename, "GLOBAL MACRO TRENDS", trending_news)
-        
-        print(f"    [💾] Data successfully saved to outputs/{temp_filename}")
+            # --- PHASE 4: LLM STOCK IMPACT ANALYSIS ---
+            if all_trends:
+                final_analysis = analyse_stock_impact(all_trends, memory_filepath)
+                
+                print("\n==================================================")
+                print("📊 FINAL PORTFOLIO SIGNAL & VERDICT")
+                print("==================================================")
+                print(final_analysis)
+                print("==================================================\n")
+                
+            print("\n[!] AGENT RESEARCH COMPLETE.")
+            print(f"Open {memory_filepath} to view the full Intelligence Dossier.")
+        else:
+            print("❌ Error: LLM failed to generate queries.")
+            
         exit(0)
-        
-    else:
-        print("❌ Error: You must provide at least one ticker using --ticker or --tickers.")
-        exit(1)
 
     # Run the agent for every ticker provided
     for ticker in target_tickers:
