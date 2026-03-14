@@ -192,6 +192,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 TODO list:
 Add a lot more scrapers than yf...like reddit(may bee)....other dorking like nyt, bloomberg , etc.....keep on adding legitimate sites here
+addition: for now if i run with --trending arg it fetches trending news from google news and uses those titles and some content(1000chars) and crafts search queries...
+and it uses these search queries and gathers more data in each trend and put's all together and goal is to send each trend to llm for decision making.
 ## Author
 
 **Nithylesh** — [GitHub Profile](https://github.com/Nithylesh)
