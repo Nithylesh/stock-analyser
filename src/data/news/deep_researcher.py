@@ -7,7 +7,7 @@ from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(find_dotenv())
 from src.data.news.google_news_search import fetch_article_content
-
+from src.data.market.yfinance_client import get_comprehensive_stock_data
 
 # ─────────────────────────────────────────────
 # STEP 1 — Ask LLM to pick the top trends
@@ -225,6 +225,110 @@ def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
     print("\n✅ DONE. Full report saved to:", filepath)
     return analysis
 
+def extract_tickers_from_analysis(analysis_text: str) -> list[str]:
+    """Asks the LLM to extract the specific stock tickers it mentioned in the analysis."""
+    print("[5/6] 🔎 EXTRACTING: Parsing tickers from the macro analysis...")
+    
+    client = OpenAI(
+        base_url="https://integrate.api.nvidia.com/v1",
+        api_key=os.getenv("LLM_API_KEY"),
+    )
+
+    system_prompt = """
+    You are a data extraction bot. Read the provided stock market analysis and extract 
+    ALL valid stock ticker symbols mentioned. 
+    
+    Output ONLY a valid JSON object in this format:
+    {
+      "tickers": ["AAPL", "NVDA", "XOM"]
+    }
+    If no tickers are found, return {"tickers": []}.
+    """
+
+    response = client.chat.completions.create(
+        model="qwen/qwen2.5-coder-32b-instruct",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": analysis_text},
+        ],
+        response_format={"type": "json_object"},
+        temperature=0.0,
+    )
+
+    json_response = json.loads(response.choices[0].message.content)
+    return json_response.get("tickers", [])
+
+
+# ─────────────────────────────────────────────
+# STEP 6 — Predict Tomorrow's Movers
+# ─────────────────────────────────────────────
+def predict_tomorrows_movers(analysis_text: str, tickers: list[str], filepath: str) -> str:
+    """Fetches yfinance data for tickers and asks LLM for next-day predictions."""
+    if not tickers:
+        print("[6/6] ⏭️ SKIPPING: No tickers found to predict.")
+        return ""
+
+    print(f"[6/6] 🔮 PREDICTING: Gathering financials and forecasting tomorrow's open for {len(tickers)} tickers...")
+    
+    # 1. Fetch financial data for all extracted tickers
+    financial_data = []
+    for ticker in tickers:
+        data = get_comprehensive_stock_data(ticker, days=5)
+        if data:
+            financial_data.append(data)
+            
+    # 2. Ask the LLM to make the prediction
+    client = OpenAI(
+        base_url="https://integrate.api.nvidia.com/v1",
+        api_key=os.getenv("LLM_API_KEY"),
+    )
+
+    system_prompt = """
+    You are a high-frequency trading algorithm's final decision module. 
+    You will be provided with:
+    1. A broader macro-economic news analysis.
+    2. Real technical and fundamental data (recent prices, volume, P/E, moving averages) for specific stocks.
+
+    Based on the convergence of the NEWS SENTIMENT and the TECHNICAL REALITY, predict if each stock 
+    will increase or decrease TOMORROW. 
+
+    For each stock, provide:
+    - TICKER
+    - DIRECTION: (UP, DOWN, or NEUTRAL)
+    - CONFIDENCE: (0-100%)
+    - RATIONALE: 2 sentences max explaining why (e.g., "News is bullish, and stock is bouncing off its 50-day average on high volume.")
+    
+    Be objective. If the news is good but the stock is massively overextended (e.g., way above 52-week high with dropping volume), predict a pullback.
+    """
+
+    user_payload = f"MACRO NEWS ANALYSIS:\n{analysis_text}\n\nTECHNICAL/FINANCIAL DATA:\n{json.dumps(financial_data, indent=2)}"
+
+    response = client.chat.completions.create(
+        model="qwen/qwen2.5-coder-32b-instruct",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_payload},
+        ],
+        temperature=0.3,
+        max_tokens=2000,
+    )
+
+    predictions = response.choices[0].message.content
+
+    # 3. Append to report
+    report_section = (
+        "\n\n" + "=" * 50 + "\n"
+        "=== PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS ===\n"
+        + "=" * 50 + "\n\n"
+        + predictions
+        + "\n"
+    )
+
+    print(f"    [💾] Appending Predictions to {filepath}...")
+    with open(filepath, "a", encoding="utf-8") as f:
+        f.write(report_section)
+
+    return predictions
 
 # ─────────────────────────────────────────────
 # Orchestrator — wire everything together
@@ -233,7 +337,11 @@ def run_pipeline(filepath: str = "stock-analyser/outputs/temp_global_trends.txt"
     queries    = generate_search_queries(filepath)
     all_trends = execute_deep_dive(queries, filepath)
     analysis   = analyse_stock_impact(all_trends, filepath)
-    return analysis
+
+    tickers     = extract_tickers_from_analysis(analysis)
+    predictions = predict_tomorrows_movers(analysis, tickers, filepath)
+    print("\n✅ DONE. Full predictive report saved to:", filepath)
+    return predictions
 
 
 if __name__ == "__main__":

@@ -1,11 +1,11 @@
 import argparse
 import os
 # Import your custom modules
-from src.data.market.yfinance_client import fetch_price_data
 from src.data.news.duckduckgo_news import fetch_web_news
 from src.data.news.reddit_scraper import fetch_reddit_chatter
 from src.data.news.google_news_search import scrape_trending_news
-from src.data.news.deep_researcher import generate_search_queries, execute_deep_dive, analyse_stock_impact
+from src.data.news.deep_researcher import generate_search_queries, execute_deep_dive, analyse_stock_impact, extract_tickers_from_analysis, predict_tomorrows_movers
+
 def run_agent(ticker, period="5d", start=None, end=None, indicator=None, charts=False, report=False, trending=False):
     """The core engine that runs the analysis and saves it to a temp file."""
     temp_filename = f"temp_{ticker}_dossier.txt"
@@ -17,14 +17,6 @@ def run_agent(ticker, period="5d", start=None, end=None, indicator=None, charts=
         
     print(f"\n========== AGENT TARGET: {ticker} ==========")
     print(f"[+] Initializing fresh memory file: {temp_filename}")
-
-    # 1. Market Data
-    print(f"[+] Fetching Market Data... Saving to file.")
-    prices = fetch_price_data(ticker, days=5) 
-    price_text = ""
-    for p in prices:
-        price_text += f"{p['date']}: Closing Price -> ${p['close_price']}\n"
-    append_to_file(temp_filename, "MARKET DATA", price_text)
 
     # 2. News Data
     print("[+] Browsing Live Web News... Saving to file.")
@@ -136,6 +128,19 @@ if __name__ == "__main__":
                 print("📊 FINAL PORTFOLIO SIGNAL & VERDICT")
                 print("==================================================")
                 print(final_analysis)
+                print("==================================================\n")
+
+                print("==================================================")
+                print("🔮 PHASE 4: PREDICTING TOMORROW'S MOVERS (WITH YFINANCE)")
+                print("==================================================")
+                
+                # 1. Extract the tickers from the analysis text
+                tickers = extract_tickers_from_analysis(final_analysis)
+                
+                # 2. Feed them into the predictor to get the UP/DOWN JSON
+                predictions = predict_tomorrows_movers(final_analysis, tickers, memory_filepath)
+                
+                print(predictions)
                 print("==================================================\n")
                 
             print("\n[!] AGENT RESEARCH COMPLETE.")
