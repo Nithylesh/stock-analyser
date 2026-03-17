@@ -1,0 +1,85 @@
+==================================================
+=== RE-PREDICTION WITH NEW TECHNICALS ===
+==================================================
+
+### Predictions Based on Macro News and Technical Data
+
+#### 1. **ICICIBANK.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bullish for financial services, but the RSI is below 40 indicating oversold conditions, and the MACD is bearish. The stock is also below its 50-SMA, suggesting a potential downward trend.
+
+#### 2. **HEROMOTOCO.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for consumer discretionary sectors, and the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.
+
+#### 3. **OIL.NS**
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bearish for energy sectors, but the RSI is neutral, and the stock is above its 50-SMA. The MACD is bearish, but the stock is not significantly oversold.
+
+#### 4. **M&M.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for consumer discretionary sectors, and the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.
+
+#### 5. **BPCL.NS**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bearish for energy sectors, but the RSI is oversold, suggesting a potential bounce. The MACD is bearish, but the stock is significantly below its 50-SMA, indicating a possible oversold condition.
+
+#### 6. **TCS.NS**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for technology sectors, and the RSI is oversold, suggesting a potential bounce. The MACD is bullish, indicating a possible upward trend.
+
+#### 7. **BHARTIARTL.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bearish for communication services sectors, and the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.
+
+#### 8. **ONGC.NS**
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bearish for energy sectors, but the RSI is neutral, and the stock is above its 50-SMA. The MACD is bearish, but the stock is not significantly oversold.
+
+#### 9. **INFY.NS**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bullish for technology sectors, and the RSI is oversold, suggesting a potential bounce. The MACD is bullish, indicating a possible upward trend.
+
+#### 10. **VEDL.NS**
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bearish for basic materials sectors, but the RSI is neutral, and the stock is above its 50-SMA. The MACD is bearish, but the stock is not significantly oversold.
+
+#### 11. **WIPRO.NS**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for technology sectors, and the RSI is oversold, suggesting a potential bounce. The MACD is bullish, indicating a possible upward trend.
+
+#### 12. **HDFCBANK.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for financial services, but the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.
+
+#### 13. **MARUTI.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for consumer discretionary sectors, and the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.
+
+#### 14. **RELIANCE.NS**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bullish for energy sectors, and the RSI is neutral. The MACD is bullish, indicating a possible upward trend. The stock is slightly below its 50-SMA, but the overall sentiment is positive.
+
+#### 15. **TATASTEEL.NS**
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bearish for basic materials sectors, but the RSI is neutral, and the stock is above its 50-SMA. The MACD is bearish, but the stock is not significantly oversold.
+
+#### 16. **AXISBANK.NS**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for financial services, but the RSI is below 50 indicating neutral to oversold conditions. The MACD is bearish, and the stock is below its 50-SMA.

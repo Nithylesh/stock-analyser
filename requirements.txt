@@ -6,3 +6,4 @@ pip install beautifulsoup4
 # pip install gnews
 pip install groq
 pip install python-dotenv
+pip install pandas-ta
