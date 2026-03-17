@@ -146,6 +146,15 @@ stock-analyser/
 │
 └── outputs/             # Generated charts and reports (gitignored)
 ```
+---
+## How to Run(currently)
+python analyzer.py --trending (this picks the recent stocks wrt to trending news and takes financial stock data too and sends everything to LLM....this is kinda a very basic summary doesn't exactly do that)
+
+evaluator.py - Parses yesterday's predictions and grades them against today's actual market data
+
+run analyzer first and run evaluator next day to see how good the result is..
+P.S tried it once and everything was a miss so 100% ig
+---
 
 ---
 
