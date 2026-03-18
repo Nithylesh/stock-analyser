@@ -1,52 +1,52 @@
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: Stock Market News Today Highlights: Nifty Sensex, Extend Rally For Second Consecutive Session, Crude Oil Prices Surge On Supply Route Concerns - NDTV Profit
-Context: The Indian stock market benchmark indices, Sensex and Nifty 50, are likely to open higher on Wednesday, despite mixed cues from global markets. The trends on Gift Nifty also indicate a positive start for the Indian benchmark index. The Gift Nifty was ... Frontline indices the Sensex and the Nifty 50 ended mixed on Wednesday, February 11, as investors booked some profits in select heavyweights following healthy buying over the last three consecutive sessions. The Sensex ended 40 points, or 0.05%, lower at ... The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open higher on Wednesday amid mixed global market cues. Asian markets traded higher, while the US stock market ended mixed overnight, with the Dow Jones posting its third ...
+Headline: Sensex Today, Stock Market Highlights: Sensex, Nifty End In Green For 3rd Straight Day - NDTV
+Context: Markets completed a hat-trick as both Sensex and Nifty ended in green for the third day on Wednesday. At the close, Sensex was trading points 633 higher at 76,704, while the Nifty 50 was at 23,777, climbing 196 points.
 ----------------------------------------
 
 Article 2:
-Headline: Govt says OMCs begin importing LPG from US amid Israel-US Iran war - Moneycontrol.com
-Context: India is securing liquefied petroleum gas (LPG) supplies from the international portfolios of global companies, including UAE’s Adnoc (Abu Dhabi National Oil Company), Sonatrach, Algeria’s state-run oil and gas company, and others amid the war between US, Israel and Iran, a top government source aware of the development told Moneycontrol . The central government has also issued an order today to hike the LPG production by adjusting the product mix. “We are doubling down on our efforts to increase our sourcing of LPG from alternate sources,” the official said on the condition of anonymity. The official revealed that deliveries of LPG from Australia, Algeria, Canada and the US are in progress. The escalating tensions in the Middle East have not only put India’s crude oil supplies at risk but have also pressured the country’s LPG flows, with 80–85% of its LPG needs, with the majority sourced from Gulf suppliers, almost entirely transiting via the Strait of Hormuz.
+Headline: Breaking: Indian Rupee slides to all-time lows at 93.00 against US Dollar - FXStreet
+Context: At the interbank foreign exchange, the local unit opened at 92.42 against the greenback and traded in the range of 92.41-92.48 for most of the session before losing ground at the fag end to close at its record low of 92. On Wednesday, the Indian rupee dropped below the 91.5 mark against the US dollar for the first time, marking a significant decline, as reported by various sources. The currency reached an unprecedented low of 91.7 at around 3:30 PM. This decline was ... The rupee hit an all-time low of 92 on Friday and recovered marginally to settle at 91.88 (provisional) against the American currency, amid selling pressure from foreign funds and risk-off sentiment in global markets. Forex traders said the Indian rupee ...
 ----------------------------------------
 
 Article 3:
-Headline: 2026 Renault Duster Colours Explained: Which Shades Are Available With Each Variant - CarDekho
-Context: Renault have priced the 2026 Duster between Rs 10.29 lakh and can go up to Rs 18.49 lakh (ex-showroom), coming with two turbo-petrol engine options. A strong hybrid is expected to come in the latter ... The Renault Duster is back in action and has been launched at an attractive price of Rs 10.29 lakh ex-showroom. Find out details on design, features and engine options that are available in the ... 2026 Renault Duster vs old Duster: Renault has officially unveiled the 2026 Renault Duster on January 26, 2026, marking the return of its popular mid-size SUV to the Indian market after a gap of ...
+Headline: Macklem: Monetary Policy Decision Press Conference Opening Statement - Forex Factory
+Context: Good morning. I'm pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss today's monetary policy decision. Today, Governing Council maintained the policy interest rate at 2.25%. We've held the policy rate at this level since October.
 ----------------------------------------
 
 Article 4:
-Headline: Indian crude hits $137, up 93% since start of conflict - The Times of India
-Context: The cost of crude for Indian refiners has soared 93% since the conflict in the Gulf broke out on Feb 28 and hit $136.56 a ... March 9 (Reuters) - Indian refiners slumped on Monday as a widening U.S.-Israeli war with Iran pushed Brent crude to a nearly four-year high, threatening their near-term earnings and raising the risk ...
+Headline: Stock Market Today: Major Indexes Pull Back Ahead of Fed Rate Decision; Inflation Data Lands Hot, Oil Prices Rise; Dow Drops 400 Points - Investopedia
+Context: Stocks fell on Wednesday after a hotter-than-expected producer price index reading and as traders awaited the Federal Reserve's rate policy decision. The Dow Jones Industrial Average lost 401 points, or 0.9%. The S&P 500 fell 0.5%, as did the Nasdaq Composite . The producer price index — which tracks the change in wholesale prices — rose 0.7% in February, well above the 0.3% that economists polled by Dow Jones had estimated. The report shows that inflation was already in a precarious spot prior to the Iran war breaking out — an event that has heightened stagflation fears amid rising oil prices. "The hotter than expected number is specific to tariffs," Todd Schoenberger, CIO at CrossCheck Management, said, noting that metals, industrial inputs and manufacturing costs are all seeing higher prices. "This is structural inflation, not temporary, and is likely going to impact monetary policy deep into the third quarter.
 ----------------------------------------
 
 Article 5:
-Headline: Adani Enterprises' resolution plan for Jaiprakash Associates gets NCLT nod - The Economic Times
-Context: Jaiprakash Associates, once one of India's largest infrastructure conglomerates, owes creditors 550 billion rupees. Insolvency proceedings under India's bankruptcy laws were initiated last June, making it one of the biggest ongoing bankruptcy cases in the ... Adani Enterprises secured National Company Law Tribunal approval for its resolution plan for Jaiprakash Associates. The tribunal issued an oral order on March 17, 2026, with detailed disclosures to follow upon the written order. The National Company Law Tribunal has approved Adani Enterprises Ltd's Rs 14,535 crore bid to acquire Jaiprakash Associates Ltd through insolvency proceedings. The resolution plan received strong support from creditors,
+Headline: RIL appoints 17 bankers for a potential Rs 40,000 crore Jio Platforms IPO - The Economic Times
+Context: Mukesh Ambani's Reliance Industries Ltd (RIL) currently reigns as India's most valuable listed company with a market capitalization of approximately Rs 20.8–21 lakh crore (~$250 billion). But all eyes ... Jio Platforms picks Morgan Stanley and Goldman as lead bankers for IPO: Jio Platforms, the digital and telecom arm of Reliance Industries, has set the ball rolling for its initial public offering (IPO ... Jio Platforms has appointed 17 global and domestic investment banks, including Goldman Sachs and Morgan Stanley, to begin work on its mega IPO. With valuation estimates near $180 billion, even a 2.5% float could become India's largest-ever public offering.
 ----------------------------------------
 
 Article 6:
-Headline: Bank of Baroda chases INR 2.21 lakh crore - Daily Pioneer
-Context: Full context unavailable for this story.
+Headline: Fed decision looms large amid Iran war; Micron to report - what’s moving markets - Investing.com
+Context: Investing.com - Futures linked to the main U.S. stock indices point into the green, ahead of a Federal Reserve interest rate decision that will come amid ongoing fighting in the Middle East. Oil drops ... Investing.com - U.S. stock futures point up on Wednesday, with tensions intensifying in the Middle East as fighting between Israel and Iran enters a sixth day. Oil prices retreat marginally after ...
 ----------------------------------------
 
 Article 7:
-Headline: 'Nimbu garam karke daala hai kya': Bengaluru's Theo Cafe ‘gas crisis charge’ on lemonade bill triggers bu - The Times of India
-Context: A city cafe's viral bill, featuring a 'gas crisis charge' for mint lemonades, sparked outrage and humor online. The cafe owner clarified it was a system error due to LPG shortages, stating the customer wasn't actually charged. A Bengaluru cafe's bill for lemonade sparked online debate after adding a "Gas Crisis Charge." The Rs 17.01 fee, a 5% addition, appeared alongside the Rs 358 cost of two lemonades and GST, despite an Rs 18 discount. Reacting to the post, a user wrote, "A lemonade costs Rs 10 on the road and is free of cost at home."
+Headline: Oil Prices Surge as Brent-WTI Spread Blows Out on Iran Supply Risk - Crude Oil Prices Today | OilPrice.com
+Context: National Energy Dominance Council executive director Jarrod Agen discusses the Iran conflict’s impact on oil prices and efforts to restock U.S. munitions on ‘The Bottom Line.’ Oil prices passed $100 per barrel on Sunday as the U.S.-Israeli war against Iran disrupts production and shipping in the Middle East. This is the first time in nearly four years that oil prices reached this mark. The price for a barrel of Brent crude, the international standard, rose to more than $107 after trading resumed on the Chicago Mercantile Exchange, a 16.5% jump from its Friday closing price of $92.69. West Texas Intermediate, produced in the U.S., was up to about $106.22 a barrel, a 16.9% increase from when it closed on Friday at $90.90. GAS PRICES SURGE AS IRAN CONFLICT RATTLES GLOBAL OIL MARKETS, PUSHING US CRUDE ABOVE $90 Oil prices passed $100 per barrel on Sunday as the U.S.-Israeli war against Iran disrupts production and shipping.
 ----------------------------------------
 
 Article 8:
-Headline: Nifty IT index falls over 2% to near 3-year low; Wipro, Infosys, TCS among top Nifty losers - Moneycontrol.com
-Context: IT stocks came under sharp selling pressure on Tuesday morning, with the Nifty IT index falling over 2 percent to hover near a three-year low, as heavyweights across the sector dominated the Nifty top losers list. Benchmark indices were swinging between mild gains and losses in the morning trade. At 09:33 am, the Sensex was down 93 points or 0.1 percent at 75,410, while the Nifty slipped 32 points to 23,377. Market breadth remained positive, with 1,632 shares advancing against 1,363 declines. The Nifty IT index declined 2.33 percent, making it the worst-performing sectoral index in early trade. All major IT stocks were under pressure. Wipro fell sharply by over 3 percent, emerging as the top loser on the Nifty. Infosys dropped around 2.2 percent, while HCL Technologies declined about 2.1 percent. TCS slipped nearly 1.8 percent, and Tech Mahindra was down over 1.2 percent, placing all five IT majors among the top losers on the benchmark index.
+Headline: Modest price pressure on gold, silver ahead of PPI, FOMC conclusion - KITCO
+Context: After an extraordinary rally this year that pushed prices to record highs, gold and silver have suddenly hit a rough patch. At the time of writing, at 12.30 pm, MCX gold wa priced at Rs 153,950, up by ...
 ----------------------------------------
 
 Article 9:
-Headline: Gold prices rise above $5,000/oz with Iran war, central banks in focus - Investing.com
-Context: Investing.com-- Gold prices rose above key levels in Asian trade on Tuesday with focus remaining on oil prices, the U.S.-Israel war on Iran, and a host of upcoming central bank me ... Investing.com - Gold prices retreated on Monday, but traded above their session lows, as an escalation in the U.S.-Israel war with Iran spurred flows into the dollar and oil. Get
+Headline: Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? - The Times of India
+Context: IT stocks crashed another 6% in intraday trading on Monday, March 2, after the US-Iran war, extending the abysmal performance ... After threats from the emergence of artificial intelligence (AI) intensified on Anthropic's launch of workplace productivity tools, shares of IT stocks like Infosys, Wipro, HCL Tech, TCS and ... Mphasis, Infosys, LTIMindtree, HCL Technologies and Tata Consultancy Services (TCS) were the top gainers on the Nifty IT index. All the index constituents rose in the range of 2%-4%.
 ----------------------------------------
 
 Article 10:
-Headline: Ozempic Patent Expiry Heralds Weight-Loss Drug Boom in India - Bloomberg.com
-Context: Swati Pradhan sees about 12 obesity patients a day at her small clinic in southern Mumbai. She expects this number to at least double from this month as Indian drug makers prepare to launch off-patent ... Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world ...
+Headline: Veteran analyst sends blunt message on Nvidia stock after GTC - thestreet.com
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 
@@ -57,167 +57,197 @@ Context: Swati Pradhan sees about 12 obesity patients a day at her small clinic 
 
 
 ########################################
-TREND: Crude Oil Price Surge Due to Middle East Conflict
-LLM Search Query: impact of crude oil price surge on Indian refining sector and supply chain disruptions
-Articles scraped: 10
+TREND: Indian Rupee Sliding Against USD and Its Impact on Exports and Imports in India
+LLM Search Query: impact of rupee depreciation on Indian exports and imports 2023
+Articles scraped: 9
 ########################################
 
-[1] All eyes on oil stockpile as war throws a spanner in supply chain
-    Source : Mint  |  Date: 2026-03-04T11:30:00+00:00
-    URL    : https://www.livemint.com/industry/energy/all-eyes-on-oil-stockpile-as-war-throws-a-spanner-in-supply-chain-iran-strait-of-hormuz-persian-gulf-11772546068160.html
-    Content: New Delhi is keeping a close eye on its fuel and oil stocks, as disruption in the Strait of Hormuz throws global oil supply chains into disarray. According to two top officials aware of the matter, state-run refiners have crude oil stocks which will last around 25 days, plus petrol and diesel for another 25 days. India also has around 25 days of cooking gas stock, and liquified natural gas stock of up to 21 days, the people said, even as state-run refiners scout the world for new gas contracts. All this is in addition to the country's strategic petroleum reserves (SPR). India’s existing SPR capacity stands at 5.3 million tonnes, enough to meet just 9.5 days of the country’s crude oil needs. As of October 2024, the latest date for which data is available, about 3.6 million tonnes were stored in underground SPR caverns.
+[1] India’s import bill is likely to rise. Courtesy love for gold & gadgets amid rupee pain
+    Source : MSN  |  Date: 2025-12-08T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/india-s-import-bill-is-likely-to-rise-courtesy-love-for-gold-gadgets-amid-rupee-pain/ar-AA1RZz2U?ocid=BingNewsVerp
+    Content: India’s import bill is rising sharply once more, driven by a combination of a weakening rupee, elevated global prices for gold and crude oil, and a persistent dependence on imported electronic ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] Iran war may disrupt chemical supply chains; stay stock selective: Emkay
-    Source : Business Standard  |  Date: 2026-03-05T08:34:00+00:00
-    URL    : https://www.business-standard.com/markets/news/iran-war-impact-indian-chemical-sector-emkay-126030500526_1.html
-    Content: Iran-Israel-US war may disrupt chemical supply chains and raise prices, says Emkay Global. Brokerage advises investors to pick chemical stocks with lower Middle East exposure  [DDG snippet — full article blocked]
+[2] Falling rupee makes imports costlier, fuels inflation: Experts
+    Source : MSN  |  Date: 2025-12-03T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/economy/falling-rupee-makes-imports-costlier-fuels-inflation-experts/ar-AA1RIc7V?ocid=BingNewsVerp
+    Content: A depreciating rupee will help exporters and the IT sector, but make imports costlier, thus fuelling inflation, according to experts. As the rupee plunged below 90-mark to a US dollar, opposition ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] Market this Week: Gulf Shock Reverberates Through India's Supply Chain
-    Source : Moneylife  |  Date: 2026-03-06T12:14:00+00:00
-    URL    : https://www.moneylife.in/article/market-this-week-gulf-shock-reverberates-through-indias-supply-chain/79865.html
-    Content: The closure of the Strait of Hormuz (SoH) following escalating US-Israel-Iran tensions has delivered a supply shock of structural proportions to India's energy sector  [DDG snippet — full article blocked]
+[3] Rupee at 92/$: Imports, overseas education, travel hurt; exporters gain
+    Source : MSN  |  Date: 2026-01-24T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/rupee-at-92-imports-overseas-education-travel-hurt-exporters-gain/ar-AA1UUXD8?ocid=BingNewsVerp
+    Content: New Delhi: The rupee hitting a historic low of 92 against the US dollar on January 23 is likely to make imports ranging from crude oil to electronic goods, overseas education and foreign travel ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[4] Aromatic hydrocarbons surge! Private refining giants like Rongsheng and Hengyi demonstrate significant advantages.
-    Source : ChemNet News  |  Date: 2026-03-13T02:36:00+00:00
-    URL    : https://news.chemnet.com/news-3187.html
-    Content: Widespread Reduction in Operating Rates at Domestic and International Refineries, Significant Tightening of Aromatics Supply Currently, the scope of operating rate reductions at refineries in Asia continues to expand,  [DDG snippet — full article blocked]
+[4] Rupee slides to record low: How currency depreciation impacts key sectors
+    Source : MSN  |  Date: 2025-12-14T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/rupee-slides-to-record-low-how-currency-depreciation-impacts-key-sectors/ar-AA1SmtyF?ocid=BingNewsVerp
+    Content: The Indian rupee has slipped to a fresh record low of 90.72 against the US dollar on Monday, underscoring persistent currency pressure and marking the eighth consecutive year of sustained weakness.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Middle East on the boil after Khamenei’s death: What does it mean for India’s trade, exports, crude oil & LPG supply?
-    Source : MSN  |  Date: 2026-02-28T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/economy/middle-east-on-the-boil-after-khamenei-s-death-what-does-it-mean-for-india-s-trade-exports-crude-oil-lpg-supply/ar-AA1XjnJT?ocid=BingNewsVerp
-    Content: What will be the impact of the ongoing tensions in the Middle East on India’s trade, exports, crude oil and LPG supply? Growing geopolitical tensions in the Middle East following military strikes by ...  [DDG snippet — full article blocked]
+[5] Rupee tumbles to record low on Mideast war, central bank likely steps in
+    Source : Reuters on MSN  |  Date: 2026-03-03T18:30:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/rupee-tumbles-to-record-low-on-mideast-war-central-bank-likely-steps-in/ar-AA1XuAWH?ocid=BingNewsVerp
+    Content: By Jaspreet Kalra and Nimesh Vora MUMBAI, March 4 (Reuters) - The Indian rupee weakened past 92 per dollar for the first time ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Middle East crisis may hit trade, LNG-dependent sectors if disruption persists: Crisil
-    Source : The Economic Times on MSN  |  Date: 2026-03-05T17:45:02+00:00
-    URL    : https://www.msn.com/en-in/news/world/middle-east-crisis-may-hit-trade-lng-dependent-sectors-if-disruption-persists-crisil/ar-AA1XzmFU?ocid=BingNewsVerp
-    Content: A prolonged war in the Middle East poses risks to Indian sectors like basmati rice, fertilisers, and airlines.  [DDG snippet — full article blocked]
+[6] SBI Research sees rupee pain lasting 6 more months, to claw back to 87 in H2 '26
+    Source : MSN  |  Date: 2025-12-17T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/sbi-research-sees-rupee-pain-lasting-6-more-months-to-claw-back-to-87-in-h2-26/ar-AA1SAENK?ocid=BingNewsVerp
+    Content: MUMBAI: As the rupee plumbs new lows almost every day, the economists at the nation’s largest lender SBI has said the pain for the unit will last at least six more months and that the currency is ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] Will oil prices go up in India as the Iran-Israel war intensifies and Brent crosses $80? Here’s what we know so far
-    Source : The Economic Times on MSN  |  Date: 2026-03-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/will-oil-prices-go-up-in-india-as-the-iran-israel-war-intensifies-and-brent-crosses-80-here-s-what-we-know-so-far/ar-AA1Xqmw1?ocid=BingNewsVerp
-    Content: Rising Gulf tensions have pushed global crude oil prices up by 9-10%, with Brent crude crossing $80 per barrel. Despite this, ...  [DDG snippet — full article blocked]
+[7] Indian rupee weakness to continue through 2026: Report
+    Source : MSN  |  Date: 2025-12-26T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/indian-rupee-weakness-to-continue-through-2026-report/ar-AA1T6lrs?ocid=BingNewsVerp
+    Content: New Delhi [India], December 27 (ANI): The Indian rupee is expected to show more weakness going ahead into 2026, according to a report by MUFG, a global financial group. In a report earlier this month, ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] Oil Price Shock Forces India's Top Refiners to Suspend Fuel Credit
-    Source : OilPrice.com  |  Date: 2026-03-17T12:30:00+00:00
-    URL    : https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Forces-Indias-Top-Refiners-to-Suspend-Fuel-Credit.html
-    Content: India's state-controlled refiners have started demanding advance payments for fuel from retailers as the Middle East war causes crude prices to soar, chokes supply, and forces the government to cut commercial LPG consumption.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[9] Crude oil back above $90 a barrel. How elevated energy prices may impact various Indian sectors?
-    Source : Mint  |  Date: 2026-03-11T10:17:56+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/crude-oil-back-above-90-a-barrel-how-elevated-energy-prices-may-impact-various-indian-sectors/ar-AA1YpPew
-    Content: Crude oil prices surged to nearly $120 a bbl due to the US-Iran conflict, disrupting Middle Eastern energy production. Prices have fluctuated significantly, impacting global markets and raising concerns over economic repercussions,  [DDG snippet — full article blocked]
-----------------------------------------
-
-[10] Explainer-How persistently high oil prices could impact India's vulnerable economy
-    Source : Reuters  |  Date: 2026-03-12T07:34:17+00:00
-    URL    : https://www.msn.com/en-us/money/markets/explainer-how-persistently-high-oil-prices-could-impact-indias-vulnerable-economy/ar-AA1Ys09Q
-    Content: MUMBAI, March 12 (Reuters) - India's external balance and government finances could be hit if oil prices stay high for an extended period, economists have said, as the Iran war pushes up oil import costs and the subsidies needed to keep key commodities affordable.  [DDG snippet — full article blocked]
-----------------------------------------
-
-
-########################################
-TREND: IT Sector Decline Due to Market Sentiment
-LLM Search Query: specific factors affecting Nifty IT index decline and impact on major IT companies
-Articles scraped: 4
-########################################
-
-[1] Rs 3 lakh crore selloff! Sensex tumbles over 800 pts, Nifty below 25,550. 6 major factors behind the sharp decline
-    Source : MSN  |  Date: 2026-02-23T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/news/other/rs-3-lakh-crore-selloff-sensex-tumbles-over-800-pts-nifty-below-25-550-6-major-factors-behind-the-sharp-decline/ar-AA1WWA12?ocid=BingNewsVerp
-    Content: Indian benchmark indices Nifty 50 and BSE Sensex traded sharply lower on Tuesday after a sharp fall in IT and auto stocks dragged the frontline indices lower. The steep slide wiped out Rs 2.94 lakh ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[2] Stock Market: Sensex, Nifty decline; FII selling, weak rupee affecting indices
+[8] Rs 90 per Dollar: Why Rupee Hit a Record Low; What It Means for You | Explained
     Source : MSN  |  Date: 2025-12-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/stock-market-sensex-nifty-decline-fii-selling-weak-rupee-affecting-indices/ar-AA1RBrRx?ocid=BingNewsVerp
-    Content: Mumbai: The BSE Sensex slipped 31.46 points to close settle at 85,106.81 on 3 December 2025, Wednesday. Intraday, the BSE declined 374.63 points to 84,763.64. The NSE Nifty went down 46.20 points to ...  [DDG snippet — full article blocked]
+    URL    : https://www.msn.com/en-in/money/economy/rs-90-per-dollar-why-rupee-hit-a-record-low-what-it-means-for-you-explained/ar-AA1RC0Q3?ocid=BingNewsVerp
+    Content: For the first time ever, the Indian rupee slipped past Rs 90 against the US dollar on Wednesday. The move from Tuesday's 89.94 may look tiny on paper, but its impact is anything but small. This isn't ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] Sensex tumbles 504 pts, Nifty snaps 3-day gaining streak. 5 triggers behind the decline
-    Source : MSN  |  Date: 2026-02-04T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/sensex-tumbles-nearly-600-pts-nifty-set-to-snap-3-day-gaining-streak-5-triggers-behind-the-decline/ar-AA1VIjrS?ocid=BingNewsVerp
-    Content: Benchmark indices Nifty and Sensex snapped a three-day winning streak, ending the day with losses on Thursday. All major sectoral indices closed in the red on February 5, except the PSU Bank index, ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[4] Rs 3 lakh crore selloff! Sensex tumbles over 800 pts, Nifty below 25,550. 6 major factors behind the sharp decline
-    Source : MSN  |  Date: 2026-02-24T05:13:00+00:00
-    URL    : https://www.msn.com/en-in/news/other/rs-3-lakh-crore-selloff-sensex-tumbles-over-800-pts-nifty-below-25-550-6-major-factors-behind-the-sharp-decline/ar-AA1WWA12
-    Content: Indian benchmark indices Nifty 50 and BSE Sensex traded sharply lower on Tuesday after a sharp fall in IT and auto stocks dragged the frontline indices lower. The steep slide wiped out Rs 2.94 lakh crore in investor wealth, dragging the total BSE market ...  [DDG snippet — full article blocked]
+[9] Rupee weakness now a 5-channel threat to India’s economy, BofA warns
+    Source : MSN  |  Date: 2025-12-07T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/rupee-weakness-now-a-5-channel-threat-to-india-s-economy-bofa-warns/ar-AA1RWcAk?ocid=BingNewsVerp
+    Content: India’s weakening currency is triggering a broad, five-channel macroeconomic shock that could reshape everything from corporate sentiment to fiscal accounts, Bank of America Global Research said in a ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
 
 ########################################
-TREND: LPG Supply Chain Disruptions Due to Middle East Conflict
-LLM Search Query: impact of LPG supply chain disruptions on Indian industries and logistics sector
+TREND: Global Oil Price Surge Due to Middle East Conflict and Its Impact on Energy and Manufacturing Sectors
+LLM Search Query: impact of oil price surge on energy and manufacturing sectors 2023
 Articles scraped: 10
 ########################################
 
-[1] LPG cylinder shortage highlights: Domestic households given priority as LPG supplies are rationed, says Bharat Petroleum
-    Source : India Today  |  Date: 2026-03-11T04:42:00+00:00
-    URL    : https://www.indiatoday.in/business/story/lpg-cylinder-shortage-crisis-live-updates-gas-supply-india-hotels-restaurants-2880164-2026-03-11
-    Content: Concerns over a shortage of commercial LPG cylinders have surfaced across several Indian cities, with restaurants and hotels reporting disruptions in gas supply over the past few days. Hospitality associations warn that eateries in cities such as Mumbai,  [DDG snippet — full article blocked]
+[1] Oil prices surge to 18-month high as Middle East conflict escalates. Here's what it means for your gas prices
+    Source : Fast Company  |  Date: 2026-03-02T23:59:00+00:00
+    URL    : https://www.fastcompany.com/91501945/oil-prices-surge-to-18-month-high-as-middle-east-conflict-escalates
+    Content: Oil prices are on the rise, hitting an 18-month high as of Tuesday as the conflict between the United States, Israel, and Iran continues. The war against Iran, which started in earnest over the past weekend, has disrupted oil and gas shipments in the ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] West Asia war jitters: Is India's cooking gas supply at risk?
-    Source : The New Indian Express  |  Date: 2026-03-04T07:29:00+00:00
-    URL    : https://www.newindianexpress.com/nation/2026/Mar/04/west-asia-war-jitters-is-indias-cooking-gas-supply-at-risk
-    Content: As the conflict in West Asia intensifies and concerns mount over disruptions to critical energy shipping routes, questions are being raised about whether Indian  [DDG snippet — full article blocked]
+[2] Oil Prices Surge to $84 as Supply Risk Becomes Real
+    Source : Crude Oil Prices  |  Date: 2026-03-02T22:07:00+00:00
+    URL    : https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-to-84-as-Supply-Risk-Becomes-Real.html
+    Content: Oil prices jumped by 8% early on Tuesday as markets brace for a prolonged conflict in the Middle East and fears of supply disruptions began to materialize. As of 7:00 a.m. ET on Tuesday, the international benchmark, Brent Crude, had jumped by 8.36% to $84.24.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] India's $57B Gulf Export Corridor Braces for Impact as War Risks Spike Shipping and Insurance
-    Source : Republic World  |  Date: 2026-03-13T12:13:00+00:00
-    URL    : https://www.republicworld.com/business/indias-57b-gulf-export-corridor-braces-for-impact-as-war-risks-spike-shipping-and-insurance
-    Content: India’s export sector is facing its most significant geopolitical disruption since the global supply chain shocks of 2022, as tensions in West Asia ripple across shipping lanes and trade corridors. With the strategic maritime route around the Strait of Hormuz effectively emerging as a high-risk transit zone for nearly two weeks, exporters say the disruption is beginning to affect the broader $56.9 billion annual export corridor between India and Gulf Cooperation Council (GCC) countries. While much of the global focus has been on oil flows, the impact is now spreading across labour-intensive export sectors ranging from engineering goods and jewellery to textiles and agricultural products. The Gulf remains one of India’s most critical export destinations, with the United Arab Emirates and Saudi Arabia ranking among India’s top trading partners.
+[3] Oil Price Forecast: Crude Above $90 as Middle East Conflict Escalates — Is $150 Oil Next?
+    Source : FX Empire  |  Date: 2026-03-08T13:59:00+00:00
+    URL    : https://www.fxempire.com/forecasts/article/oil-price-forecast-crude-above-90-as-middle-east-conflict-escalates-is-150-oil-next-1583996
+    Content: Oil surged above $90 as Middle East tensions disrupted supply and threatened the shipping through the Strait of Hormuz, raising the possibility of a move toward $110 and potentially $150.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[4] Stocks to watch as LPG supply issue hits 10 sectors: Full list
-    Source : Business Today on MSN  |  Date: 2026-03-11T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/stocks-to-watch-as-lpg-supply-issue-hits-10-sectors-full-list/ar-AA1XXqDP?ocid=BingNewsVerp
-    Content: QSR players such as Devyani, Sapphire Foods India and Westlife; ceramic players such as Kajaria Ceramics and Somany and ...  [DDG snippet — full article blocked]
+[4] Iran war, oil price surge worsen K-shaped economy, say economists
+    Source : CNBC  |  Date: 2026-03-17T19:48:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/iran-war-oil-price-surge-worsen-k-shaped-economy-say-economists/ar-AA1YQaVH
+    Content: Rising oil prices and the fallout of the Iran war are worsening the economic divide, experts say.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Israel-US-Iran war: Middle East crisis hits Indian households where it hurts - from remittance to LPG cylinders | Sector-wise impact explained
-    Source : ET Now on MSN  |  Date: 2026-03-07T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/lifestyle/smart-living/israel-us-iran-war-middle-east-crisis-hits-indian-households-where-it-hurts-from-remittance-to-lpg-cylinders-sector-wise-impact-explained/ar-AA1XHOCw?ocid=BingNewsVerp
-    Content: Notably, West Asia plays an important role in supplying India with essential commodities. About 10 million Indians live and ...  [DDG snippet — full article blocked]
+[5] Oil, Gas Prices Surge as Iran War Forces Gulf Producers to Cut Output
+    Source : The Wall Street Journal  |  Date: 2026-03-09T10:11:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/oil-gas-prices-surge-as-iran-war-forces-gulf-producers-to-cut-output/ar-AA1XOmqm
+    Content: Oil prices were at their highest levels since 2022, with major producers forced to shut down output and natural-gas markets also rallied sharply.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] LPG shortage hits restaurants in Mumbai and Bengaluru, government responds to supply concerns
-    Source : Newspoint on MSN  |  Date: 2026-03-13T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/money/general/lpg-shortage-hits-restaurants-in-mumbai-and-bengaluru-government-responds-to-supply-concerns/ar-AA1YlGVF?ocid=BingNewsVerp
-    Content: Dining out on weekends or ordering food during office lunch breaks has become a regular part of urban life in India. However, restaurants and food businesses in major cities like Mumbai and Bengaluru ...  [DDG snippet — full article blocked]
+[6] US pump prices surge as Iran war upends global energy supply
+    Source : Reuters  |  Date: 2026-03-07T01:16:31+00:00
+    URL    : https://www.msn.com/en-us/money/markets/us-pump-prices-surge-as-iran-war-upends-global-energy-supply/ar-AA1XH2su
+    Content: By Nicole Jao, Jayla Whitfield-Anderson and Rich McKay MARIETTA/NEW YORK, March 6 (Reuters) - U.S. retail gasoline and diesel prices are soaring as the U.S.-Israel war with Iran constrains oil and fuel exports,  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] Menus cut, restaurants shut, long queues for cylinders as LPG crisis deepens
-    Source : India Today on MSN  |  Date: 2026-03-11T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/menus-cut-restaurants-shut-long-queues-for-cylinders-as-lpg-crisis-deepens/ar-AA1YlXTx?ocid=BingNewsVerp
-    Content: A nationwide LPG shortage triggered by the Middle East conflict continues to hit hotels and restaurants primarily, forcing ...  [DDG snippet — full article blocked]
+[7] BREAKING: Oil Prices Hits $108 Per Barrel As Iran Suffers More Energy Infrastructure Attacks
+    Source : The Whistler  |  Date: 2026-03-09T04:55:00+00:00
+    URL    : https://thewhistler.ng/breaking-oil-prices-hits-108-per-barrel-as-iran-suffers-more-energy-infrastructure-attacks/
+    Content: Oil prices surged in early Asian trading on Monday, breaking above $100 per barrel for the first time in nearly four years as the Iran conflict escalated and Ayatollah Mojtaba Khamenei was chosen as supreme leader. At the time of writing, WTI crude was trading at $108.66, up $17.76 or 19.54 per cent, while Brent crude was at $108.69, up $16.00 or 17.26 per cent. The rally follows a dramatic escalation in the conflict between Iran, the United States, and Israel over the weekend, with attacks on energy infrastructure and military targets across the region heightening fears that oil flows from the Middle East could be disrupted for weeks. Israel struck major fuel storage facilities near Tehran, while Iran continued launching drone and missile attacks across the region. A drone strike damaged a desalination plant in Bahrain, a missile barrage injured five people in central Israel, and a seventh U.S. service member died following an Iranian counterattack in Saudi Arabia.
 ----------------------------------------
 
-[8] Iran war may hit India’s burger-and-pizza chains as LPG squeeze threatens QSR kitchens
-    Source : The Statesman on MSN  |  Date: 2026-03-11T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/money/general/iran-war-may-hit-india-s-burger-and-pizza-chains-as-lpg-squeeze-threatens-qsr-kitchens/ar-AA1YfHm4?ocid=BingNewsVerp
-    Content: Commercial LPG prices have already risen about 8% in March, and even a five-day supply break could cut store revenues and margins across India’s organised quick service restaurant sector.  [DDG snippet — full article blocked]
+[8] Oil surges to its highest price since 2023, and stocks drop after U.S. jobs report
+    Source : NPR  |  Date: 2026-03-06T20:28:00+00:00
+    URL    : https://www.npr.org/2026/03/06/g-s1-112788/oil-prices-stocks-jobs-report
+    Content: Michael Gagliano works on the floor at the New York Stock Exchange on Friday. Seth Wenig/AP hide caption NEW YORK — Oil shot to its highest price since 2023 after surging again Friday because of the Iran war, and a weak update on the U.S. job market knocked stocks lower to cap Wall Street's worst week since October. The S&P 500 dropped 1.3% after a report showed U.S. employers cut more jobs last month than they created and after oil prices spiked above $90 per barrel. The combination of a weak economy and high inflation is a worst-case scenario for investors because the Federal Reserve has no good tool to fix both problems at the same time. The Dow Jones Industrial Average plunged as many as 945 points before finishing with a loss of 453, or 0.9%, and the Nasdaq composite sank 1.6%. "You can't sugarcoat this report," according to Brian Jacobsen, chief economic strategist at Annex Wealth Management.
 ----------------------------------------
 
-[9] Hormuz chokepoint: West Asia conflict hampers major global supply chains; check impact on EV, pharma, mineral and other sectors
-    Source : ET Now on MSN  |  Date: 2026-03-10T17:45:22+00:00
-    URL    : https://www.msn.com/en-in/money/general/hormuz-chokepoint-west-asia-conflict-hampers-major-global-supply-chains-check-impact-on-ev-pharma-mineral-and-other-sectors/ar-AA1XTUe5?ocid=BingNewsVerp
-    Content: The Iran–Israel conflict is disrupting global supply chains as shipping routes through the Strait of Hormuz face uncertainty, ...  [DDG snippet — full article blocked]
+[9] China consumer prices buoyed by oil surge and lunar new year
+    Source : Financial Times  |  Date: 2026-03-09T03:14:00+00:00
+    URL    : https://www.ft.com/content/ea8d8fab-ec23-4fd7-84b6-0f2e15609b45
+    Content: Chinese consumer prices bounced back in February, rising at their fastest pace in more than three years due to lunar new year celebrations and surging oil prices, while deep deflationary pressures in industry showed signs of easing.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[10] LPG supply disruption: Nomura sees limited impact on HUL, ITC, United Spirits, Marico; flags risk for Britannia, Nestle
-    Source : ET Now  |  Date: 2026-03-16T04:24:42+00:00
-    URL    : https://www.msn.com/en-in/money/markets/lpg-supply-disruption-nomura-sees-limited-impact-on-hul-itc-united-spirits-marico-flags-risk-for-britannia-nestle/ar-AA1YHeNQ
-    Content: LPG supply disruption: Nomura says LPG supply disruptions due to the West Asia conflict may have a limited production impact on consumer companies, though higher fuel costs remain a risk. Britannia and Titan are its top sector picks.  [DDG snippet — full article blocked]
+[10] The oil price surge is just one symptom of a supply chain network that is not fit for this age of global tensions
+    Source : The Conversation  |  Date: 2026-03-02T16:50:00+00:00
+    URL    : https://theconversation.com/the-oil-price-surge-is-just-one-symptom-of-a-supply-chain-network-that-is-not-fit-for-this-age-of-global-tensions-277277
+    Content: The escalating conflict between Iran, the US and Israel has taken a critical turn. The strait of Hormuz – one of the most important shipping routes for oil and gas – is facing significant disruption. The strait is the main route connecting Persian Gulf ports in Iran and some of the region’s other oil producers to the open ocean. The strikes on Iran are already having tangible effects : energy flows are slowing, markets are reacting and supply chains are under pressure. This is not just a regional conflict – it is a global supply chain crisis unfolding in real time. As an expert on supply chains, I am acutely aware of how central the strait is – not only for the stability of the region but also to the functioning of the global economy. This narrow corridor is one of the world’s most critical chokepoints – around a fifth of the world’s oil passes through the strait daily.
+----------------------------------------
+
+
+########################################
+TREND: US Federal Reserve Rate Decision and Its Impact on Global Stock Markets and Inflation
+LLM Search Query: impact of upcoming Fed rate decision on global stock markets and inflation 2023
+Articles scraped: 10
+########################################
+
+[1] Is Wells Fargo Stock Worth Considering Post Reporting Q1 Earnings?
+    Source : Zacks· via Yahoo Finance  |  Date: 2025-04-22T17:32:54+00:00
+    URL    : https://finance.yahoo.com/news/wells-fargo-stock-worth-considering-130500439.html
+    Content: Wells Fargo & Company ’s WFC stock jumped 4.9% since the release of its first-quarter 2025 results on April 11, 2025. Despite headwinds like the impacts of tariffs on the global economy, uncertainty related to the Federal Reserve’s monetary policy and lingering geopolitical matters, WFC posted decent quarterly results and is expecting year-over-year growth in its net interest income (NII) in 2025. The company’s first-quarter earnings surpassed the Zacks Consensus Estimate, while revenues missed. Results benefited from an improvement in non-interest income and a decline in non-interest expenses. However, lower NII was the undermining factor. Given the uncertain operating backdrop, is the WFC stock worth a spot in your portfolio now? Before we check the stock’s investment worthiness, let us take a look at the company’s first-quarter performance in brief. NII: Wells Fargo’s first-quarter 2025 NII declined 6% year over year to $11.49 billion.
+----------------------------------------
+
+[2] Sezzle, DocuSign, Asana, PagerDuty, and Vishay Intertechnology Shares Are...
+    Source : StockStory· via Yahoo Finance  |  Date: 2025-09-19T17:32:54+00:00
+    URL    : https://finance.yahoo.com/news/sezzle-docusign-asana-pagerduty-vishay-204057246.html
+    Content: A number of stocks fell in the afternoon session after the major indices continued to retreat amid profit-taking and renewed concerns about tariffs. Investors reacted to a federal court ruling that most of President Trump's global tariffs were illegal, raising uncertainty over trade policy and the fiscal impact of potential refunds. Rising Treasury yields added to the pressure, with the 10-year climbing above 4.2% and the 30-year nearing 5%, intensifying worries about stretched equity valuations. September's historically weak track record for stocks further dampened sentiment, leaving traders cautious ahead of the jobs report later in the week and the Federal Reserve's upcoming rate decision. The stock market overreacts to news, and big price drops can present good opportunities to buy high-quality stocks. Personal Loan company Sezzle (NASDAQ:SEZL) fell 5.9%. Is now the time to buy Sezzle? Access our full analysis report here, it’s free.
+----------------------------------------
+
+[3] Agilon Health Inc. (AGL): Fast-Growing Penny Stock To Consider
+    Source : Insider Monkey· via Yahoo Finance  |  Date: 2024-03-18T17:32:54+00:00
+    URL    : https://finance.yahoo.com/news/agilon-health-inc-agl-fast-200322219.html
+    Content: We recently compiled a list of the 10 Best Fast-Growing Penny Stocks to Buy Now . In this article, we are going to take a look at where Agilon Health Inc. (NYSE:AGL) stands against the fast-growing penny stocks. September  tends to be the worst month for the stock market, however 2024 might just be an outlier in history. Considering that the economy is doing worse than what was estimated earlier, the Fed needs to decide on a cut rate soon. We discussed this earlier in our article about the 10 Most Buzzing Stocks To Buy Now , here's an excerpt from it: “Investors are concerned that the FED will be slower to lower interest rates while inflation remains sticky and GDP growth begins to cool. Stovall expects three 25-basis point cuts this year, followed by another four in 2025. He thinks that while a 50 basis point cut is rare since it only ever happened twice, in 2001 and then 2007, it is still not unlikely given that the economy is worse than expected.
+----------------------------------------
+
+[4] 10 Stocks Receiving a Massive Vote of Approval From Wall Street Analysts
+    Source : Insider Monkey· via Yahoo Finance  |  Date: 2024-03-18T17:32:54+00:00
+    URL    : https://finance.yahoo.com/news/10-stocks-receiving-massive-vote-123951446.html
+    Content: In this article, we will take a look at the 10 stocks receiving a massive vote of approval from Wall Street analysts. If you want to see some more stocks on the list, go directly to 5 Stocks Receiving a Massive Vote of Approval From Wall Street Analysts . Asian stock markets experienced a decline on March 25, with Japanese equities leading the way, prompted by warnings from a senior official about the currency. However, the Chinese yuan saw gains, buoyed by indications of official backing. The Topix index in Japan was one of the hardest hit, contributing to the overall dip in a regional equity benchmark for the second consecutive session. The decline followed cautionary remarks from Japan's top currency authority, advising against speculative activities in the foreign exchange market. Meanwhile, South Korea's Kospi index also registered a decrease, while Australian stocks saw modest gains. In Europe and the United States, futures for equity markets showed minimal movement.
+----------------------------------------
+
+[5] Is Alibaba Group Holding Limited (BABA) the Best Cheap Rising Stock to Invest...
+    Source : Insider Monkey· via Yahoo Finance  |  Date: 2025-03-18T17:32:54+00:00
+    URL    : https://finance.yahoo.com/news/alibaba-group-holding-limited-baba-090102701.html
+    Content: We recently compiled a list of 7 Cheap Rising Stocks to Invest In . In this article we will look at where Alibaba Group Holding Limited (NYSE:BABA) ranks among the cheap rising stocks. The recent Fed rate cuts have been a major catalyst for the market, and have provided an additional boost to an already strong performance. The market started the day with another all-time high on September 26 and it seems like the cuts have been positively influencing market sentiment and activity. Nevertheless, some experts are still saying that investors are moving with caution as the timeline moves closer to the US elections. Wisdomtree CEO, Jonathan Steinberg recently joined CNBC “Money Movers” as he discussed the impact of the Fed’s actions on market flows and noted that while the 50-basis-point rate cut may reduce recession risks, a significant amount of money remains on the sidelines.
+----------------------------------------
+
+[6] What to Expect in Markets This Week: Fed Interest Rate Decision, Powell Press Conference, Earnings from Micron and FedEx
+    Source : Investopedia  |  Date: 2026-03-15T17:32:54+00:00
+    URL    : https://www.investopedia.com/what-to-expect-in-markets-this-week-fed-interest-rate-decision-powell-press-conference-micron-fedex-earnings-11924880
+    Content: Federal Reserve interest rate decision; Chair Jerome Powell's press conference; earnings from Micron, FedEx, Dollar Tree, and ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[7] Stock market today: Dow, S&P 500, Nasdaq futures fall after PPI inflation comes in hot ahead of Fed decision
+    Source : Yahoo Finance UK  |  Date: 2026-03-14T17:32:54+00:00
+    URL    : https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-225450388.html
+    Content: US stocks fell on Wednesday after the latest reading on prices pointed to accelerating inflation as investors waited for the Federal Reserve’s latest policy decision. The Dow Jones Industrial Average ( ^DJI ) lost nearly 0.9%, or more than 400 points, following a second winning day in a row for Wall Street stocks. The S&P 500 ( ^GSPC ) and tech-focused Nasdaq Composite ( ^IXIC ) each fell about 0.5%. Wholesale inflation accelerated 0.7% month-over-month in February before the effects of the Middle East conflict gripped markets this month, new government data showed. The PPI reading weighed on markets already bracing for the Fed's policy decision later Wednesday , the central bank's Summary of Economic Projections, and what Chair Jerome Powell might say about the potential inflationary impact of high oil prices in his comments.
+----------------------------------------
+
+[8] Markets' hopes for Fed interest rate cuts are rapidly fading away
+    Source : CNBC on MSN  |  Date: 2026-03-13T17:32:54+00:00
+    URL    : https://www.msn.com/en-us/money/markets/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away/ar-AA1Yv5PI?ocid=BingNewsVerp
+    Content: As both energy prices and inflation fears pop higher, expectations for cuts are sliding lower.  [DDG snippet — full article blocked]
+----------------------------------------
+
+[9] US stock market declines amid rising oil prices and inflation concerns
+    Source : Times Now on MSN  |  Date: 2026-03-15T17:32:54+00:00
+    URL    : https://www.msn.com/en-in/money/markets/us-stock-market-declines-amid-rising-oil-prices-and-inflation-concerns/ar-AA1YUGYe?ocid=BingNewsVerp
+    Content: U.S. stock markets are declining due to rising oil prices, raising inflation concerns. The Federal Reserve is expected to ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[10] Oil wavers, stocks jump as markets await US Fed decision amid war tensions
+    Source : Asianet Newsable on MSN  |  Date: 2026-03-13T17:32:54+00:00
+    URL    : https://www.msn.com/en-in/money/economy/oil-wavers-stocks-jump-as-markets-await-us-fed-decision-amid-war-tensions/ar-AA1YUohB?ocid=BingNewsVerp
+    Content: Global markets showed a mixed but calm trend as stocks rose and oil prices fluctuated. WTI crude fell while Brent stayed ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
 
@@ -225,77 +255,74 @@ Articles scraped: 10
 === PHASE 3: LLM STOCK IMPACT ANALYSIS ===
 ==================================================
 
-### TREND: Crude Oil Price Surge Due to Middle East Conflict
+### TREND: Indian Rupee Sliding Against USD and Its Impact on Exports and Imports in India
 
-**SUMMARY**
-- The Middle East conflict is disrupting global oil supply chains, leading to a surge in crude oil prices.
-- India, heavily dependent on Middle Eastern oil, is experiencing supply chain disruptions and rising import costs.
+1. **SUMMARY**  
+   The Indian rupee is depreciating sharply against the USD, driven by geopolitical tensions and high global prices for commodities like gold and crude oil. This depreciation is expected to increase import costs, fuel inflation, and impact sectors dependent on imports.
 
-**BULLISH SECTORS**
-- **Energy Sector**: Companies like ONGC (ONGC.NS), HPCL (HPCL.NS), and BPCL (BPCL.NS) are likely to benefit from higher crude prices.
-- **Chemicals**: Private refining giants like Rongsheng and Hengyi (HENG.NS) could see increased demand for aromatics and other petrochemicals.
+2. **BULLISH SECTORS**  
+   - **Exporters**: Companies like **Hindustan Unilever (HUL)**, **Tata Consultancy Services (TCS)**, and **Infosys (INFY)** are likely to benefit from a weaker rupee as their foreign earnings will be more valuable in rupees.
+   - **IT Sector**: Companies like **Wipro (WIT)** and **Tech Mahindra (TECHM)** will also see a boost due to higher foreign revenue.
 
-**BEARISH SECTORS**
-- **Consumer Discretionary**: Companies like Maruti Suzuki (MARUTI.NS) and Tata Motors (TATAMOTORS.NS) may face higher production costs.
-- **Airlines**: Companies like IndiGo (INDIGO.NS) and Air India (AIRINDIA.NS) could see increased fuel costs impacting profitability.
+3. **BEARISH SECTORS**  
+   - **Imports**: Companies like **Titan Company (TITAN)**, **Bajaj Auto (BAJAJ-AUTO)**, and **Maruti Suzuki (MARUTI)**, which rely heavily on imported components, will face increased costs.
+   - **Consumer Discretionary**: Companies like **Aditya Birla Fashion and Retail (ABFRL)** and **Reliance Industries (RELIANCE)**, which import luxury goods and electronics, will see higher costs and potential price increases.
 
-**MAGNITUDE**
-- **High**: The impact of supply chain disruptions and rising import costs can significantly affect the economy and corporate earnings.
+4. **MAGNITUDE**  
+   **Medium** — The impact is significant but not immediate, with the rupee's depreciation expected to continue for several months.
 
-**TIME HORIZON**
-- **Medium (1-6 months)**: The effects of supply chain disruptions and higher oil prices are likely to be felt over the next few months.
+5. **TIME HORIZON**  
+   **Medium (1-6 months)** — The effects will be most pronounced over the next 6 months as the rupee's depreciation continues to affect import costs and inflation.
 
-### TREND: IT Sector Decline Due to Market Sentiment
+### TREND: Global Oil Price Surge Due to Middle East Conflict and Its Impact on Energy and Manufacturing Sectors
 
-**SUMMARY**
-- The IT sector in India is experiencing a sharp decline due to various market factors, including foreign institutional investor (FII) selling and a weak rupee.
-- The Nifty IT index has been particularly affected, leading to a significant selloff in major IT companies.
+1. **SUMMARY**  
+   Oil prices are surging to multi-year highs due to ongoing geopolitical tensions in the Middle East, particularly the conflict involving the US, Israel, and Iran, which is disrupting oil supply and shipping.
 
-**BULLISH SECTORS**
-- **Pharmaceuticals**: Companies like Cipla (CIPLA.NS) and Dr. Reddy’s (DRREDDY.NS) may benefit from a shift in investor sentiment.
-- **Consumer Staples**: Companies like Hindustan Unilever (HINDUNILVR.NS) and ITC (ITC.NS) are less sensitive to market volatility.
+2. **BULLISH SECTORS**  
+   - **Energy Sector**: Companies like **Chevron (CVX)**, **ExxonMobil (XOM)**, and **BP (BP)** will benefit from higher oil prices.
+   - **Oil Services**: Companies like **Halliburton (HAL)** and **Schlumberger (SLB)** will see increased demand for their services.
 
-**BEARISH SECTORS**
-- **IT Sector**: Major IT companies like Infosys (INFY.NS), Wipro (WIPRO.NS), and Tata Consultancy Services (TCS.NS) are likely to see further declines.
-- **Auto Sector**: Companies like Mahindra & Mahindra (M&M.NS) and Hero MotoCorp (HEROMOTOCO.NS) may also be affected.
+3. **BEARISH SECTORS**  
+   - **Manufacturing**: Companies like **General Motors (GM)**, **Ford (F)**, and **Toyota (TM)**, which are heavily reliant on oil for production and logistics, will face higher costs.
+   - **Transportation**: Companies like **United Airlines (UAL)** and **American Airlines (AAL)** will see increased fuel costs, impacting profitability.
 
-**MAGNITUDE**
-- **Medium**: The decline in the IT sector is significant but may stabilize as market sentiment improves.
+4. **MAGNITUDE**  
+   **High** — The impact is severe and immediate, with oil prices reaching levels not seen in years, affecting global supply chains and economies.
 
-**TIME HORIZON**
-- **Short (< 1 month)**: The immediate impact of market sentiment changes can be seen within a short period.
+5. **TIME HORIZON**  
+   **Short (< 1 month)** — The effects are already being felt in global markets and are expected to intensify in the short term.
 
-### TREND: LPG Supply Chain Disruptions Due to Middle East Conflict
+### TREND: US Federal Reserve Rate Decision and Its Impact on Global Stock Markets and Inflation
 
-**SUMMARY**
-- The Middle East conflict is causing disruptions to LPG supply chains, affecting Indian industries dependent on LPG.
-- Restaurants, hotels, and other sectors reliant on LPG are experiencing shortages and increased costs.
+1. **SUMMARY**  
+   The upcoming US Federal Reserve rate decision is likely to influence global stock markets and inflation, with markets currently expecting no change or a potential hike due to rising inflation pressures.
 
-**BULLISH SECTORS**
-- **Logistics and Transportation**: Companies like Eicher Motors (EICHERMOT.NS) and Ashok Leyland (ASHOKLEY.NS) may benefit from increased demand for logistics services.
-- **Agriculture**: Companies like UPL (UPL.NS) and Nufarm (NUFARM.NS) could see increased demand for fertilizers and other agricultural inputs.
+2. **BULLISH SECTORS**  
+   - **Financials**: Banks like **JPMorgan Chase (JPM)** and **Wells Fargo (WFC)** may benefit from higher interest rates, which can boost net interest margins.
+   - **Consumer Staples**: Companies like **Procter & Gamble (PG)** and **Unilever (UL)** are less sensitive to interest rate changes and may perform well in a high-interest-rate environment.
 
-**BEARISH SECTORS**
-- **Quick Service Restaurants (QSR)**: Companies like Zomato (ZOMATO.NS) and Swiggy (SWIGGY.NS) may face operational disruptions and higher costs.
-- **Consumer Discretionary**: Companies like Britannia Industries (BRITANNIA.NS) and Nestle India (NESTLEIND.NS) could see production disruptions.
+3. **BEARISH SECTORS**  
+   - **Technology**: Companies like **Apple (AAPL)** and **Microsoft (MSFT)**, which are sensitive to interest rates and potential economic slowdowns, may face headwinds.
+   - **Consumer Discretionary**: Companies like **Amazon (AMZN)** and **Tesla (TSLA)**, which rely on consumer spending, may see reduced demand.
 
-**MAGNITUDE**
-- **Medium**: The impact on LPG-dependent sectors is significant but may stabilize as supply chain disruptions are resolved.
+4. **MAGNITUDE**  
+   **Medium** — The impact is significant but not immediate, with the Fed's decision expected to influence market sentiment and economic growth over the coming months.
 
-**TIME HORIZON**
-- **Medium (1-6 months)**: The effects of LPG supply chain disruptions are likely to be felt over the next few months.
+5. **TIME HORIZON**  
+   **Medium (1-6 months)** — The effects will be most pronounced over the next 6 months as the Fed's decision is digested and its impact on the economy is realized.
 
 ### PORTFOLIO SIGNAL
 
 **Urgency Ranking:**
-1. **Crude Oil Price Surge Due to Middle East Conflict** - High urgency due to significant economic and corporate impact.
-2. **LPG Supply Chain Disruptions Due to Middle East Conflict** - Medium urgency due to sector-specific disruptions.
-3. **IT Sector Decline Due to Market Sentiment** - Short-term urgency due to immediate market sentiment changes.
+1. **Global Oil Price Surge Due to Middle East Conflict**
+2. **US Federal Reserve Rate Decision**
+3. **Indian Rupee Sliding Against USD**
 
 **Allocation Bias:**
-- **Overweight Energy and Chemicals**: Given the surge in crude oil prices and potential benefits to refining and petrochemical sectors.
-- **Underweight Consumer Discretionary and IT**: Due to higher costs and operational disruptions affecting these sectors.
-- **Neutral to Slightly Overweight Logistics and Agriculture**: Benefiting from increased demand for logistics services and agricultural inputs.
+- **Overweight Energy and Oil Services**: Given the immediate and significant impact of the oil price surge.
+- **Underweight Consumer Discretionary and Technology**: Due to potential headwinds from rising interest rates and inflation.
+- **Neutral to Slightly Overweight Financials and Consumer Staples**: These sectors are less sensitive to the immediate impacts of the oil price surge and Fed rate decision.
 
 
 ==================================================
@@ -304,97 +331,102 @@ Articles scraped: 10
 
 ### Predictions Based on Macro News and Technical Data
 
-1. **TICKER: ONGC.NS**
-   - **DIRECTION:** NEUTRAL
-   - **CONFIDENCE:** 50%
-   - **RATIONALE:** News is bullish for the energy sector due to higher crude oil prices, but the stock is currently below its 50-day SMA and has a neutral RSI, indicating indecision.
+#### **INFY (Infosys Limited)**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bullish for IT sector due to rupee depreciation. Stock is oversold and MACD is bullish, suggesting a potential bounce.
 
-2. **TICKER: BPCL.NS**
-   - **DIRECTION:** UP
-   - **CONFIDENCE:** 65%
-   - **RATIONALE:** News is bullish for the energy sector, and the stock is oversold with a bearish MACD but has fallen significantly below its 50-day SMA, suggesting a potential rebound.
+#### **WIT (Wipro Limited)**
+- **DIRECTION:** UP
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bullish for IT sector. Stock is slightly below its 50-day SMA but MACD is bullish, indicating a possible upward move.
 
-3. **TICKER: MARUTI.NS**
-   - **DIRECTION:** DOWN
-   - **CONFIDENCE:** 70%
-   - **RATIONALE:** News is bearish for the consumer discretionary sector due to rising production costs, and the stock is below its 50-day SMA with a bearish MACD.
+#### **CVX (Chevron Corporation)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for energy sector, but stock is overbought and MACD is bullish, suggesting a potential pullback.
 
-4. **TICKER: INDIGO.NS**
-   - **DIRECTION:** DOWN
-   - **CONFIDENCE:** 60%
-   - **RATIONALE:** News is bearish for airlines due to higher fuel costs, and the stock is below its 50-day SMA with a bearish MACD.
+#### **XOM (Exxon Mobil Corporation)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bullish for energy sector, but stock is overbought and MACD is bullish, indicating a potential pullback.
 
-5. **TICKER: CIPLA.NS**
-   - **DIRECTION:** NEUTRAL
-   - **CONFIDENCE:** 55%
-   - **RATIONALE:** News is neutral for pharmaceuticals, and the stock is below its 50-day SMA with a bearish MACD, indicating a potential consolidation phase.
+#### **BP (BP p.l.c.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bullish for energy sector, but stock is overbought and MACD is bullish, suggesting a potential pullback.
 
-6. **TICKER: DRREDDY.NS**
-   - **DIRECTION:** NEUTRAL
-   - **CONFIDENCE:** 50%
-   - **RATIONALE:** News is neutral for pharmaceuticals, and the stock is slightly above its 50-day SMA with a neutral RSI, indicating indecision.
+#### **HAL (Halliburton Company)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bullish for energy sector, but MACD is bearish, indicating a potential downward move.
 
-7. **TICKER: HINDUNILVR.NS**
-   - **DIRECTION:** DOWN
-   - **CONFIDENCE:** 60%
-   - **RATIONALE:** News is neutral for consumer defensive stocks, but the stock is below its 50-day SMA with a bearish MACD, suggesting a potential pullback.
+#### **SLB (SLB Limited)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bullish for energy sector, but MACD is bearish, indicating a potential downward move.
 
-8. **TICKER: ITC.NS**
-   - **DIRECTION:** DOWN
-   - **CONFIDENCE:** 55%
-   - **RATIONALE:** News is neutral for consumer defensive stocks, and the stock is below its 50-day SMA with a bearish MACD, indicating a potential pullback.
+#### **GM (General Motors Company)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for manufacturing due to oil prices. Stock is below its 50-day SMA and MACD is bearish.
 
-9. **TICKER: INFY.NS**
-   - **DIRECTION:** UP
-   - **CONFIDENCE:** 65%
-   - **RATIONALE:** News is bearish for the IT sector, but the stock is oversold with a bullish MACD, suggesting a potential rebound.
+#### **F (Ford Motor Company)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish for manufacturing due to oil prices. Stock is below its 50-day SMA and MACD is bearish.
 
-10. **TICKER: WIPRO.NS**
-    - **DIRECTION:** UP
-    - **CONFIDENCE:** 60%
-    - **RATIONALE:** News is bearish for the IT sector, but the stock is oversold with a bullish MACD, suggesting a potential rebound.
+#### **TM (Toyota Motor Corporation)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for manufacturing due to oil prices. Stock is below its 50-day SMA and MACD is bearish.
 
-11. **TICKER: TCS.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 70%
-    - **RATIONALE:** News is bearish for the IT sector, and the stock is oversold with a bearish MACD, indicating a potential continuation of the decline.
+#### **UAL (United Airlines Holdings, Inc.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish for transportation due to oil prices. Stock is below its 50-day SMA and MACD is bearish.
 
-12. **TICKER: M&M.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 65%
-    - **RATIONALE:** News is bearish for the consumer cyclical sector due to rising production costs, and the stock is below its 50-day SMA with a bearish MACD.
+#### **AAL (American Airlines Group, Inc.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish for transportation due to oil prices. Stock is below its 50-day SMA and MACD is bearish.
 
-13. **TICKER: HEROMOTOCO.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 60%
-    - **RATIONALE:** News is bearish for the consumer cyclical sector due to rising production costs, and the stock is below its 50-day SMA with a bearish MACD.
+#### **JPM (JP Morgan Chase & Co.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is neutral for financials. Stock is below its 50-day SMA and MACD is bearish.
 
-14. **TICKER: EICHERMOT.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 55%
-    - **RATIONALE:** News is bearish for the consumer cyclical sector due to rising production costs, and the stock is below its 50-day SMA with a bearish MACD.
+#### **WFC (Wells Fargo & Company)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is neutral for financials. Stock is below its 50-day SMA and MACD is bearish.
 
-15. **TICKER: ASHOKLEY.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 60%
-    - **RATIONALE:** News is neutral for industrials, but the stock is below its 50-day SMA with a bearish MACD, indicating a potential pullback.
+#### **PG (Procter & Gamble Company (The))**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is neutral for consumer staples. Stock is below its 50-day SMA and MACD is bearish.
 
-16. **TICKER: UPL.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 65%
-    - **RATIONALE:** News is neutral for basic materials, and the stock is below its 50-day SMA with a bearish MACD, indicating a potential pullback.
+#### **UL (Unilever PLC)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is neutral for consumer staples. Stock is below its 50-day SMA and MACD is bearish.
 
-17. **TICKER: SWIGGY.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 60%
-    - **RATIONALE:** News is bearish for consumer cyclical stocks due to operational disruptions, and the stock is below its 50-day SMA with a bearish MACD.
+#### **AAPL (Apple Inc.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is neutral for technology. Stock is below its 50-day SMA and MACD is bearish.
 
-18. **TICKER: BRITANNIA.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 60%
-    - **RATIONALE:** News is neutral for consumer defensive stocks, but the stock is below its 50-day SMA with a bearish MACD, indicating a potential pullback.
+#### **MSFT (Microsoft Corporation)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is neutral for technology. Stock is below its 50-day SMA and MACD is bearish.
 
-19. **TICKER: NESTLEIND.NS**
-    - **DIRECTION:** DOWN
-    - **CONFIDENCE:** 55%
-    - **RATIONALE:** News is neutral for consumer defensive stocks, and the stock is below its 50-day SMA with a bearish MACD, indicating a potential pullback.
+#### **AMZN (Amazon.com, Inc.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is neutral for consumer discretionary. Stock is below its 50-day SMA and MACD is bearish.
+
+#### **TSLA (Tesla, Inc.)**
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is neutral for consumer discretionary. Stock is below its 50-day SMA and MACD is bearish.
