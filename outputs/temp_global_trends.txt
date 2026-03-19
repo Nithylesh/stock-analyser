@@ -1,52 +1,54 @@
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: Breaking: Indian Rupee slides to all-time lows at 93.00 against US Dollar - FXStreet
-Context: At the interbank foreign exchange, the local unit opened at 92.42 against the greenback and traded in the range of 92.41-92.48 for most of the session before losing ground at the fag end to close at its record low of 92. On Wednesday, the Indian rupee dropped below the 91.5 mark against the US dollar for the first time, marking a significant decline, as reported by various sources. The currency reached an unprecedented low of 91.7 at around 3:30 PM. This decline was ... The rupee hit an all-time low of 92 on Friday and recovered marginally to settle at 91.88 (provisional) against the American currency, amid selling pressure from foreign funds and risk-off sentiment in global markets. Forex traders said the Indian rupee ...
+Headline: Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points - NDTV
+Context: Stock Market Highlights: Markets witnessed a gap-down opening due to soaring oil prices. Indian stock markets experienced a significant downturn on Thursday. This sharp decline erased recent gains. Soaring crude oil prices and hawkish commentary from the US Federal Reserve were key factors. Indian stock markets experienced a sharp crash on Monday, with Sensex and Nifty plunging 3% each. This decline, extending last week's losses, was driven by the escalating Iran-Israel-US conflict, which spiked crude oil prices and raised concerns about India's rupee and macroeconomics.
 ----------------------------------------
 
 Article 2:
-Headline: SEBI bars 21 entities in stock manipulation case, orders Rs 2.94 crore disgorgement, Rs 2.80 crore penalty - Moneycontrol.com
-Context: Market regulator Securities and Exchange Board of India (SEBI) has barred 21 entities, including Sanjay Arunkumar Choksi and his associates, for allegedly manipulating the shares of Retro Green Revolution Ltd (RGRL), a company listed on the Bombay Stock Exchange. In his order, SEBI quasi-judicial authority Santosh Shukla, directed disgorgement of unlawful gains amounting to Rs 2.94 crore along with 12 percent annual interest and imposed monetary penalties totalling Rs 2.80 crore. The regulator has also imposed market bans ranging from four to ten years on the key noticees. Retro Green Revolution Ltd (RGRL), originally incorporated as Jolly Tea India Company Ltd in 1990, was promoted by Sanjay Arunkumar Choksi and his associates. Although shareholding changed after 2012, SEBI found that the Choksi Group re-entered the scrip in 2018 and built a 42.7 percent stake by FY2019. During this period, key managerial positions were held by individuals connected to Choksi.
+Headline: MCX Gold prices drop over ₹5,700 to ₹147,287/10 grams; silver rates tank 6.5% amid stronger US dollar and West Asia tensions - Upstox
+Context: The live updates to this blog are closed. MCX Gold, Silver rates LIVE: Gold and silver prices opened sharply higher on the Multi Commodity Exchange of India (Multi Commodity Exchange of India) on ... Gold and silver opened sharply lower on MCX Monday as soaring energy prices dampened hopes of near-term U.S. rate cuts. MCX ...
 ----------------------------------------
 
 Article 3:
-Headline: Sensex Today, Stock Market Highlights: Sensex, Nifty End In Green For 3rd Straight Day - NDTV
-Context: Markets completed a hat-trick as both Sensex and Nifty ended in green for the third day on Wednesday. At the close, Sensex was trading points 633 higher at 76,704, while the Nifty 50 was at 23,777, climbing 196 points.
+Headline: LIVE | West Asia war: US may ease sanctions on Iranian oil at sea; Pentagon signals no end to Iran war, seeks $200 bn funding - The New Indian Express
+Context: Pentagon chief Pete Hegseth wants more billions from Congress to fund the Iran war as gas prices hit an average of $3.90 a gallon nationwide and global oil prices surged after Israel attacked a critical Iranian gas field. President Donald Trump sought to distance the United States from the Israeli strike on the South Pars gas field, which has infuriated Washington's Gulf allies, saying in a Wednesday night social media post that Tel Aviv had "violently lashed out" and the U.S. "knew nothing about this particular attack." But he threatened to destroy the rest of the gas field if Iran continued attacks on its neighbors, many of which host U.S. military bases. Hegseth, speaking at the Pentagon Thursday morning, appeared to confirm a Washington Post report that he would seek $200 billion from Congress to continue the now 20-day-old war.
 ----------------------------------------
 
 Article 4:
-Headline: Macklem: Monetary Policy Decision Press Conference Opening Statement - Forex Factory
-Context: Good morning. I’m pleased to be here with Senior Deputy Governor Carolyn Rogers to discuss today’s monetary policy decision. Today, Governing Council maintained the policy interest rate at 2.25%.
+Headline: HDFC Bank stock falls over 4% as chairman resigns on ethical grounds - The Hindu
+Context: Image used for representational purposes. File
+                                          | Photo Credit: Reuters The Reserve Bank of India (RBI) said it has taken note of the recent developments in HDFC Bank, where its part-time chairman Atanu Chakrabort had resigned. It said a transition arrangement as requested by the Bank has been approved as regards the position of part-time chairman of the Bank. The RBI said HDFC Bank is a Domestic Systemically Important Bank (D-SIB) with sound financials, a professionally run board and competent management team. “Basis our periodical assessment, there are no material concerns on record as regards its conduct or governance. The bank remains well-capitalised and the financial position of the bank remains satisfactory with sufficient liquidity,” it said in a statement. Reserve Bank will continue to engage with the Board and management on the way forward, it said.
 ----------------------------------------
 
 Article 5:
-Headline: Stock Market Today: Major Indexes Retreat Ahead of Fed Rate Decision; Inflation Data Lands Hot, Oil Prices Rise; Dow Drops 450 Points - Investopedia
-Context: The Dow Jones Industrial Average closed with a small win in Friday's seesaw session on Wall Street following a cooler-than-expected consumer inflation report that monetary policymakers will take into ...
+Headline: India’s largest asset manager, SBI Funds Management Ltd, to file draft papers shortly for IPO - Moneycontrol.com
+Context: SBI Funds Management Ltd. is considering raising as much as $1.2 billion in an initial public offering that could take place in Mumbai in the first half of 2026, people familiar with the matter said. India’s biggest asset manager plans to ask banks to pitch for mandates to work on the IPO in the coming weeks, the people said, asking not to be identified because the information is private. SBI Funds may be valued at $12 billion, they said. Deliberations are ongoing and details may change, the people said. SBI Funds is owned by State Bank of India Ltd. and Amundi SA, which last week said they’d sell a combined stake of 10% through an IPO, likely in 2026. Amundi, SBI and SBI Funds didn’t respond to requests for comment. India has been one of the world’s busiest venues for new listings, with nearly $18 billion raised this year, led by Tata Capital Ltd.’s $1.7 billion IPO. That’s approaching last year’s record of about $21 billion, data compiled by Bloomberg show.
 ----------------------------------------
 
 Article 6:
-Headline: Fed decision looms large amid Iran war; Micron to report - what’s moving markets - Investing.com
-Context: Investing.com - Futures linked to the main U.S. stock indices point into the green, ahead of a Federal Reserve interest rate decision that will come amid ongoing fighting in the Middle East. Oil drops ... Investing.com - U.S. stock futures point up on Wednesday, with tensions intensifying in the Middle East as fighting between Israel and Iran enters a sixth day. Oil prices retreat marginally after ...
+Headline: As West Asia war threatens gas supply, remembering a gas grid India never built - The Hindu
+Context: The idea of using gasified coal to meet some of India’s fuel needs first emerged in 1955 when Syed Husain Zaheer, director of the Regional Research Laboratory, Hyderabad — now the CSIR-Indian Institute of Chemical Technology (shown) — submitted a plan to Prime Minister Jawaharlal Nehru for a national gas grid.
+                                          | Photo Credit: Nagara Gopal The ongoing war in West Asia has plunged the world into a deep energy crisis. In India, the availability of domestic fuel, LPG , has been hit due by the disruption in supplies from the Persian Gulf. The global energy crisis is reminiscent of the Oil Shock of 1973 when members of the Organisation of Petroleum Exporting Countries (OPEC) cut oil production and slashed exports to protest the U.S.’s support for Israel in the Yom Kippur War. India responded by exploring alternative sources of energy, offshore oilfields in Bombay High, and by experimenting with new technologies.
 ----------------------------------------
 
 Article 7:
-Headline: RIL appoints 17 bankers for a potential Rs 40,000 crore Jio Platforms IPO - The Economic Times
-Context: Jio Platforms has appointed 17 global and domestic investment banks, including Goldman Sachs and Morgan Stanley, to begin work on its mega IPO. With valuation estimates near $180 billion, even a 2.5% float could become India's largest-ever public offering. Reliance Industries has roped in 17 top banks for the planned Jio Platforms IPO. This and more in today's ETtech Top 5. Jio Platforms picks Morgan Stanley and Goldman as lead bankers for IPO: Jio Platforms, the digital and telecom arm of Reliance Industries, has set the ball rolling for its initial public offering (IPO). The company will be filing its draft red herring ...
+Headline: Asia Hikes Coal Use as Middle East War Chokes Gas Supply - Crude Oil Prices Today | OilPrice.com
+Context: India Unveils Ambitious Plan to Quadruple Solar Power by 2035 Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. Asian countries have been criticized for years for not ditching coal fast enough. They were vindicated this month when the Middle East war cut off 20% of global LNG flows overnight after Qatar, Asia’s key term LNG supplier, shut in production and exports. China, India, South Korea, Japan, and the whole of Southeast and South Asia are using the coal buffers they have created in recent years. Their insistence that diversification and energy security are more important than headline emission reductions is paying off as spot LNG prices in Asia surged by 70% to three-year highs that few countries in Asia Pacific can afford. Coal cannot fully replace the lost gas supply, but it creates a welcome buffer to help Asia go through the biggest supply disruption in energy markets, ever.
 ----------------------------------------
 
 Article 8:
-Headline: Modest price pressure on gold, silver ahead of PPI, FOMC conclusion - KITCO
-Context: After an extraordinary rally this year that pushed prices to record highs, gold and silver have suddenly hit a rough patch. At the time of writing, at 12.30 pm, MCX gold wa priced at Rs 153,950, up by Rs 1,114 or 0.70%, while silver was priced at Rs ... After an extraordinary rally this year that pushed prices to record highs, gold and silver have suddenly hit a rough patch. At the time of writing, at 12.30 pm, MCX gold wa priced at Rs 153,950, up by ...
+Headline: Big Blow to investors! 6,45,466 JP Associates shareholders to lose over ₹400 crore; here's why - Mint
+Context: Jaiprakash Associates Ltd's insolvency proceedings saw the NCLT approve Adani Enterprises' ₹14,535 crore bid, marking a significant step in resolving financial stress. Shareholders face total loss, ... Jaiprakash Associates Ltd's insolvency proceedings saw the NCLT approve Adani Enterprises' ₹14,535 crore bid, marking a significant step in resolving financial stress. Shareholders face total loss, with no payouts as all existing shares will be cancelled,
 ----------------------------------------
 
 Article 9:
-Headline: Oil Prices Surge as Brent-WTI Spread Blows Out on Iran Supply Risk - Crude Oil Prices Today | OilPrice.com
-Context: A free daily email with the biggest news stories of the day – and the best features from TheWeek.com Fears of a global economic shock spread this week after Iran effectively shut off a crucial Middle Eastern shipping route and launched drone and missile attacks on energy infrastructure in its oil-rich neighbors. Iran said it had closed the Strait of Hormuz, a narrow waterway through which one-fifth of the world’s oil travels. “If anyone tries to pass, the heroes of the Revolutionary Guard and the regular navy will set those ships ablaze,” warned Ebrahim Jabari, senior adviser to the Guard’s commander. About 3,200 vessels—4% of global ship tonnage—were stuck in the Persian Gulf. At least five oil tankers were hit by drones or other projectiles, while a top global natural gas exporter in Qatar suspended production after Iran attacked two of its sites.
+Headline: ‘Waiting for days’: India feels impact of gas supply chain disruption amid Iran conflict - The Guardian
+Context: People struggle to cook and businesses bear brunt as closure of strait of Hormuz slows imports of liquefied petroleum gas F or four days, Maya Rani, 36, has been arriving each morning at a gas distributor’s office in Delhi, her six-month-old daughter in her lap, waiting for hours. And each day she returns home empty-handed, told that a cooking gas cylinder may not be available for at least another week. Around her, the queue keeps growing, people clutching forms and documents, hoping to secure a cylinder. The flame in her kitchen began to fade last week and her husband, as he always does, took their 5kg cylinder to a local refiller. This time, there was nothing. The only option left was to apply for a government-subsidised supply, a process that has meant repeated visits, long waits and no certainty. “I feel like crying,” Rani said, sitting on the pavement outside the distributor’s office, trying to soothe her child.
 ----------------------------------------
 
 Article 10:
-Headline: Indian IT stocks surge! Infosys, TCS, Wipro rise up to 4%; why are they rallying? - The Times of India
-Context: IT stocks crashed another 6% in intraday trading on Monday, March 2, after the US-Iran war, extending the abysmal performance ... After threats from the emergence of artificial intelligence (AI) intensified on Anthropic's launch of workplace productivity tools, shares of IT stocks like Infosys, Wipro, HCL Tech, TCS and ... Mphasis, Infosys, LTIMindtree, HCL Technologies and Tata Consultancy Services (TCS) were the top gainers on the Nifty IT index. All the index constituents rose in the range of 2%-4%.
+Headline: Gold price today: Yellow metal plunges over Rs 3,600; check 24K, 22K city-wise rates in Delhi, Mumbai, Pu - The Times of India
+Context: The primary trigger for the selloff has been the US Federal Reserve's latest policy stance. The Fed kept interest rates unchanged but signalled limited room for rate cuts this year. Gold Price Today in India, Monday, March 9: Gold and silver prices fell as the US dollar strengthened and oil surged above ... Gold prices dipped in India's futures market on Thursday, influenced by a slump in spot demand and weak global cues, despite a rise in New York futures. Major Indian cities saw a decline in 24K, 22K, ...
 ----------------------------------------
 
 
@@ -57,191 +59,203 @@ Context: IT stocks crashed another 6% in intraday trading on Monday, March 2, af
 
 
 ########################################
-TREND: Indian Rupee Slides to All-Time Lows Against USD
-LLM Search Query: impact of Indian rupee depreciation on Indian export and import industries
+TREND: Soaring Oil Prices and Supply Disruption in West Asia
+LLM Search Query: impact of soaring oil prices on Asian energy sector supply chains
 Articles scraped: 10
 ########################################
 
-[1] India reacts to Trump's 25% tariff on exports to US
-    Source : Reuters· via Yahoo Finance  |  Date: 2025-07-21T17:37:59+00:00
-    URL    : https://finance.yahoo.com/news/instant-view-india-reacts-trumps-141419537.html
-    Content: (Reuters) -U.S. President Donald Trump announced on Wednesday a 25% tariff on goods imported from India starting August 1 and an unspecified penalty for buying Russian weapons and oil. Trump's decision dashes hopes of a limited trade agreement between the two countries, which had been under negotiation for several months. "While the negotiations seem to have broken down, we don't think the trade deal haggling between the two nations is over yet. We see it more from the lens of geopolitics than purely economics and see both sides striving to get the deal done, even as the power equations may change a bit in U.S. favour." "Higher tariffs for India compared to countries it competes with, for exports to the U.S., are going to be challenging. However, the expectation is that the trade deal is likely to be finalised shortly and hence the period of applicability of these higher tariffs could be short." "Despite the unpredictable policy making of the U.S.
+[1] What are Asian countries doing to offset the oil-price rise
+    Source : Reuters  |  Date: 2026-03-09T17:44:42+00:00
+    URL    : https://www.reuters.com/business/energy/governments-actions-response-oil-price-surge-escalating-middle-east-conflict-2026-03-16/
+    Content: Oil prices have soared and share markets have skidded on fears that the squeeze on energy supplies resulting from the ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] How India’s Rupee Ended Up as Asia’s Worst Currency This Year
-    Source : MSN  |  Date: 2025-11-26T18:30:00+00:00
-    URL    : https://www.msn.com/en-us/money/economy/how-india-s-rupee-ended-up-as-asia-s-worst-currency-this-year/ar-AA1RffOT?ocid=BingNewsVerp
-    Content: (Bloomberg) -- The Indian rupee is currently Asia’s worst-performing currency of 2025. It is also on track for its largest annual decline since 2022 — the year Russia’s invasion of Ukraine sent oil ...  [DDG snippet — full article blocked]
+[2] How will soaring oil prices caused by Iran war impact food prices?
+    Source : Al Jazeera on MSN  |  Date: 2026-03-10T17:44:42+00:00
+    URL    : https://www.msn.com/en-us/news/world/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices/ar-AA1XUj2t?ocid=BingNewsVerp
+    Content: Oil and gas are not just fuel, they are raw materials for thousands of products, including fertilisers used in farming.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] INR vs USD: India-US trade deal may strengthen Rupee to 83 per Dollar; analysts assess impact of trade pact on currency
-    Source : MSN  |  Date: 2025-11-11T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/inr-vs-usd-india-us-trade-deal-may-strengthen-rupee-to-83-per-dollar-analysts-assess-impact-of-trade-pact-on-currency/ar-AA1Qhs5k?ocid=BingNewsVerp
-    Content: The Indian rupee (INR) has remained weak throughout 2025, declining from around ₹83.3–83.5 in January to approximately ₹88.6–88.8 per US dollar by mid-November, reflecting various global and domestic ...  [DDG snippet — full article blocked]
+[3] Oil Prices Soar Amid Escalating Middle East Conflict
+    Source : Crude Oil Prices  |  Date: 2026-02-28T18:30:00+00:00
+    URL    : https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Soar-Amid-Escalating-Middle-East-Conflict.html
+    Content: Oil prices surged on Monday as the fallout from U.S. and Israeli military strikes on Iran rippled through global energy markets, with tanker traffic through the Strait of Hormuz already heavily ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[4] Rupee at 92/$: Imports, overseas education, travel hurt; exporters gain
-    Source : MSN  |  Date: 2026-01-24T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/rupee-at-92-imports-overseas-education-travel-hurt-exporters-gain/ar-AA1UUXD8?ocid=BingNewsVerp
-    Content: New Delhi: The rupee hitting a historic low of 92 against the US dollar on January 23 is likely to make imports ranging from crude oil to electronic goods, overseas education and foreign travel ...  [DDG snippet — full article blocked]
+[4] Beyond oil: How US-Iran war & Middle East crisis may hit India’s economy - sector-wise impact explained
+    Source : MSN  |  Date: 2026-03-04T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/topstories/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-india-s-economy-sector-wise-impact-explained/ar-AA1XB2yA?ocid=BingNewsVerp
+    Content: Beyond oil, the Middle East crisis has other implications for the Indian economy, especially if the US-Israel-Iran war continues for a long duration leading to major supply disruptions. In recent days ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Rs 90 per Dollar: Why Rupee Hit a Record Low; What It Means for You | Explained
-    Source : MSN  |  Date: 2025-12-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/economy/rs-90-per-dollar-why-rupee-hit-a-record-low-what-it-means-for-you-explained/ar-AA1RC0Q3?ocid=BingNewsVerp
-    Content: For the first time ever, the Indian rupee slipped past Rs 90 against the US dollar on Wednesday. The move from Tuesday's 89.94 may look tiny on paper, but its impact is anything but small. This isn't ...  [DDG snippet — full article blocked]
+[5] Global oil and gas prices soar as Iran crisis disrupts shipping, production
+    Source : Reuters  |  Date: 2026-03-02T18:30:00+00:00
+    URL    : https://www.reuters.com/business/energy/global-energy-costs-soar-iran-crisis-disrupts-shipping-oil-gas-production-2026-03-03/
+    Content: LONDON, March 3 (Reuters) - Global oil and gas prices jumped on Tuesday as the U.S.-Israeli war on Iran halted energy exports from the Middle East, with Tehran attacking ships and energy facilities, ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Indian rupee weakness to continue through 2026: Report
-    Source : MSN  |  Date: 2025-12-26T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/indian-rupee-weakness-to-continue-through-2026-report/ar-AA1T6lrs?ocid=BingNewsVerp
-    Content: New Delhi [India], December 27 (ANI): The Indian rupee is expected to show more weakness going ahead into 2026, according to a report by MUFG, a global financial group. In a report earlier this month, ...  [DDG snippet — full article blocked]
+[6] Energy prices soar to levels not seen in years as Iran names its new supreme leader
+    Source : WKYC  |  Date: 2026-03-10T17:44:42+00:00
+    URL    : https://www.wkyc.com/article/news/nation-world/attack-on-iran/crude-oil-barrel-prices-spike-middle-east-iran-conflict-market-disruption/507-d0a8708e-2c12-4e0a-be70-1d9cdd1d9b34
+    Content: Oil prices have surged as the conflict ensnares regions that are critical to the production and movement of oil and gas from the Persian Gulf. (AP Photo) ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] India's economy is booming, but why is the rupee tumbling?
-    Source : MSN  |  Date: 2025-12-03T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/indias-economy-is-booming-but-why-is-the-rupee-tumbling/ar-AA1RHdEY?ocid=BingNewsVerp
-    Content: India's economy is firing on all cylinders. GDP growth has beaten estimates for back-to-back quarters, corporate earnings remain strong and the latest data shows the economy accelerating to 8.2% in Q2 ...  [DDG snippet — full article blocked]
+[7] Crude oil prices spike as war hits production and shipping
+    Source : WJTV  |  Date: 2026-03-09T17:44:42+00:00
+    URL    : https://www.wjtv.com/news/business/crude-oil-prices-spike-near-120-a-barrel-as-war-hits-production-and-shipping/
+    Content: Oil prices have surged as the war, now in its second week, ensnares countries and places that are critical to the production ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] Indian rupee to weaken into 2026, may cross 90 mark: MUFG report
-    Source : MSN  |  Date: 2025-12-26T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/indian-rupee-to-weaken-into-2026-may-cross-90-mark-mufg-report/ar-AA1T6j7p?ocid=BingNewsVerp
-    Content: The Indian rupee is expected to show more weakness going ahead into 2026, according to a report by MUFG, a global financial group. In a report earlier this month, it forecast more weakness for the ...  [DDG snippet — full article blocked]
+[8] Crude oil prices surge amid escalating conflict in Iran
+    Source : ET Now on MSN  |  Date: 2026-03-10T17:44:42+00:00
+    URL    : https://www.msn.com/en-in/money/economy/crude-oil-prices-surge-amid-escalating-conflict-in-iran/ar-AA1XQYlk?ocid=BingNewsVerp
+    Content: Crude oil prices have surged due to escalating tensions from the Iran conflict, impacting global supply and leading to fears of further price increases.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[9] Oil, rupee, markets: All alarms are blaring for India's economy
-    Source : The Economic Times on MSN  |  Date: 2026-03-09T17:37:59+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/oil-rupee-markets-all-alarms-are-blaring-for-india-s-economy/ar-AA1XOJ6N?ocid=BingNewsVerp
-    Content: India's financial markets faced a significant jolt as soaring global oil prices, driven by Middle East tensions, sent the ...  [DDG snippet — full article blocked]
+[9] US drivers see gas prices jump to their highest level since 2023 as Iran...
+    Source : KKTV 11 Colorado Springs  |  Date: 2026-03-17T17:44:42+00:00
+    URL    : https://www.kktv.com/2026/03/17/us-drivers-see-gas-prices-jump-their-highest-level-since-2023-iran-conflict-drags/
+    Content: NEW YORK (AP) — The Iran war has rattled the global flow of oil, with steeper fuel costs already straining households worldwide. And in the U.S., drivers are now facing the highest prices they’ve seen at the pump in nearly two and a half years. According to motor club AAA, the national average for a gallon of regular gasoline jumped to $3.79 on Tuesday, up from $2.98 consumers were paying before the U.S. and Israel launched the war with joint attacks against Iran on Feb. 28. The last time gas prices were as expensive as they are now was in October 2023. “It’s pretty hard. I mean, times are tough for everybody right now,” Amanda Acosta, a Louisiana resident, told The Associated Press while filling up her car’s tank this week. “I’m getting way less gas and paying way more money.” She isn’t alone.
 ----------------------------------------
 
-[10] Rupee weakness now a 5-channel threat to India’s economy, BofA warns
-    Source : MSN  |  Date: 2025-12-07T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/rupee-weakness-now-a-5-channel-threat-to-india-s-economy-bofa-warns/ar-AA1RWcAk?ocid=BingNewsVerp
-    Content: India’s weakening currency is triggering a broad, five-channel macroeconomic shock that could reshape everything from corporate sentiment to fiscal accounts, Bank of America Global Research said in a ...  [DDG snippet — full article blocked]
+[10] Mideast war plunges Germany's energy-hungry industry into crisis
+    Source : AFP· via Yahoo Finance  |  Date: 2026-03-13T17:44:42+00:00
+    URL    : https://finance.yahoo.com/news/mideast-war-plunges-germanys-energy-143404680.html
+    Content: Germany's energy-hungry industries are sounding the alarm about the devastating impacts of the Middle East war as companies battle problems from surging power costs to snarled supply chains. From chemicals to steel and cement, Europe's biggest economy is a major producer of industrial goods that require huge quantities of power to make, and Germany imports much of its energy. The price jumps triggered by the conflict and closure of key energy route the Strait of Hormuz, which has pushed oil above $100, is a hammer blow to traditional manufacturers who were already struggling. Adding to the problems is chaos in global supply chains, which industry groups warn is leading to bottlenecks for vital basic inputs for manufacturing. "Our companies are currently operating in absolute crisis mode," said Wolfgang Grosse Entrup, chief executive of the VCI association representing chemical firms, one of Germany's main industrial sectors.
 ----------------------------------------
 
 
 ########################################
-TREND: US Federal Reserve Rate Decision and Middle East Tensions
-LLM Search Query: US Fed rate decision impact on global oil prices and supply chain disruptions
+TREND: US Federal Reserve's Hawkish Stance and Interest Rate Policy
+LLM Search Query: US Federal Reserve hawkish stance impact on global stock markets and interest rate sensitive sectors
 Articles scraped: 10
 ########################################
 
-[1] Rate Hike Fails to Lift Aussie as RBA’s 5–4 Split Felt Like a Hold
-    Source : FX Empire· via Yahoo Finance  |  Date: 2026-03-17T17:38:10+00:00
-    URL    : https://finance.yahoo.com/news/rate-hike-fails-lift-aussie-095929692.html
-    Content: Following three consecutive rate cuts of 25 basis points each last year, and a pause through the final meetings of 2025, the central bank has now delivered two rate hikes since January. The latest move on 17 March brings the cash rate to 4.10%, marking its highest level since April 2025 and reflecting renewed concerns around inflation. However, the decision failed to generate sustained upside in the Australian Dollar (AUD), probably because of the narrow voting split. With only five of nine board members supporting the increase, markets interpreted the outcome as lacking conviction. Rather than signalling the start of an aggressive tightening cycle, the decision was perceived as a cautious adjustment, closer in spirit to a hold than a decisive hike. Adding to the AUD ’s headwinds is the persistent strength of the US Dollar, which continues to attract safe-haven flows as the conflict in Iran escalates. The immediate response saw AUD/USD spike above 0.
+[1] Why The March Fed Meeting Was More Hawkish Than Expected
+    Source : Forbes  |  Date: 2026-03-18T21:31:00+00:00
+    URL    : https://www.forbes.com/sites/garthfriesen/2026/03/18/why-the-march-fed-meeting-was-more-hawkish-than-expected/
+    Content: The Fed did not change policy, but it did change expectations. The March 2026 FOMC meeting surprised markets with a hawkish dot plot.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] Will the Fed cut interest rates? What we know as Iran war clouds picture
-    Source : USA TODAY· via Yahoo Finance  |  Date: 2026-03-15T17:38:10+00:00
-    URL    : https://finance.yahoo.com/news/fed-weigh-interest-rates-amid-090547736.html
-    Content: Forecasters widely expect the Federal Reserve to keep its benchmark interest rate unchanged when it concludes its two-day meeting on March 18, as policymakers weigh the economic impact of the ongoing war with Iran . In addition to the United States going to war, much has happened since the Federal Open Market Committee held the rate steady at a target range of 3.5% to 3.75% at its last meeting in January , following three cuts late last year. January and February jobs reports from the Bureau of Labor Statistics sent mixed signals about the labor market, with January showing growth above expectations and February seeing jobs lost. CPI inflation has ticked down since policymakers last met, but economists want to see March data, as the latest figures do not reflect the recent surge in the cost of oil . Rising oil prices could ripple through supply chains and push other prices higher.
+[2] US Fed meeting: Rates remain unchanged; how can the policy decision impact Indian stock market?
+    Source : Mint  |  Date: 2026-03-19T13:26:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/us-fed-meeting-rates-remain-unchanged-how-can-the-policy-decision-impact-indian-stock-market/ar-AA1YWzrc
+    Content: The US Federal Open Market Committee (FOMC) on March 18 kept benchmark interest rates steady at 3.5% to 3.75%. Experts say the Fed's policy is on expected lines. The central bank slightly revised its inflation estimates for 2026 upward.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] Looming Fed meeting shifts bets for 2026 interest-rate cuts
-    Source : TheStreet· via Yahoo Finance  |  Date: 2026-03-15T17:38:10+00:00
-    URL    : https://finance.yahoo.com/news/looming-fed-meeting-shifts-bets-150700230.html
-    Content: When it comes to the benchmark federal funds rate , we’re all in. That’s because it guides interest rates for auto and student loans , home-equity loans and credit cards. It also impacts the 10-year Treasury bond, which in turn affects mortgage rates in the stagnant housing market. Billions of dollars in taxpayer money — primarily from individual tax returns and payroll taxes — pay the interest on the nation’s $38.9 trillion debt. For consumers, a delayed rate cut could mean higher borrowing costs during an affordability crisis, sending many Americans scrambling to pay energy, grocery, shelter, and health care bills in a “low-hire, low-fire” labor market. Against the fog of the Iran attacks, increasing inflation expectations, labor market concerns, and stagflation fears, the Federal Reserve is widely expected to hold the funds rate steady at its policymaking meeting this week.
+[3] Indian markets tumble over 2% at open as oil shock, hawkish Fed and HDFC Bank rout rattle sentiment
+    Source : Firstpost  |  Date: 2026-03-19T03:58:00+00:00
+    URL    : https://www.firstpost.com/business/indian-markets-tumble-over-2-at-open-as-oil-shock-hawkish-fed-and-hdfc-bank-rout-rattle-sentiment-13991036.html
+    Content: Indian equity benchmarks Sensex and Nifty 50 plunged over 2% in early trade, weighed down by a surge in Brent crude above $110 amid Iran war escalation, a hawkish US Federal Reserve stance, and a shar  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[4] Finance week ahead: Interest rates, Alibaba, Micron Technology, Prudential and...
-    Source : Yahoo Finance UK  |  Date: 2026-03-13T17:38:10+00:00
-    URL    : https://finance.yahoo.com/news/interest-rates-alibaba-micron-technology-prudential-jd-wetherspoon-finance-week-ahead-162346710.html
-    Content: Interest rates decisions in the US and UK will be the focus in the week ahead, along with earnings from a number of major companies. Soaring oil prices as a result of the conflict in the Middle East has sparked fears that this will push broader inflation higher, creating more uncertainty around the direction of interest rates. Investors will be keeping a close eye on rate decisions and commentary from the US Federal Reserve and the Bank of England (BoE) for any indication on their outlook for inflation and interest rates. In terms of earnings, Chinese tech giant Alibaba ( 9988.HK , BABA ) is set to report, with investors looking for further growth from its investments in artificial intelligence (AI) and cloud computing. Another tech company set to release earnings is Micron Technology ( MU ), which has continued to see strong demand for its memory chips amid the AI boom. In the UK, insurer Prudential ( PRU.
+[4] Fed, BoC strike hawkish tones as top central banks convene in war's shadow
+    Source : Reuters  |  Date: 2026-03-19T01:34:58+00:00
+    URL    : https://www.msn.com/en-us/money/markets/fed-boc-strike-hawkish-tones-as-top-central-banks-convene-in-war-s-shadow/ar-AA1YWlCr
+    Content: By Promit Mukherjee and Howard Schneider OTTAWA/WASHINGTON, March 18 (Reuters) - The U.S. Federal Reserve and Bank of Canada struck hawkish tones on Wednesday as the Iran war drove energy prices sharply higher and a pivotal week of global central bank meetings kicked into full swing.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Fed likely to hold rates steady as Iran war shocks policy debate
-    Source : Reuters on MSN  |  Date: 2026-03-06T17:38:10+00:00
-    URL    : https://www.msn.com/en-us/money/economy/fed-likely-to-hold-rates-steady-as-iran-war-shocks-policy-debate/ar-AA1YSlts?ocid=BingNewsVerp
-    Content: WASHINGTON, March 18 (Reuters) - Federal Reserve officials, convening in a wartime setting that began less than three weeks ...  [DDG snippet — full article blocked]
+[5] March FOMC: The Fed's Rate Path Barely Changed, But Its Tone Did
+    Source : Seeking Alpha  |  Date: 2026-03-18T21:45:00+00:00
+    URL    : https://seekingalpha.com/article/4883847-march-fomc-the-feds-rate-path-barely-changed-but-its-tone-did
+    Content: Growth and inflation projections for 2025-2027 were revised higher, while the rate path remained largely unchanged, signaling reluctance to tighten policy further. FOMC members are increasingly concerned about upside inflation risks from energy prices,  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Looming Fed meeting shifts bets for 2026 interest-rate cuts as Iran War oil shock clouds inflation outlook due t
-    Source : TheStreet on MSN  |  Date: 2026-03-15T17:38:10+00:00
-    URL    : https://www.msn.com/en-us/money/economy/looming-fed-meeting-shifts-bets-for-2026-interest-rate-cuts-as-iran-war-oil-shock-clouds-inflation-outlook-due-t/ar-AA1YFN3G?ocid=BingNewsVerp
-    Content: The Federal Reserve’s meeting this week may reshape expectations for 2026 rate cuts as the Iran war, rising oil prices and ...  [DDG snippet — full article blocked]
+[6] Traders stick with hawkish rate bets on big day for European central banks
+    Source : Reuters  |  Date: 2026-03-19T09:03:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/traders-stick-with-hawkish-rate-bets-on-big-day-for-european-central-banks/ar-AA1YXGnz
+    Content: LONDON, March 19 (Reuters) - Investors were sticking with bets for rate hikes in Europe on Thursday, ahead of European Central Bank and Bank of England policy decisions, with rate cut hopes dashed as the U.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] Tariffs, Oil Shock, and US-Iran Tensions: Impact on the US Dollar, S&P 500, and Global Trade
-    Source : FX Empire  |  Date: 2026-03-10T17:38:10+00:00
-    URL    : https://www.fxempire.com/forecasts/article/tariffs-oil-shock-and-us-iran-tensions-impact-on-the-us-dollar-sp-500-and-global-trade-1585296
-    Content: Slowing US economic growth, rising oil prices due to US-Iran tensions, and ongoing tariff disputes are creating uncertainty ...  [DDG snippet — full article blocked]
+[7] The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price
+    Source : The Motley Fool  |  Date: 2026-03-14T11:36:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/the-trump-led-iran-war-can-lead-to-a-triple-whammy-for-the-federal-reserve-and-the-stock-market-may-end-up-paying-the-price/ar-AA1YBWUs
+    Content: America's foremost financial institution may become one of the stock market's biggest liabilities.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] US economy faces fresh uncertainty as Iran war threatens oil shock, Fed outlook
-    Source : Firstpost  |  Date: 2026-03-02T18:30:00+00:00
-    URL    : https://www.firstpost.com/business/us-economy-faces-fresh-uncertainty-as-iran-war-threatens-oil-shock-fed-outlook-13985749.html
-    Content: US economy that has weathered a year of trade tensions, immigration curbs and political uncertainty is confronting a fresh test after President Donald Trump ordered open-ended military strikes on Iran ...  [DDG snippet — full article blocked]
+[8] US Fed meeting: Rates remain unchanged; how can the policy decision impact Indian stock market?
+    Source : Mint on MSN  |  Date: 2026-03-01T17:45:07+00:00
+    URL    : https://www.msn.com/en-in/money/markets/us-fed-meeting-rates-remain-unchanged-how-can-the-policy-decision-impact-indian-stock-market/ar-AA1YWzrc?ocid=BingNewsVerp
+    Content: The US Federal Open Market Committee (FOMC) on March 18 kept benchmark interest rates steady at 3.5% to 3.75%. Experts say ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[9] Stock market today: Dow, S&P 500, Nasdaq slide after PPI inflation comes in hot ahead of Fed decision
-    Source : Yahoo Finance UK  |  Date: 2026-03-17T17:38:10+00:00
-    URL    : https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-slide-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104442.html
-    Content: US stocks fell on Wednesday after the latest reading on prices pointed to accelerating inflation as investors waited for the Federal Reserve’s latest policy decision. The Dow Jones Industrial Average ( ^DJI ) lost nearly 0.9%, or more than 400 points, following a second winning day in a row for Wall Street stocks. The S&P 500 ( ^GSPC ) and tech-focused Nasdaq Composite ( ^IXIC ) each fell about 0.5%. Wholesale inflation accelerated 0.7% month-over-month in February before the effects of the Middle East conflict gripped markets this month, new government data showed. The PPI reading weighed on markets already bracing for the Fed's policy decision later Wednesday , the central bank's Summary of Economic Projections, and what Chair Jerome Powell might say about the potential inflationary impact of high oil prices in his comments.
+[9] Fed minutes suggest rate hikes on table again amid inflation jitters
+    Source : MSN  |  Date: 2026-02-18T18:30:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/fed-minutes-suggest-rate-hikes-on-table-again-amid-inflation-jitters/ar-AA1WDOjG?ocid=BingNewsVerp
+    Content: United States Federal Reserve policymakers discussed the possibility of interest rate increases last month, according to newly released comments from a January meeting. The minutes of the Federal Open ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[10] USD / CAD - Canadian dollar in park ahead of BoC and Fed
-    Source : Baystreet.ca  |  Date: 2026-03-15T17:38:10+00:00
-    URL    : https://www.baystreet.ca/forex_trader/3707/USD-CAD--Canadian-dollar-in-park-ahead-of-BoC-and-Fed
-    Content: Fed and BoC expected to leave interest rates unchanged today - Oil prices drift lower and global equity indexes rise. - The ...  [DDG snippet — full article blocked]
+[10] Bank of Japan interest rate decision on Thursday: Can BOJ lift rates further? How could it impact Indian stock market?
+    Source : Mint on MSN  |  Date: 2026-03-18T17:45:07+00:00
+    URL    : https://www.msn.com/en-in/money/markets/bank-of-japan-interest-rate-decision-on-thursday-can-boj-lift-rates-further-how-could-it-impact-indian-stock-market/ar-AA1YTbkb?ocid=BingNewsVerp
+    Content: The Bank of Japan raised the short-term benchmark interest rate to a range of 0 to 0.1% from minus 0.1% earlier on March 19, 2024, ending its era of negative interest rates. On December 19, 2025, the ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
 
 ########################################
-TREND: Jio Platforms IPO and Potential Impact on Indian Stock Market
-LLM Search Query: impact of Jio Platforms IPO on Indian telecom and digital sectors
-Articles scraped: 8
+TREND: Gold and Silver Price Decline Due to Stronger US Dollar
+LLM Search Query: impact of stronger US dollar on gold and silver prices and mining sector performance
+Articles scraped: 10
 ########################################
 
-[1] Jio Likely To File Draft IPO Papers By Month-End: Report
-    Source : Inc42  |  Date: 2026-03-18T06:29:00+00:00
-    URL    : https://inc42.com/buzz/jio-likely-to-file-draft-ipo-papers-by-month-end-report/
-    Content: Jio Platforms has onboarded 17 bankers to handle the public issue, including Morgan Stanley, JP Morgan Chase, Goldman Sachs, Axis Capital, among others This came days after the Centre eased the public float norms for mega IPOs to address concerns about market depth Last year, Reliance CMD Mukesh Ambani said Jio was preparing to file for an IPO with a target listing in the first half of 2026 Jio Platforms may file its draft IPO papers with SEBI as early as the end of this month, including its financials up to the December quarter of 2025. The telecom and digital services arm of Reliance Industries Ltd (RIL) kicked off its public listing process yesterday by appointing 17 bankers. Morgan Stanley, HSBC Holdings, JPMorgan, Citigroup, and Goldman Sachs are among the nine global banks appointed for advisory roles, Bloomberg reported citing sources. Domestic advisors include Kotak Mahindra Capital, Axis Capital, JM Financial, SBI Capital Markets, among others, it added.
+[1] A Look at Blackrock Silver (TSXV:BRC) Valuation Following Updated Tonopah West...
+    Source : Simply Wall St.· via Yahoo Finance  |  Date: 2025-09-20T17:45:20+00:00
+    URL    : https://finance.yahoo.com/news/look-blackrock-silver-tsxv-brc-110240730.html
+    Content: If you have been following Blackrock Silver (TSXV:BRC), the recent update on its mineral resource estimate at the Tonopah West project might have caught your attention. The company just released results from its latest drilling campaign, featuring over 83 new drillholes and a refined geologic model that maps out even more potential for silver and gold at the site. This is exactly the kind of concrete progress that moves the needle for junior mining stocks, giving investors fresh data to weigh and new reasons to revisit their outlook on the company. This announcement adds to a string of busy developments in 2025, including the expansion of drilling at Tonopah West and Blackrock Silver's presentation at the Precious Metals Summit. These updates seem to be building momentum, as shown by the stock's performance. Shares are up 155% over the past year and have more than doubled since January.
 ----------------------------------------
 
-[2] RIL appoints 17 bankers for a potential Rs 40,000 crore Jio Platforms IPO
-    Source : The Economic Times  |  Date: 2026-03-18T07:18:39+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/ril-appoints-17-bankers-for-a-potential-rs-40000-crore-jio-platforms-ipo/ar-AA1YShto
-    Content: Jio Platforms has appointed 17 global and domestic investment banks, including Goldman Sachs and Morgan Stanley, to begin work on its mega IPO. With valuation estimates near $180 billion, even a 2.5% float could become India's largest-ever public offering.  [DDG snippet — full article blocked]
+[2] AU Vs NEM: Which Gold Stock is the Smarter Play Amid the Recent Rally?
+    Source : Zacks· via Yahoo Finance  |  Date: 2025-04-23T17:45:20+00:00
+    URL    : https://finance.yahoo.com/news/au-vs-nem-gold-stock-163500022.html
+    Content: AngloGold Ashanti PLC AU and Newmont Corporation NEM are leading global gold mining names with diversified operations across multiple continents. Gold prices hit a record $3,211 per ounce yesterday, fueled by a weaker U.S. dollar, rising safe-haven demand and the intensifying U.S.-China trade tensions. The United States raised tariffs on China imports to 145%, with a new 125% levy added on top of an earlier 20% duty. China retaliated by imposing 125% tariffs on U.S. goods, up from the previously announced 84%. Gold prices have jumped 22% year to date. This trend is expected to continue, fueled by robust central bank buying, expanding industrial use in energy, healthcare and technology, and escalating trade tensions. Backed by this rally, the Zacks Mining - Gold industry has jumped 34.3% year to date against the Zacks Basic Materials sector’s 1.6% dip.
 ----------------------------------------
 
-[3] Jio Platforms IPO: Reliance Q3 results today; key things to watch for digital business
-    Source : MSN  |  Date: 2026-01-16T04:01:00+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/jio-platforms-ipo-reliance-q3-results-today-key-things-to-watch-for-digital-business/ar-AA1UjXcl
-    Content: RIL Q3 results: Mukesh Ambani led oil, telecom and retail behemoth Reliance Industries Ltd (RIL) will announce its results for the quarter and nine-months ended on December 31, 2025. Besides this, investors will be looking at developments around the much ...  [DDG snippet — full article blocked]
+[3] Housebuilding and China trade hopes lift London stocks
+    Source : PA Media: Money· via Yahoo Finance  |  Date: 2025-06-22T17:45:20+00:00
+    URL    : https://finance.yahoo.com/news/housebuilding-china-trade-hopes-lift-164011110.html
+    Content: Stocks in London ended higher on Tuesday, led by gains in housebuilders and amid signs of progress in US-China trade talks. The FTSE 250 ended up 103.55 points, 0.5%, at 21,389.46, and the AIM All-Share climbed 2.43 points, 0.3%, to 766.32. In Paris, the Cac 40 rose 0.2%, while Frankfurt’s Dax 40 ended 0.8% lower. In the UK, figures showed the unemployment rate rose slightly in the three months to April, as expected, while pay growth was more moderate than forecast. The Office for National Statistics said the rate increased to 4.6% in the period from February to April, in line with FXStreet-cited consensus, from 4.5% in the first three months of 2025. The last time the jobless rate was higher was in the period from April to June 2021, at 4.7%, according to the ONS. The ONS also said annual growth in average earnings was 5.2% for regular earnings, which exclude bonuses, and 5.3% for total earnings, which factor in bonuses. However, regular earnings growth of 5.
 ----------------------------------------
 
-[4] Telecom giant Reliance Jio eyes early 2026 listing in what could be India's biggest IPO
-    Source : CNBC  |  Date: 2025-08-29T09:07:00+00:00
-    URL    : https://www.cnbc.com/2025/08/29/indias-richest-man-mukesh-ambani-to-list-jio-in-biggest-ever-ipo.html
-    Content: India's richest man, Mukesh Ambani, on Friday announced plans to list the country's largest telecom operator, Jio Platforms, by the first half of 2026. Speaking to shareholders over video conference on Friday, Ambani said that the total user base of Jio, which started operations in 2016, has now crossed 500 million. "Just a week from now, Jio will enter its 10th year of service to the nation. Looking back, these years have been the most glorious in India's digital history," Ambani said. Reliance Industries, controlled by Ambani, holds a 66.5% stake in Jio Platforms Ltd, which in turn, owns all of Reliance Jio Infocomm. In the near future, Ambani said that Jio aims to expand its operations outside of India. He did not offer a timeline. Ambani also announced two AI partnerships: one with Google, aimed at providing services to developers, startups and enterprises. The second arrangement is a $100-million joint venture that will build and scale AI solutions for enterprises.
+[4] Iran crisis pressures gold, silver, platinum, and palladium as a stronger dollar weighs
+    Source : Seeking Alpha  |  Date: 2026-03-09T17:45:20+00:00
+    URL    : https://seekingalpha.com/news/4562112-iran-crisis-pressures-gold-and-silver-platinum-and-palladium-also-decline
+    Content: Gold ( XAUUSD:CUR) and silver prices fell on Monday, pressured by a stronger U.S. dollar ( DXY) and higher interest rate ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Billionaire Ambani plans to take Reliance Jio public by mid-2026
-    Source : Reuters  |  Date: 2025-08-29T13:12:00+00:00
-    URL    : https://www.reuters.com/world/india/billionaire-ambani-plans-take-reliance-jio-public-by-mid-2026-2025-08-29/
-    Content: Jio aims for IPO by first half of 2026 Meta and Reliance announce $100 million joint venture Google to establish Jamnagar Cloud region for Reliance Aug 29 (Reuters) - India's Reliance Industries (RELI.NS), opens new tab is planning to take its telecoms and ...  [DDG snippet — full article blocked]
+[5] The impact of India-US trade deal on gold & silver prices: Expert explains
+    Source : MSN  |  Date: 2026-02-02T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/economy/the-impact-of-india-us-trade-deal-on-gold-silver-prices-expert-explains/ar-AA1VxQ4k?ocid=BingNewsVerp
+    Content: New Delhi: Gold prices have been declining in the last 2-3 days. However, both the precious metals went up today. On Monday, US and India announced that a trade agreement has been reached and United ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Reliance Said to Seek Small Float in Jio IPO, Raising $6 Billion
-    Source : Bloomberg L.P.  |  Date: 2025-07-29T23:59:00+00:00
-    URL    : https://www.bloomberg.com/news/articles/2025-07-30/mukesh-ambani-s-reliance-said-to-seek-small-float-in-jio-ipo-raising-6-billion
-    Content: Reliance Industries Ltd. is proposing to sell just 5% of its Jio telecommunications unit in a potential listing that may raise more than $6 billion, people familiar with the matter said. Billionaire Mukesh Ambani's conglomerate has begun informal talks ...  [DDG snippet — full article blocked]
+[6] Gold, silver prices plunge as Iran conflict sparks inflation concerns, strengthens dollar
+    Source : Forbes on MSN  |  Date: 2026-03-02T18:30:00+00:00
+    URL    : https://www.msn.com/en-us/money/markets/gold-silver-prices-plunge-as-iran-conflict-sparks-inflation-concerns-strengthens-dollar/ar-AA1XrXGJ?ocid=BingNewsVerp
+    Content: The price of silver plunged more than 10% at the metal’s lowest point Tuesday morning.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] Ambani's Reliance Jio considers 2.5% public offering in 2026 India IPO, sources say
-    Source : Reuters  |  Date: 2026-01-09T11:34:00+00:00
-    URL    : https://www.reuters.com/world/india/ambanis-reliance-jio-considers-25-public-offering-2026-india-ipo-sources-say-2026-01-09/
-    Content: LONDON/MUMBAI/HONG KONG, Jan 9 (Reuters) - Reliance Jio Platforms is considering an initial public offering this year that would float 2.5% of the company, people familiar with the matter said, a move that could make it the country's largest-ever IPO worth ...  [DDG snippet — full article blocked]
+[7] India-US trade deal impact on gold, silver price today, Feb 3: Silver zooms Rs 19000, gold up 4%; time to buy?
+    Source : MSN  |  Date: 2026-02-02T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/india-us-trade-deal-impact-on-gold-silver-price-today-feb-3-silver-zooms-rs-19000-gold-up-4-time-to-buy/ar-AA1VyeaK?ocid=BingNewsVerp
+    Content: Gold, Silver Rate Today: Gold and silver prices on the Multi-Commodity Exchange (MCX) rebounded sharply on Tuesday, snapping a recent losing streak after positive cues from the India-US trade deal ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] ET AI Conclave & Awards Live: ET AI Awards concluded; From HUL to Jio Platforms, India Inc's AI pioneers took centre stage
-    Source : The Economic Times  |  Date: 2001-01-01T00:00:00+00:00
-    URL    : https://economictimes.indiatimes.com/ai/ai-insights/et-ai-awards-live-updates-date-time-economic-times-ai-conclave-and-awards-winners-speakers-keynotes-highlights/liveblog/128802152.cms
-    Content: The ET AI Conclave & Awards concluded in Bengaluru after bringing together over 250 AI leaders, policymakers and founders for a day of discussions and collaboration. With deep-dive sessions, senior industry speakers and extensive networking,  [DDG snippet — full article blocked]
+[8] Silver, Gold prices fall: Why did the precious metals declined today
+    Source : MSN  |  Date: 2026-02-11T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/silver-gold-prices-fall-why-did-the-precious-metals-declined-today/ar-AA1Wb21o?ocid=BingNewsVerp
+    Content: New Delhi: After rising on Wednesday, gold and silver prices declined on Thursday. The rates of precious metals dropped due to strong US dollar and a decline in the international market. Both the ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[9] PGM Prices Are Not Helping Sibanye Stillwater
+    Source : GuruFocus.com· via Yahoo Finance  |  Date: 2024-03-19T17:45:20+00:00
+    URL    : https://finance.yahoo.com/news/pgm-prices-not-helping-sibanye-140003491.html
+    Content: Johannesburg-based company Sibanye Stillwater Ltd. ( NYSE:SBSW ) released its six-month earnings results for the period ended Dec. 31, 2023, on March 5. I have been following the miner since February 2014 and own a long-term position in the company. The group is mining platinum, palladium, rhodium, gold, chrome and, most recently, lithium, nickel and zinc. The revenue per metal for the six-month period is indicated in the chart below: The revenue from gold in the second half represented the lion's share with $774 million. Understanding Sibanye's balance sheet can be complex and time-consuming. Still, it is worth noting the company's business model highly correlates with the prices of precious metals such as platinum group metals and gold. Recently, gold and silver prices have significantly increased and reached new records, while PGM prices, which constitute a substantial portion of the company's revenue, have been weak.
+----------------------------------------
+
+[10] Car giants suffer £6bn hit as fears rise over steel tariffs
+    Source : The Telegraph· via Yahoo Finance  |  Date: 2025-10-20T17:45:20+00:00
+    URL    : https://finance.yahoo.com/news/car-giants-suffer-6bn-hit-171039148.html
+    Content: More than £6bn was wiped off the value of European carmakers on Wednesday amid fears they will be forced to pay more for steel. The European Commission on Tuesday proposed a 50pc duty on steel, above a quota, in a bid to help EU producers of the metal. But the European Automobile Manufacturers’ Association (ACEA) said the plans could burden carmakers with higher costs. Sigrid de Vries, its director general, said: “We do not contest the need for some level of protection for a commodity industry like steel but we feel that the parameters as proposed by the Commission go too far in ring-fencing the European market. “We need to find a better balance between the needs of European producers and users of steel in this measure.” Although European car manufacturers source around 90pc of their steel purchases from EU producers, they are “most concerned about the inflationary impact” of what the EU calls “strong and permanent protection”.
 ----------------------------------------
 
 
@@ -249,178 +263,205 @@ Articles scraped: 8
 === PHASE 3: LLM STOCK IMPACT ANALYSIS ===
 ==================================================
 
-### TREND: Indian Rupee Slides to All-Time Lows Against USD
+### TREND: Soaring Oil Prices and Supply Disruption in West Asia
 
-1. **SUMMARY**:
-   - The Indian rupee has depreciated significantly against the USD, reaching record lows, primarily due to geopolitical tensions and trade policies.
-   - This depreciation impacts import costs and export competitiveness, affecting various sectors in India.
+**SUMMARY**
+Oil prices have surged due to the escalating conflict in the Middle East, particularly the U.S.-Israeli strikes on Iran, leading to supply disruptions and increased geopolitical tensions.
 
-2. **BULLISH SECTORS**:
-   - **Exporters**: Companies like Tata Motors (TATAMOTORS.NS), Infosys (INFY.NS), and Hindustan Unilever (HINDUNILVR.NS) could benefit as their exports become cheaper.
-   - **IT Services**: Companies like Wipro (WIPRO.NS) and Cognizant (CTSH) may see increased demand as their services become more affordable internationally.
+**BULLISH SECTORS**
+- **Energy Sector:** Companies like ExxonMobil (XOM), Chevron (CVX), and BP (BP) are likely to benefit from higher oil prices.
+- **Shipping:** Companies like Maersk (MAK) and CMA CGM (CGM) may see increased demand for shipping services due to supply chain disruptions.
 
-3. **BEARISH SECTORS**:
-   - **Imports**: Companies like Reliance Industries (RELI.NS) and Bharti Airtel (BHARTIARTL.NS) could suffer due to higher import costs for raw materials and technology.
-   - **Consumer Discretionary**: Sectors like travel and education could see reduced demand as costs increase for overseas services.
+**BEARISH SECTORS**
+- **Consumer Discretionary:** Airlines like American Airlines (AAL) and United Airlines (UAL) will face higher fuel costs, reducing profitability.
+- **Manufacturing:** Companies like General Motors (GM) and Ford (F) will incur higher energy costs, impacting margins.
 
-4. **MAGNITUDE**:
-   - **Medium**: The rupee's depreciation is significant but not yet catastrophic, with potential for further decline based on ongoing geopolitical tensions.
+**MAGNITUDE**
+- **High**: The impact is significant due to the critical role of oil in global economies and supply chains.
 
-5. **TIME HORIZON**:
-   - **Long (6 months+)**: The impact will be felt over a longer period as businesses adjust to new cost structures and demand patterns.
+**TIME HORIZON**
+- **Medium (1-6 months)**: The conflict's duration and its effects on supply chains will play a key role in determining the timeline.
 
-### TREND: US Federal Reserve Rate Decision and Middle East Tensions
+### TREND: US Federal Reserve's Hawkish Stance and Interest Rate Policy
 
-1. **SUMMARY**:
-   - The US Federal Reserve is expected to maintain interest rates steady amid ongoing Middle East tensions and rising oil prices, impacting global markets and supply chains.
-   - The conflict in the Middle East is causing volatility in oil prices and supply chain disruptions, affecting global economies.
+**SUMMARY**
+The US Federal Reserve has taken a hawkish stance, signaling potential future interest rate hikes amid inflation concerns, which is impacting global stock markets and interest rate-sensitive sectors.
 
-2. **BULLISH SECTORS**:
-   - **Energy**: Companies like ExxonMobil (XOM) and Chevron (CVX) could benefit from higher oil prices.
-   - **Defense**: Companies like Lockheed Martin (LMT) and Raytheon Technologies (RTX) may see increased demand for defense-related products.
+**BULLISH SECTORS**
+- **Financials:** Banks like JPMorgan Chase (JPM) and Wells Fargo (WFC) may benefit from higher interest rates.
+- **Utilities:** Companies like NextEra Energy (NEE) and Dominion Energy (D) may see increased demand for stable dividend yields.
 
-3. **BEARISH SECTORS**:
-   - **Consumer Discretionary**: Companies like Walmart (WMT) and Home Depot (HD) could suffer due to higher borrowing costs and inflation.
-   - **Manufacturing**: Companies like General Motors (GM) and Ford (F) may face increased costs for raw materials and supply chain disruptions.
+**BEARISH SECTORS**
+- **Consumer Discretionary:** Retailers like Walmart (WMT) and Target (TGT) may face higher borrowing costs.
+- **Technology:** Companies like Alphabet (GOOGL) and Microsoft (MSFT) may see reduced investment due to higher interest rates.
 
-4. **MAGNITUDE**:
-   - **High**: The impact is significant due to the intertwined nature of global economies and the direct impact of oil prices on inflation and supply chains.
+**MAGNITUDE**
+- **Medium**: The impact is substantial due to the broad reach of interest rates on various sectors.
 
-5. **TIME HORIZON**:
-   - **Medium (1-6 months)**: The immediate impact will be felt in the short to medium term, with potential long-term effects depending on the duration of the conflict.
+**TIME HORIZON**
+- **Medium (1-6 months)**: The timing of rate hikes and their effects on the economy will be crucial.
 
-### TREND: Jio Platforms IPO and Potential Impact on Indian Stock Market
+### TREND: Gold and Silver Price Decline Due to Stronger US Dollar
 
-1. **SUMMARY**:
-   - Reliance Jio Platforms is expected to file for an IPO in early 2026, potentially raising over $6 billion and becoming India's largest-ever public offering.
-   - The IPO could significantly impact the Indian stock market, particularly in the telecom and digital sectors.
+**SUMMARY**
+Gold and silver prices have declined due to a stronger US dollar and higher interest rates, which reduce demand for precious metals as investment alternatives become more attractive.
 
-2. **BULLISH SECTORS**:
-   - **Telecom**: Companies like Bharti Airtel (BHARTIARTL.NS) and Vodafone Idea (IDEA.NS) could benefit from increased competition and innovation.
-   - **Digital Services**: Companies like Paytm (PAYTM.NS) and Zomato (ZOMATO.NS) may see growth as Jio expands its digital ecosystem.
+**BULLISH SECTORS**
+- **Mining Equipment:** Companies like Caterpillar (CAT) and Komatsu (KOM) may benefit from increased demand for mining equipment.
+- **Industrial Metals:** Companies like Freeport-McMoRan (FCX) and Newmont (NEM) may see increased demand for industrial metals.
 
-3. **BEARISH SECTORS**:
-   - **Telecom Infrastructure**: Companies like Sterlite Technologies (STERL.NS) and Tata Communications (TATACOMM.NS) could face increased competition from Jio.
-   - **Retail**: Companies like BigBasket (BB.NS) and Grofers (GRF.NS) may see reduced demand as Jio enters the retail space.
+**BEARISH SECTORS**
+- **Gold and Silver Mining:** Companies like Barrick Gold (GOLD) and Newmont (NEM) will face reduced prices for their primary products.
+- **Precious Metals ETFs:** Funds like SPDR Gold Shares (GLD) and iShares Silver Trust (SLV) will see decreased value.
 
-4. **MAGNITUDE**:
-   - **High**: The impact is expected to be significant, given the scale of the IPO and Jio's market presence.
+**MAGNITUDE**
+- **Medium**: The impact is significant due to the inverse relationship between precious metals and the US dollar.
 
-5. **TIME HORIZON**:
-   - **Short (< 1 month)**: The immediate impact will be felt in the short term as the IPO filing and market reactions occur.
+**TIME HORIZON**
+- **Short (< 1 month)**: The effects of currency strength and interest rates on precious metals prices can be rapid.
 
 ### PORTFOLIO SIGNAL
 
-- **Urgency Ranking**:
-  1. **Jio Platforms IPO**: High urgency due to the immediate impact on the Indian stock market.
-  2. **US Federal Reserve Rate Decision and Middle East Tensions**: Medium urgency due to ongoing geopolitical and economic uncertainties.
-  3. **Indian Rupee Slides to All-Time Lows Against USD**: Long-term urgency as the impact unfolds over a longer period.
+**URGENCY RANKING:**
+1. **Soaring Oil Prices and Supply Disruption in West Asia** - High urgency due to immediate supply chain disruptions and geopolitical tensions.
+2. **US Federal Reserve's Hawkish Stance and Interest Rate Policy** - Medium urgency as the impact unfolds over the next few months.
+3. **Gold and Silver Price Decline Due to Stronger US Dollar** - Short-term urgency as currency and interest rate effects are rapid.
 
-- **Allocation Bias**:
-  - **Overweight Energy, Defense**: Given the high oil prices and potential for increased defense spending.
-  - **Underweight Consumer Discretionary, Manufacturing**: Due to higher borrowing costs and supply chain disruptions.
-  - **Overweight Telecom, Digital Services**: Anticipating growth from Jio's IPO and market expansion.
-  - **Underweight Telecom Infrastructure, Retail**: Expecting increased competition and reduced demand.
+**ALLOCATION BIAS:**
+- **Overweight Energy, Financials, and Mining Equipment**
+- **Underweight Consumer Discretionary, Technology, and Precious Metals Mining**
+
+This allocation aims to capitalize on the upside of higher oil prices and interest rates while mitigating risks in sectors likely to suffer from these trends.
 
 
 ==================================================
 === PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS ===
 ==================================================
 
-### Predictions for Each Stock
+### Predictions for Tomorrow
 
-#### INFY.NS (Infosys Limited)
-- **TICKER**: INFY.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: News is bullish for IT services, but the stock is oversold and below its 50-day SMA, indicating potential for a pullback.
+#### XOM
+- **TICKER:** XOM
+- **DIRECTION:** UP
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bullish due to soaring oil prices, and the stock is near its 50-day average with a bullish MACD trend.
 
-#### HINDUNILVR.NS (Hindustan Unilever Ltd.)
-- **TICKER**: HINDUNILVR.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 70%
-- **RATIONALE**: News is neutral to bearish for consumer defensive stocks, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### CVX
+- **TICKER:** CVX
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bullish, but the stock is overbought and near its 50-day average, indicating potential consolidation.
 
-#### WIPRO.NS (Wipro Ltd)
-- **TICKER**: WIPRO.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 65%
-- **RATIONALE**: News is bullish for IT services, but the stock is oversold and below its 50-day SMA, indicating potential for a pullback.
+#### BP
+- **TICKER:** BP
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 60%
+- **RATIONALE:** News is bullish, but the stock is overbought and near its 50-day average, indicating potential consolidation.
 
-#### CTSH (Cognizant Technology Solutions)
-- **TICKER**: CTSH
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: News is bullish for IT services, but the stock is oversold and below its 50-day SMA, indicating potential for a pullback.
+#### AAL
+- **TICKER:** AAL
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 80%
+- **RATIONALE:** News is bearish due to higher fuel costs, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### BHARTIARTL.NS (Bharti Airtel Limited)
-- **TICKER**: BHARTIARTL.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: News is bearish for imports and consumer discretionary, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### UAL
+- **TICKER:** UAL
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 80%
+- **RATIONALE:** News is bearish due to higher fuel costs, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### XOM (Exxon Mobil Corporation)
-- **TICKER**: XOM
-- **DIRECTION**: UP
-- **CONFIDENCE**: 70%
-- **RATIONALE**: News is bullish for energy stocks, and the stock is above its 50-day SMA with a bullish MACD trend.
+#### GM
+- **TICKER:** GM
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to higher energy costs, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### CVX (Chevron Corporation)
-- **TICKER**: CVX
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 80%
-- **RATIONALE**: News is bullish for energy stocks, but the stock is overbought and above its 50-day SMA, indicating potential for a pullback.
+#### F
+- **TICKER:** F
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to higher energy costs, and the stock is oversold and below its 50-day average.
 
-#### LMT (Lockheed Martin Corporation)
-- **TICKER**: LMT
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 65%
-- **RATIONALE**: News is neutral for defense stocks, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### JPM
+- **TICKER:** JPM
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bearish MACD trend.
 
-#### RTX (RTX Corporation)
-- **TICKER**: RTX
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 65%
-- **RATIONALE**: News is neutral for defense stocks, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### WFC
+- **TICKER:** WFC
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### WMT (Walmart Inc.)
-- **TICKER**: WMT
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 70%
-- **RATIONALE**: News is bearish for consumer defensive stocks, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### NEE
+- **TICKER:** NEE
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bearish MACD trend.
 
-#### HD (Home Depot, Inc.)
-- **TICKER**: HD
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 80%
-- **RATIONALE**: News is bearish for consumer cyclical stocks, and the stock is oversold and below its 50-day SMA, indicating potential for a pullback.
+#### D
+- **TICKER:** D
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### GM (General Motors Company)
-- **TICKER**: GM
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 70%
-- **RATIONALE**: News is bearish for consumer cyclical stocks, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### WMT
+- **TICKER:** WMT
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
 
-#### F (Ford Motor Company)
-- **TICKER**: F
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: News is bearish for consumer cyclical stocks, and the stock is oversold and below its 50-day SMA, indicating potential for a pullback.
+#### TGT
+- **TICKER:** TGT
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is near its 50-day average with a bearish MACD trend.
 
-#### IDEA.NS (Vodafone Idea Limited)
-- **TICKER**: IDEA.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: News is bearish for imports and consumer discretionary, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### GOOGL
+- **TICKER:** GOOGL
+- **DIRECTION:** NEUTRAL
+- **CONFIDENCE:** 65%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bullish MACD trend.
 
-#### PAYTM.NS (One97 Communications Ltd)
-- **TICKER**: PAYTM.NS
-- **DIRECTION**: UP
-- **CONFIDENCE**: 65%
-- **RATIONALE**: News is bullish for digital services, and the stock is below its 50-day SMA with a bullish MACD trend, indicating a potential bounce.
+#### MSFT
+- **TICKER:** MSFT
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bullish MACD trend.
 
-#### TATACOMM.NS (Tata Communications Ltd)
-- **TICKER**: TATACOMM.NS
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 70%
-- **RATIONALE**: News is neutral to bearish for telecom infrastructure, and the stock is below its 50-day SMA with a bearish MACD trend.
+#### CAT
+- **TICKER:** CAT
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 70%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
+
+#### FCX
+- **TICKER:** FCX
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
+
+#### NEM
+- **TICKER:** NEM
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 80%
+- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is oversold and below its 50-day average.
+
+#### GOLD
+- **TICKER:** GOLD
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
+
+#### GLD
+- **TICKER:** GLD
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
+
+#### SLV
+- **TICKER:** SLV
+- **DIRECTION:** DOWN
+- **CONFIDENCE:** 75%
+- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
