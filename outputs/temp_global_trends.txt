@@ -1,54 +1,52 @@
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points - NDTV
-Context: Stock Market Highlights: Markets witnessed a gap-down opening due to soaring oil prices. Indian stock markets experienced a significant downturn on Thursday. This sharp decline erased recent gains. Soaring crude oil prices and hawkish commentary from the US Federal Reserve were key factors. Indian stock markets experienced a sharp crash on Monday, with Sensex and Nifty plunging 3% each. This decline, extending last week's losses, was driven by the escalating Iran-Israel-US conflict, which spiked crude oil prices and raised concerns about India's rupee and macroeconomics.
+Headline: NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on March 20 - Upstox
+Context: Stock market crash today: Nifty50 and BSE Sensex tanked in trade on Tuesday on weak global cues and IT stocks rout along with fresh tariff threats from US President Donald Trump. While Nifty50 dropped over 300 points, BSE Sensex went below the 82,000 intraday. Nifty50 ended the day at 25,424.65, down 288 points or 1.12%.
 ----------------------------------------
 
 Article 2:
-Headline: MCX Gold prices drop over ₹5,700 to ₹147,287/10 grams; silver rates tank 6.5% amid stronger US dollar and West Asia tensions - Upstox
-Context: The live updates to this blog are closed. MCX Gold, Silver rates LIVE: Gold and silver prices opened sharply higher on the Multi Commodity Exchange of India (Multi Commodity Exchange of India) on ... Gold and silver opened sharply lower on MCX Monday as soaring energy prices dampened hopes of near-term U.S. rate cuts. MCX ...
+Headline: Weight is over! Pharma stocks jump up to 4% as patent for Ozempic's key ingredient expires; what lies ahea - The Economic Times
+Context: Pharma stocks rose up to 4% as Novo Nordisk’s semaglutide patent nears expiry, raising expectations of cheaper generics in ...
 ----------------------------------------
 
 Article 3:
-Headline: LIVE | West Asia war: US may ease sanctions on Iranian oil at sea; Pentagon signals no end to Iran war, seeks $200 bn funding - The New Indian Express
-Context: Pentagon chief Pete Hegseth wants more billions from Congress to fund the Iran war as gas prices hit an average of $3.90 a gallon nationwide and global oil prices surged after Israel attacked a critical Iranian gas field. President Donald Trump sought to distance the United States from the Israeli strike on the South Pars gas field, which has infuriated Washington's Gulf allies, saying in a Wednesday night social media post that Tel Aviv had "violently lashed out" and the U.S. "knew nothing about this particular attack." But he threatened to destroy the rest of the gas field if Iran continued attacks on its neighbors, many of which host U.S. military bases. Hegseth, speaking at the Pentagon Thursday morning, appeared to confirm a Washington Post report that he would seek $200 billion from Congress to continue the now 20-day-old war.
+Headline: India’s central bank battles to protect rupee from Iran war fallout - Financial Times
+Context: India's central bank has mounted an aggressive defence of the rupee this week, deploying an estimated $12 billion to contain the fallout from an escalating Middle East war that has pummelled markets ... Reserve Bank of India has deployed $12 bln to defend Rupee as US-Iran war jolts markets, Reuters reported. Rupee settled 6 ... By Jaspreet Kalra and Nimesh Vora MUMBAI, March 4 (Reuters) - The Indian rupee weakened past 92 per dollar for the first time on Wednesday with the central bank likely curbing further losses in Asia's ...
 ----------------------------------------
 
 Article 4:
-Headline: HDFC Bank stock falls over 4% as chairman resigns on ethical grounds - The Hindu
-Context: Image used for representational purposes. File
-                                          | Photo Credit: Reuters The Reserve Bank of India (RBI) said it has taken note of the recent developments in HDFC Bank, where its part-time chairman Atanu Chakrabort had resigned. It said a transition arrangement as requested by the Bank has been approved as regards the position of part-time chairman of the Bank. The RBI said HDFC Bank is a Domestic Systemically Important Bank (D-SIB) with sound financials, a professionally run board and competent management team. “Basis our periodical assessment, there are no material concerns on record as regards its conduct or governance. The bank remains well-capitalised and the financial position of the bank remains satisfactory with sufficient liquidity,” it said in a statement. Reserve Bank will continue to engage with the Board and management on the way forward, it said.
+Headline: Core sector growth declined to three-month low of 2.3% in February - Moneycontrol.com
+Context: India’s core sector growth slowed sharply to a three-month low of 2.3 percent in February from 4.7 percent in January, dragged down by weaker electricity generation and continued contraction in oil and gas output, according to data released on March 20. The eight infrastructure sectors — coal, crude oil, natural gas, refinery products, fertilisers, steel, cement and electricity — together make up two-fifths of the Index of Industrial Production (IIP), making the slowdown a key signal for broader industrial activity. A major reason for the moderation was the sharp deceleration in electricity output growth to 0.5 percent in February, down from 5.2 percent in January. Given electricity’s high weight of nearly 20 percent, the slowdown had a significant impact on the overall number. Steel and cement remained the main bright spots, though both also lost momentum. Steel output grew 7.2 percent in February compared with 11.5 percent in January, while cement expanded 9.
 ----------------------------------------
 
 Article 5:
-Headline: India’s largest asset manager, SBI Funds Management Ltd, to file draft papers shortly for IPO - Moneycontrol.com
-Context: SBI Funds Management Ltd. is considering raising as much as $1.2 billion in an initial public offering that could take place in Mumbai in the first half of 2026, people familiar with the matter said. India’s biggest asset manager plans to ask banks to pitch for mandates to work on the IPO in the coming weeks, the people said, asking not to be identified because the information is private. SBI Funds may be valued at $12 billion, they said. Deliberations are ongoing and details may change, the people said. SBI Funds is owned by State Bank of India Ltd. and Amundi SA, which last week said they’d sell a combined stake of 10% through an IPO, likely in 2026. Amundi, SBI and SBI Funds didn’t respond to requests for comment. India has been one of the world’s busiest venues for new listings, with nearly $18 billion raised this year, led by Tata Capital Ltd.’s $1.7 billion IPO. That’s approaching last year’s record of about $21 billion, data compiled by Bloomberg show.
+Headline: Petrol पर युद्ध की चोट! प्रीमियम पेट्रोल 2.30 रुपये लीटर महंगा, नॉर्मल के रेट में No Change - AajTak
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 Article 6:
-Headline: As West Asia war threatens gas supply, remembering a gas grid India never built - The Hindu
-Context: The idea of using gasified coal to meet some of India’s fuel needs first emerged in 1955 when Syed Husain Zaheer, director of the Regional Research Laboratory, Hyderabad — now the CSIR-Indian Institute of Chemical Technology (shown) — submitted a plan to Prime Minister Jawaharlal Nehru for a national gas grid.
-                                          | Photo Credit: Nagara Gopal The ongoing war in West Asia has plunged the world into a deep energy crisis. In India, the availability of domestic fuel, LPG , has been hit due by the disruption in supplies from the Persian Gulf. The global energy crisis is reminiscent of the Oil Shock of 1973 when members of the Organisation of Petroleum Exporting Countries (OPEC) cut oil production and slashed exports to protest the U.S.’s support for Israel in the Yom Kippur War. India responded by exploring alternative sources of energy, offshore oilfields in Bombay High, and by experimenting with new technologies.
+Headline: BlackRock’s Blunt Callout in India: HDFC Chairman Resigns Amid Ethics Row - Disruption Banking
+Context: By Gopika Gopakumar and Bharath Rajeswaran March 19 (Reuters) - India's largest private lender said on Thursday the abrupt exit of its chairman could be due to a rift between him and the management ... By Gopika Gopakumar and Bharath Rajeswaran March 19 (Reuters) - India's largest private lender said on Thursday the abrupt exit of its chairman could be due to a rift between him and the management team,
 ----------------------------------------
 
 Article 7:
-Headline: Asia Hikes Coal Use as Middle East War Chokes Gas Supply - Crude Oil Prices Today | OilPrice.com
-Context: India Unveils Ambitious Plan to Quadruple Solar Power by 2035 Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. Asian countries have been criticized for years for not ditching coal fast enough. They were vindicated this month when the Middle East war cut off 20% of global LNG flows overnight after Qatar, Asia’s key term LNG supplier, shut in production and exports. China, India, South Korea, Japan, and the whole of Southeast and South Asia are using the coal buffers they have created in recent years. Their insistence that diversification and energy security are more important than headline emission reductions is paying off as spot LNG prices in Asia surged by 70% to three-year highs that few countries in Asia Pacific can afford. Coal cannot fully replace the lost gas supply, but it creates a welcome buffer to help Asia go through the biggest supply disruption in energy markets, ever.
+Headline: Stock market today (March 20, 2026): Nifty50 ends above 23,100; BSE Sensex closes above 74,500 - The Times of India
+Context: Stock market crash today: Continuing the down trend, Nifty50 and BSE Sensex tanked in trade on Friday as oil prices climbed and the Strait of Hormuz closure halted important global trade. While ...
 ----------------------------------------
 
 Article 8:
-Headline: Big Blow to investors! 6,45,466 JP Associates shareholders to lose over ₹400 crore; here's why - Mint
-Context: Jaiprakash Associates Ltd's insolvency proceedings saw the NCLT approve Adani Enterprises' ₹14,535 crore bid, marking a significant step in resolving financial stress. Shareholders face total loss, ... Jaiprakash Associates Ltd's insolvency proceedings saw the NCLT approve Adani Enterprises' ₹14,535 crore bid, marking a significant step in resolving financial stress. Shareholders face total loss, with no payouts as all existing shares will be cancelled,
+Headline: IMF says prolonged increase in energy prices could boost inflation, lower growth - Forex Factory
+Context: The outbreak of the Iran war upended oil price expectations, and a prolonged conflict could send massive ripples through the energy markets, according to GMO’s Lucas White. He says the flipside is that elevated oil prices open opportunities to accelerate energy independence and increase the use of renewables throughout the United States. White is bullish on lithium battery providers such as Albemarle ALB , and he expects traditional fossil fuel names like Petrobras PBR to do well in this environment. “Supply doesn’t get disrupted in a day or two, so this is anticipation,” he explains. “If this were to go on for weeks or months, you can’t block 20%-30% of the world’s seaborne oil and not have some massive reaction.” The potential blockade of the Strait of Hormuz, which borders Iran and provides passage to a fifth of the global supply of liquefied natural gas, could produce long-term shocks , especially if the war continues for weeks or even into 2027.
 ----------------------------------------
 
 Article 9:
-Headline: ‘Waiting for days’: India feels impact of gas supply chain disruption amid Iran conflict - The Guardian
-Context: People struggle to cook and businesses bear brunt as closure of strait of Hormuz slows imports of liquefied petroleum gas F or four days, Maya Rani, 36, has been arriving each morning at a gas distributor’s office in Delhi, her six-month-old daughter in her lap, waiting for hours. And each day she returns home empty-handed, told that a cooking gas cylinder may not be available for at least another week. Around her, the queue keeps growing, people clutching forms and documents, hoping to secure a cylinder. The flame in her kitchen began to fade last week and her husband, as he always does, took their 5kg cylinder to a local refiller. This time, there was nothing. The only option left was to apply for a government-subsidised supply, a process that has meant repeated visits, long waits and no certainty. “I feel like crying,” Rani said, sitting on the pavement outside the distributor’s office, trying to soothe her child.
+Headline: Stocks edge higher, bonds under pressure as Iran war spurs hawkish rate rethink - Reuters
+Context: By Sophie Kiderlin and Rae Wee LONDON/SINGAPORE, March 20 (Reuters) - Global shares and the dollar nudged higher on Friday but were set for weekly losses while bonds remained under pressure as central ... U.S. Treasury yields were higher on Wednesday as investors continued to monitor the Middle East conflict and looked ahead to more domestic economic data. Wall Street's losses deepened as the ongoing fallout from the war in Iran keeps pushing oil prices higher, ratcheting up ...
 ----------------------------------------
 
 Article 10:
-Headline: Gold price today: Yellow metal plunges over Rs 3,600; check 24K, 22K city-wise rates in Delhi, Mumbai, Pu - The Times of India
-Context: The primary trigger for the selloff has been the US Federal Reserve's latest policy stance. The Fed kept interest rates unchanged but signalled limited room for rate cuts this year. Gold Price Today in India, Monday, March 9: Gold and silver prices fell as the US dollar strengthened and oil surged above ... Gold prices dipped in India's futures market on Thursday, influenced by a slump in spot demand and weak global cues, despite a rise in New York futures. Major Indian cities saw a decline in 24K, 22K, ...
+Headline: Gold prices inch up, but on pace for weekly loss, as Iran war dents rate cut bets - Investing.com
+Context: Investing.com - Gold was up on Friday morning in Asia but strengthening U.S. Treasury yields put bullion on course for its first weekly loss in three. Gold futures were up 0.26% to $1,953.30 by 12:26 AM ET (1:35 AM GMT). "The outlook for gold is subdued ... Investing.com-- Gold prices were little changed Friday, but were heading for a third straight weekly loss, as a surging dollar offset safe-haven demand spurred by escalating U.S. trade tensions. At 06:15 ET (10:15 GMT), Spot gold fell 0.1% to $3,346.00 an ... Investing.com-- Gold prices on Friday slumped to their worst week since 2021, as the Federal Reserve signalled no need for speed on rate cuts, pushing Treasury yields and the dollar higher. The yellow metal was also battered by a risk-on rally in the wake of a Donald Trump victory in the 2024 presidential election.
 ----------------------------------------
 
 
@@ -59,203 +57,155 @@ Context: The primary trigger for the selloff has been the US Federal Reserve's l
 
 
 ########################################
-TREND: Soaring Oil Prices and Supply Disruption in West Asia
-LLM Search Query: impact of soaring oil prices on Asian energy sector supply chains
+TREND: US-Iran Conflict Impact on Oil Prices and Global Trade Disruption
+LLM Search Query: impact of US-Iran conflict on oil prices and global trade disruption on stock market
 Articles scraped: 10
 ########################################
 
-[1] What are Asian countries doing to offset the oil-price rise
-    Source : Reuters  |  Date: 2026-03-09T17:44:42+00:00
-    URL    : https://www.reuters.com/business/energy/governments-actions-response-oil-price-surge-escalating-middle-east-conflict-2026-03-16/
-    Content: Oil prices have soared and share markets have skidded on fears that the squeeze on energy supplies resulting from the ...  [DDG snippet — full article blocked]
+[1] Oil Rally Returns: Iran War, Shipping Risks And UAE Output Cuts Push Prices Up
+    Source : ABP News on MSN  |  Date: 2026-03-18T16:01:20+00:00
+    URL    : https://www.msn.com/en-in/autos/photos/oil-rally-returns-iran-war-shipping-risks-and-uae-output-cuts-push-prices-up/ar-AA1YOaQj?ocid=BingNewsVerp
+    Content: Oil markets are back on edge. Prices surged more than 2 per cent in early trade on Tuesday, as fresh concerns over supply ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] How will soaring oil prices caused by Iran war impact food prices?
-    Source : Al Jazeera on MSN  |  Date: 2026-03-10T17:44:42+00:00
-    URL    : https://www.msn.com/en-us/news/world/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices/ar-AA1XUj2t?ocid=BingNewsVerp
-    Content: Oil and gas are not just fuel, they are raw materials for thousands of products, including fertilisers used in farming.  [DDG snippet — full article blocked]
+[2] Iran war escalates, energy prices spike after Israeli strike on South Pars gas field
+    Source : CBS News  |  Date: 2026-03-10T16:01:20+00:00
+    URL    : https://www.cbsnews.com/live-updates/iran-war-israel-strike-south-pars-gas-field-trump-threat-oil-gas-prices/
+    Content: Follow updates on the war in the Middle East for Friday, March 20, here . See earlier developments below. Israel pounded Tehran with airstrikes Friday morning local time as Iranians marked Nowruz, or the Persian New Year. Activists reported hearing strikes around Iran's capital. The attacks came a day after Israel pledged to refrain from more strikes on a key Iranian gas field and Iran intensified attacks on oil and natural gas facilities around the Gulf. Israel Defense Forces wrote on social media that it had "begun a wave of strikes targeting infrastructure of the Iranian terror regime in the heart of Tehran." Iran kept up its own retaliatory attacks on Israel that have sent millions of people to shelters, with sirens sounding across a wide swath of the north, from Haifa to the Galilee to the border with Lebanon. It also continued its strikes on Gulf neighbors.
 ----------------------------------------
 
-[3] Oil Prices Soar Amid Escalating Middle East Conflict
-    Source : Crude Oil Prices  |  Date: 2026-02-28T18:30:00+00:00
-    URL    : https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Soar-Amid-Escalating-Middle-East-Conflict.html
-    Content: Oil prices surged on Monday as the fallout from U.S. and Israeli military strikes on Iran rippled through global energy markets, with tanker traffic through the Strait of Hormuz already heavily ...  [DDG snippet — full article blocked]
+[3] Global airline stocks tumble as Iran war lifts fuel prices and shakes outlook
+    Source : AeroTime  |  Date: 2026-03-04T18:30:00+00:00
+    URL    : https://www.aerotime.aero/articles/airline-stocks-decline-iran-conflict-fuel-risk
+    Content: Airline share prices have come under widespread pressure since joint US-Israeli action against Iran began on February 28, 2026. Investors are pricing a one-two punch of sharply higher jet fuel costs and disrupted networks across the Middle East that force longer routings, cancellations, and travel demand uncertainty. In recent sessions, shares of global airlines saw steep selloffs across the largest names worldwide, with some major carriers experiencing single-day drops in the high single digits to low double digits. Qantas fell more than 10% at one point, while several large European airline groups also dropped around 5% or more as oil prices jumped and the travel outlook weakened. British Airways does not trade as a standalone stock, so the market proxy is its parent, IAG. Since the February 27 close, IAG’s London-listed shares fell around 12%, with sharp day-to-day swings as investors digested news about fuel-price pressure and the risk of wider schedule disruption.
 ----------------------------------------
 
-[4] Beyond oil: How US-Iran war & Middle East crisis may hit India’s economy - sector-wise impact explained
-    Source : MSN  |  Date: 2026-03-04T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/topstories/beyond-oil-how-us-iran-war-middle-east-crisis-may-hit-india-s-economy-sector-wise-impact-explained/ar-AA1XB2yA?ocid=BingNewsVerp
-    Content: Beyond oil, the Middle East crisis has other implications for the Indian economy, especially if the US-Israel-Iran war continues for a long duration leading to major supply disruptions. In recent days ...  [DDG snippet — full article blocked]
+[4] Iran-US war latest: Oil prices soar after two Iraqi tankers attacked
+    Source : The Independent on MSN  |  Date: 2026-03-12T16:01:20+00:00
+    URL    : https://www.msn.com/en-us/money/general/iran-war-latest-oil-prices-soar-after-two-iraqi-tankers-attacked/ar-AA1YrD0c?ocid=BingNewsVerp
+    Content: Iran-US war latest: Oil prices soar again after two Iraqi tankers struck in suspected Iranian attack - Iranian forces warned ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] Global oil and gas prices soar as Iran crisis disrupts shipping, production
-    Source : Reuters  |  Date: 2026-03-02T18:30:00+00:00
-    URL    : https://www.reuters.com/business/energy/global-energy-costs-soar-iran-crisis-disrupts-shipping-oil-gas-production-2026-03-03/
-    Content: LONDON, March 3 (Reuters) - Global oil and gas prices jumped on Tuesday as the U.S.-Israeli war on Iran halted energy exports from the Middle East, with Tehran attacking ships and energy facilities, ...  [DDG snippet — full article blocked]
+[5] US stock market | US-Israel war with Iran sends shockwaves through global business
+    Source : The Economic Times on MSN  |  Date: 2026-03-07T16:01:20+00:00
+    URL    : https://www.msn.com/en-in/money/economy/us-stock-market-us-israel-war-with-iran-sends-shockwaves-through-global-business/ar-AA1XHdBO?ocid=BingNewsVerp
+    Content: Global businesses face turmoil as the U.S.-Israeli conflict with Iran escalates. Energy prices are surging, impacting supply ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Energy prices soar to levels not seen in years as Iran names its new supreme leader
-    Source : WKYC  |  Date: 2026-03-10T17:44:42+00:00
-    URL    : https://www.wkyc.com/article/news/nation-world/attack-on-iran/crude-oil-barrel-prices-spike-middle-east-iran-conflict-market-disruption/507-d0a8708e-2c12-4e0a-be70-1d9cdd1d9b34
-    Content: Oil prices have surged as the conflict ensnares regions that are critical to the production and movement of oil and gas from the Persian Gulf. (AP Photo) ...  [DDG snippet — full article blocked]
+[6] US-Iran war sparks crude oil surge, revives inflation fears: Should Indian stock market investors worry?
+    Source : Mint on MSN  |  Date: 2026-03-08T16:01:20+00:00
+    URL    : https://www.msn.com/en-in/money/markets/us-iran-war-sparks-crude-oil-surge-revives-inflation-fears-should-indian-stock-market-investors-worry/ar-AA1XKIBb?ocid=BingNewsVerp
+    Content: Brent Crude prices have surged more than 30% since the combined attack of the US and Israel on Iran on February 28. A prolonged period of elevated crude oil prices can weaken its currency, heighten ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] Crude oil prices spike as war hits production and shipping
-    Source : WJTV  |  Date: 2026-03-09T17:44:42+00:00
-    URL    : https://www.wjtv.com/news/business/crude-oil-prices-spike-near-120-a-barrel-as-war-hits-production-and-shipping/
-    Content: Oil prices have surged as the war, now in its second week, ensnares countries and places that are critical to the production ...  [DDG snippet — full article blocked]
+[7] US-Iran war: How Indian industry is being impacted by LPG issues, rising oil prices, Strait of Hormuz closure - explained in 10 points
+    Source : The Times of India on MSN  |  Date: 2026-03-13T16:01:20+00:00
+    URL    : https://www.msn.com/en-in/money/topstories/us-iran-war-how-indian-industry-is-being-impacted-by-lpg-issues-rising-oil-prices-strait-of-hormuz-closure-explained-in-10-points/ar-AA1YwVcD?ocid=BingNewsVerp
+    Content: The scarcity of commercial LPG has emerged after shipments from the Gulf region were disrupted amid the ongoing conflict in West Asia. India relies heavily on imports from this region for its LPG ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] Crude oil prices surge amid escalating conflict in Iran
-    Source : ET Now on MSN  |  Date: 2026-03-10T17:44:42+00:00
-    URL    : https://www.msn.com/en-in/money/economy/crude-oil-prices-surge-amid-escalating-conflict-in-iran/ar-AA1XQYlk?ocid=BingNewsVerp
-    Content: Crude oil prices have surged due to escalating tensions from the Iran conflict, impacting global supply and leading to fears of further price increases.  [DDG snippet — full article blocked]
+[8] Stock market outlook for next week: Crude oil prices, US-Iran tension to drive Sensex, Nifty - Analysts list triggers for investors
+    Source : ET Now on MSN  |  Date: 2026-03-15T16:01:20+00:00
+    URL    : https://www.msn.com/en-in/money/markets/stock-market-outlook-for-next-week-crude-oil-prices-us-iran-tension-to-drive-sensex-nifty-analysts-list-triggers-for-investors/ar-AA1YF0q5?ocid=BingNewsVerp
+    Content: Stock Market Outlook for Next Week: Last week, the BSE benchmark Sensex tanked 4,354.98 points or 5.51 per cent, and the NSE ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[9] US drivers see gas prices jump to their highest level since 2023 as Iran...
-    Source : KKTV 11 Colorado Springs  |  Date: 2026-03-17T17:44:42+00:00
-    URL    : https://www.kktv.com/2026/03/17/us-drivers-see-gas-prices-jump-their-highest-level-since-2023-iran-conflict-drags/
-    Content: NEW YORK (AP) — The Iran war has rattled the global flow of oil, with steeper fuel costs already straining households worldwide. And in the U.S., drivers are now facing the highest prices they’ve seen at the pump in nearly two and a half years. According to motor club AAA, the national average for a gallon of regular gasoline jumped to $3.79 on Tuesday, up from $2.98 consumers were paying before the U.S. and Israel launched the war with joint attacks against Iran on Feb. 28. The last time gas prices were as expensive as they are now was in October 2023. “It’s pretty hard. I mean, times are tough for everybody right now,” Amanda Acosta, a Louisiana resident, told The Associated Press while filling up her car’s tank this week. “I’m getting way less gas and paying way more money.” She isn’t alone.
+[9] 5 Stocks Wall Street Is Rushing to Upgrade as Iran Conflict Reshapes Global...
+    Source : 247wallst.com  |  Date: 2026-03-20T15:37:21+00:00
+    URL    : https://247wallst.com/investing/2026/03/20/5-stocks-wall-street-is-rushing-to-upgrade-as-iran-conflict-reshapes-global-energy-markets/
+    Content: WTI crude surged from roughly $65/barrel in February 2026 to a peak of $98.48 on March 13, and Brent crossed $100/barrel for the first time in years as Iran conflict fears escalated. A Polymarket contract tracking whether Iran would close the Strait of Hormuz resolved “Yes” for the March 31, 2026 deadline, a stark contrast to the January 31 outcome that resolved “No.” For energy investors, the question is which companies are most exposed to the supply disruption narrative. No US company has more direct exposure to a Middle East LNG supply shock. As America’s largest LNG exporter, Cheniere benefits immediately when European and Asian buyers seek alternatives to Persian Gulf supply. The stock has surged approximately 28% over the past month and is up over 45% year-to-date, trading at $282.50 on March 20. Cheniere posted FY2025 revenue of $19.98B (+26.62% YoY) and net income of $5.33B (+63.9% YoY), with 670 cargoes exported in 2025, a record.
 ----------------------------------------
 
-[10] Mideast war plunges Germany's energy-hungry industry into crisis
-    Source : AFP· via Yahoo Finance  |  Date: 2026-03-13T17:44:42+00:00
-    URL    : https://finance.yahoo.com/news/mideast-war-plunges-germanys-energy-143404680.html
-    Content: Germany's energy-hungry industries are sounding the alarm about the devastating impacts of the Middle East war as companies battle problems from surging power costs to snarled supply chains. From chemicals to steel and cement, Europe's biggest economy is a major producer of industrial goods that require huge quantities of power to make, and Germany imports much of its energy. The price jumps triggered by the conflict and closure of key energy route the Strait of Hormuz, which has pushed oil above $100, is a hammer blow to traditional manufacturers who were already struggling. Adding to the problems is chaos in global supply chains, which industry groups warn is leading to bottlenecks for vital basic inputs for manufacturing. "Our companies are currently operating in absolute crisis mode," said Wolfgang Grosse Entrup, chief executive of the VCI association representing chemical firms, one of Germany's main industrial sectors.
-----------------------------------------
-
-
-########################################
-TREND: US Federal Reserve's Hawkish Stance and Interest Rate Policy
-LLM Search Query: US Federal Reserve hawkish stance impact on global stock markets and interest rate sensitive sectors
-Articles scraped: 10
-########################################
-
-[1] Why The March Fed Meeting Was More Hawkish Than Expected
-    Source : Forbes  |  Date: 2026-03-18T21:31:00+00:00
-    URL    : https://www.forbes.com/sites/garthfriesen/2026/03/18/why-the-march-fed-meeting-was-more-hawkish-than-expected/
-    Content: The Fed did not change policy, but it did change expectations. The March 2026 FOMC meeting surprised markets with a hawkish dot plot.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[2] US Fed meeting: Rates remain unchanged; how can the policy decision impact Indian stock market?
-    Source : Mint  |  Date: 2026-03-19T13:26:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/us-fed-meeting-rates-remain-unchanged-how-can-the-policy-decision-impact-indian-stock-market/ar-AA1YWzrc
-    Content: The US Federal Open Market Committee (FOMC) on March 18 kept benchmark interest rates steady at 3.5% to 3.75%. Experts say the Fed's policy is on expected lines. The central bank slightly revised its inflation estimates for 2026 upward.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[3] Indian markets tumble over 2% at open as oil shock, hawkish Fed and HDFC Bank rout rattle sentiment
-    Source : Firstpost  |  Date: 2026-03-19T03:58:00+00:00
-    URL    : https://www.firstpost.com/business/indian-markets-tumble-over-2-at-open-as-oil-shock-hawkish-fed-and-hdfc-bank-rout-rattle-sentiment-13991036.html
-    Content: Indian equity benchmarks Sensex and Nifty 50 plunged over 2% in early trade, weighed down by a surge in Brent crude above $110 amid Iran war escalation, a hawkish US Federal Reserve stance, and a shar  [DDG snippet — full article blocked]
-----------------------------------------
-
-[4] Fed, BoC strike hawkish tones as top central banks convene in war's shadow
-    Source : Reuters  |  Date: 2026-03-19T01:34:58+00:00
-    URL    : https://www.msn.com/en-us/money/markets/fed-boc-strike-hawkish-tones-as-top-central-banks-convene-in-war-s-shadow/ar-AA1YWlCr
-    Content: By Promit Mukherjee and Howard Schneider OTTAWA/WASHINGTON, March 18 (Reuters) - The U.S. Federal Reserve and Bank of Canada struck hawkish tones on Wednesday as the Iran war drove energy prices sharply higher and a pivotal week of global central bank meetings kicked into full swing.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[5] March FOMC: The Fed's Rate Path Barely Changed, But Its Tone Did
-    Source : Seeking Alpha  |  Date: 2026-03-18T21:45:00+00:00
-    URL    : https://seekingalpha.com/article/4883847-march-fomc-the-feds-rate-path-barely-changed-but-its-tone-did
-    Content: Growth and inflation projections for 2025-2027 were revised higher, while the rate path remained largely unchanged, signaling reluctance to tighten policy further. FOMC members are increasingly concerned about upside inflation risks from energy prices,  [DDG snippet — full article blocked]
-----------------------------------------
-
-[6] Traders stick with hawkish rate bets on big day for European central banks
-    Source : Reuters  |  Date: 2026-03-19T09:03:00+00:00
-    URL    : https://www.msn.com/en-us/money/markets/traders-stick-with-hawkish-rate-bets-on-big-day-for-european-central-banks/ar-AA1YXGnz
-    Content: LONDON, March 19 (Reuters) - Investors were sticking with bets for rate hikes in Europe on Thursday, ahead of European Central Bank and Bank of England policy decisions, with rate cut hopes dashed as the U.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[7] The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price
-    Source : The Motley Fool  |  Date: 2026-03-14T11:36:00+00:00
-    URL    : https://www.msn.com/en-us/money/markets/the-trump-led-iran-war-can-lead-to-a-triple-whammy-for-the-federal-reserve-and-the-stock-market-may-end-up-paying-the-price/ar-AA1YBWUs
-    Content: America's foremost financial institution may become one of the stock market's biggest liabilities.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[8] US Fed meeting: Rates remain unchanged; how can the policy decision impact Indian stock market?
-    Source : Mint on MSN  |  Date: 2026-03-01T17:45:07+00:00
-    URL    : https://www.msn.com/en-in/money/markets/us-fed-meeting-rates-remain-unchanged-how-can-the-policy-decision-impact-indian-stock-market/ar-AA1YWzrc?ocid=BingNewsVerp
-    Content: The US Federal Open Market Committee (FOMC) on March 18 kept benchmark interest rates steady at 3.5% to 3.75%. Experts say ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[9] Fed minutes suggest rate hikes on table again amid inflation jitters
-    Source : MSN  |  Date: 2026-02-18T18:30:00+00:00
-    URL    : https://www.msn.com/en-us/money/markets/fed-minutes-suggest-rate-hikes-on-table-again-amid-inflation-jitters/ar-AA1WDOjG?ocid=BingNewsVerp
-    Content: United States Federal Reserve policymakers discussed the possibility of interest rate increases last month, according to newly released comments from a January meeting. The minutes of the Federal Open ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[10] Bank of Japan interest rate decision on Thursday: Can BOJ lift rates further? How could it impact Indian stock market?
-    Source : Mint on MSN  |  Date: 2026-03-18T17:45:07+00:00
-    URL    : https://www.msn.com/en-in/money/markets/bank-of-japan-interest-rate-decision-on-thursday-can-boj-lift-rates-further-how-could-it-impact-indian-stock-market/ar-AA1YTbkb?ocid=BingNewsVerp
-    Content: The Bank of Japan raised the short-term benchmark interest rate to a range of 0 to 0.1% from minus 0.1% earlier on March 19, 2024, ending its era of negative interest rates. On December 19, 2025, the ...  [DDG snippet — full article blocked]
+[10] Oil and gas prices remain volatile in rollercoaster week amid Iran war
+    Source : PA Media: Money· via Yahoo Finance  |  Date: 2026-03-20T11:01:21+00:00
+    URL    : https://finance.yahoo.com/news/oil-gas-prices-remain-volatile-105129290.html
+    Content: Oil and gas prices remained volatile on Friday as stock markets also suffered ongoing turbulent trading due to the escalating Iran conflict. UK natural gas prices eased back a little in early trading on Friday, having jumped more than a fifth on Thursday to its highest level in three years at one stage. Brent crude was extending gains yet again, up another 2% to nearly 111 dollars a barrel, quickly resuming price rises after initially retreating earlier in the day. Financial markets also quickly erased early session gains, with the FTSE 100 Index in London see-sawing and indices lower across Europe. The UK’s blue chip share index had opened higher, but later fell as much as 0.6%, before settling to stand largely flat, down 0.1% at 10,053.6. There were falls across Europe, with the Cac 40 in France and Germany’s Dax 0.4% lower.
 ----------------------------------------
 
 
 ########################################
-TREND: Gold and Silver Price Decline Due to Stronger US Dollar
-LLM Search Query: impact of stronger US dollar on gold and silver prices and mining sector performance
-Articles scraped: 10
+TREND: Patent Expiry for Semaglutide and Its Impact on Pharma Sector
+LLM Search Query: impact of semaglutide patent expiry on pharma sector stock performance
+Articles scraped: 8
 ########################################
 
-[1] A Look at Blackrock Silver (TSXV:BRC) Valuation Following Updated Tonopah West...
-    Source : Simply Wall St.· via Yahoo Finance  |  Date: 2025-09-20T17:45:20+00:00
-    URL    : https://finance.yahoo.com/news/look-blackrock-silver-tsxv-brc-110240730.html
-    Content: If you have been following Blackrock Silver (TSXV:BRC), the recent update on its mineral resource estimate at the Tonopah West project might have caught your attention. The company just released results from its latest drilling campaign, featuring over 83 new drillholes and a refined geologic model that maps out even more potential for silver and gold at the site. This is exactly the kind of concrete progress that moves the needle for junior mining stocks, giving investors fresh data to weigh and new reasons to revisit their outlook on the company. This announcement adds to a string of busy developments in 2025, including the expansion of drilling at Tonopah West and Blackrock Silver's presentation at the Precious Metals Summit. These updates seem to be building momentum, as shown by the stock's performance. Shares are up 155% over the past year and have more than doubled since January.
+[1] Pharma generics: Semaglutide patent expiry to open Rs 50-billion opportunity; Indian players eye FY27 boost
+    Source : MSN  |  Date: 2026-01-02T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/health/other/pharma-generics-semaglutide-patent-expiry-to-open-rs-50-billion-opportunity-indian-players-eye-fy27-boost/ar-AA1TvB1m?ocid=BingNewsVerp
+    Content: The impending patent expiry of semaglutide drugs across India, emerging markets and select regulated markets such as Canada and Brazil is expected to create a revenue opportunity of more than Rs 50 ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[2] AU Vs NEM: Which Gold Stock is the Smarter Play Amid the Recent Rally?
-    Source : Zacks· via Yahoo Finance  |  Date: 2025-04-23T17:45:20+00:00
-    URL    : https://finance.yahoo.com/news/au-vs-nem-gold-stock-163500022.html
-    Content: AngloGold Ashanti PLC AU and Newmont Corporation NEM are leading global gold mining names with diversified operations across multiple continents. Gold prices hit a record $3,211 per ounce yesterday, fueled by a weaker U.S. dollar, rising safe-haven demand and the intensifying U.S.-China trade tensions. The United States raised tariffs on China imports to 145%, with a new 125% levy added on top of an earlier 20% duty. China retaliated by imposing 125% tariffs on U.S. goods, up from the previously announced 84%. Gold prices have jumped 22% year to date. This trend is expected to continue, fueled by robust central bank buying, expanding industrial use in energy, healthcare and technology, and escalating trade tensions. Backed by this rally, the Zacks Mining - Gold industry has jumped 34.3% year to date against the Zacks Basic Materials sector’s 1.6% dip.
+[2] Pharma firms opt for partnerships as India's semaglutide market opens post patent expiry
+    Source : Business Today on MSN  |  Date: 2026-03-19T16:01:34+00:00
+    URL    : https://www.msn.com/en-in/money/general/pharma-firms-opt-for-partnerships-as-india-s-semaglutide-market-opens-post-patent-expiry/ar-AA1YXiON?ocid=BingNewsVerp
+    Content: Pharma companies opt for partnerships to combine manufacturing scale with prescription reach as a ₹5,000 crore semaglutide market opens up.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[3] Housebuilding and China trade hopes lift London stocks
-    Source : PA Media: Money· via Yahoo Finance  |  Date: 2025-06-22T17:45:20+00:00
-    URL    : https://finance.yahoo.com/news/housebuilding-china-trade-hopes-lift-164011110.html
-    Content: Stocks in London ended higher on Tuesday, led by gains in housebuilders and amid signs of progress in US-China trade talks. The FTSE 250 ended up 103.55 points, 0.5%, at 21,389.46, and the AIM All-Share climbed 2.43 points, 0.3%, to 766.32. In Paris, the Cac 40 rose 0.2%, while Frankfurt’s Dax 40 ended 0.8% lower. In the UK, figures showed the unemployment rate rose slightly in the three months to April, as expected, while pay growth was more moderate than forecast. The Office for National Statistics said the rate increased to 4.6% in the period from February to April, in line with FXStreet-cited consensus, from 4.5% in the first three months of 2025. The last time the jobless rate was higher was in the period from April to June 2021, at 4.7%, according to the ONS. The ONS also said annual growth in average earnings was 5.2% for regular earnings, which exclude bonuses, and 5.3% for total earnings, which factor in bonuses. However, regular earnings growth of 5.
+[3] Sun Pharma gets DCGI nod for generic semaglutide, plans India launch post patent expiry
+    Source : MSN  |  Date: 2026-01-22T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/health/weightloss/sun-pharma-gets-dcgi-nod-for-generic-semaglutide-plans-india-launch-post-patent-expiry/ar-AA1UNMwU?ocid=BingNewsVerp
+    Content: Preparing to enter India’s obesity and metabolic care market, Sun Pharma on Friday said it has received approval from the Drugs Controller General of India (DCGI) to manufacture and market a generic ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[4] Iran crisis pressures gold, silver, platinum, and palladium as a stronger dollar weighs
-    Source : Seeking Alpha  |  Date: 2026-03-09T17:45:20+00:00
-    URL    : https://seekingalpha.com/news/4562112-iran-crisis-pressures-gold-and-silver-platinum-and-palladium-also-decline
-    Content: Gold ( XAUUSD:CUR) and silver prices fell on Monday, pressured by a stronger U.S. dollar ( DXY) and higher interest rate ...  [DDG snippet — full article blocked]
+[4] Sun Pharma up 5% in 1 week, nears 52-week high; what's driving this stock?
+    Source : Business Standard  |  Date: 2026-03-11T16:01:34+00:00
+    URL    : https://www.business-standard.com/markets/news/sun-pharma-up-5-in-1-week-nears-52-week-high-what-s-driving-this-stock-126031100189_1.html
+    Content: Sun Pharma is transitioning its US business from low-margin generics to high-value specialty and innovative therapies.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[5] The impact of India-US trade deal on gold & silver prices: Expert explains
-    Source : MSN  |  Date: 2026-02-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/economy/the-impact-of-india-us-trade-deal-on-gold-silver-prices-expert-explains/ar-AA1VxQ4k?ocid=BingNewsVerp
-    Content: New Delhi: Gold prices have been declining in the last 2-3 days. However, both the precious metals went up today. On Monday, US and India announced that a trade agreement has been reached and United ...  [DDG snippet — full article blocked]
+[5] India's Zydus, Lupin sign deal to co‑market Semaglutide injections
+    Source : Reuters on MSN  |  Date: 2026-03-17T16:01:34+00:00
+    URL    : https://www.msn.com/en-us/health/other/indias-zydus-lupin-sign-deal-to-co-market-semaglutide-injections/ar-AA1YO5Qh?ocid=BingNewsVerp
+    Content: March 17 (Reuters) - Indian drugmakers Zydus Lifesciences and Lupin have signed a licensing and supply deal on Tuesday to ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[6] Gold, silver prices plunge as Iran conflict sparks inflation concerns, strengthens dollar
-    Source : Forbes on MSN  |  Date: 2026-03-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-us/money/markets/gold-silver-prices-plunge-as-iran-conflict-sparks-inflation-concerns-strengthens-dollar/ar-AA1XrXGJ?ocid=BingNewsVerp
-    Content: The price of silver plunged more than 10% at the metal’s lowest point Tuesday morning.  [DDG snippet — full article blocked]
+[6] Weight-loss drugs set to get cheaper in India as semaglutide patents expire
+    Source : MSN  |  Date: 2026-02-25T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/health/other/weight-loss-drugs-set-to-get-cheaper-in-india-as-semaglutide-patents-expire/ar-AA1X6eR8?ocid=BingNewsVerp
+    Content: India's anti-obesity drug market is on the brink of a major transformation, with prices of popular weight-loss medications poised to drop significantly in 2026. According to industry reports, ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[7] India-US trade deal impact on gold, silver price today, Feb 3: Silver zooms Rs 19000, gold up 4%; time to buy?
-    Source : MSN  |  Date: 2026-02-02T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/india-us-trade-deal-impact-on-gold-silver-price-today-feb-3-silver-zooms-rs-19000-gold-up-4-time-to-buy/ar-AA1VyeaK?ocid=BingNewsVerp
-    Content: Gold, Silver Rate Today: Gold and silver prices on the Multi-Commodity Exchange (MCX) rebounded sharply on Tuesday, snapping a recent losing streak after positive cues from the India-US trade deal ...  [DDG snippet — full article blocked]
+[7] As semaglutide goes off patent, weight-loss gold rush begins. Pharma bets big, court case lingers
+    Source : The Print on MSN  |  Date: 2026-03-07T16:01:34+00:00
+    URL    : https://www.msn.com/en-in/health/weightloss/as-semaglutide-goes-off-patent-weight-loss-gold-rush-begins-pharma-bets-big-court-case-lingers/ar-AA1XHjbb?ocid=BingNewsVerp
+    Content: Several leading Indian drugmakers have already secured regulatory approval or recommendations to produce and market generic versions of the weight loss drugs in India.  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[8] Silver, Gold prices fall: Why did the precious metals declined today
-    Source : MSN  |  Date: 2026-02-11T18:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/silver-gold-prices-fall-why-did-the-precious-metals-declined-today/ar-AA1Wb21o?ocid=BingNewsVerp
-    Content: New Delhi: After rising on Wednesday, gold and silver prices declined on Thursday. The rates of precious metals dropped due to strong US dollar and a decline in the international market. Both the ...  [DDG snippet — full article blocked]
+[8] Is India about to make Ozempic-like weight-loss drugs a whole lot cheaper?
+    Source : CNN  |  Date: 2026-02-07T18:30:00+00:00
+    URL    : https://www.cnn.com/2026/02/07/india/india-semaglutide-patent-expiry-intl-hnk-dst
+    Content: On any given morning in Mumbai’s Shivaji Park, power-walkers circle the running track, fitness watches buzzing with every step. Minutes later, some drift toward nearby food stalls, where oil sizzles and hot samosas and syrupy jalebis land on paper plates. It’s a snapshot of India’s uneasy relationship with health and indulgence – and the backdrop to a fast-growing medical and commercial frenzy. That frenzy is over the imminent expiry of a patent protecting semaglutide, a protein that mimics a hormone telling your brain that you’re not hungry. It’s a key ingredient in Novo Nordisk’s wildly popular injectable weight-loss drug Ozempic. Novo Nordisk’s India patent will expire in March. And the country’s colossal pharma production industry is gearing up to take advantage by selling generic versions. Analysts there predict a price war that could drive the cost of some weight-loss drugs down by as much as 90 percent in India – and possibly in other countries too.
 ----------------------------------------
 
-[9] PGM Prices Are Not Helping Sibanye Stillwater
-    Source : GuruFocus.com· via Yahoo Finance  |  Date: 2024-03-19T17:45:20+00:00
-    URL    : https://finance.yahoo.com/news/pgm-prices-not-helping-sibanye-140003491.html
-    Content: Johannesburg-based company Sibanye Stillwater Ltd. ( NYSE:SBSW ) released its six-month earnings results for the period ended Dec. 31, 2023, on March 5. I have been following the miner since February 2014 and own a long-term position in the company. The group is mining platinum, palladium, rhodium, gold, chrome and, most recently, lithium, nickel and zinc. The revenue per metal for the six-month period is indicated in the chart below: The revenue from gold in the second half represented the lion's share with $774 million. Understanding Sibanye's balance sheet can be complex and time-consuming. Still, it is worth noting the company's business model highly correlates with the prices of precious metals such as platinum group metals and gold. Recently, gold and silver prices have significantly increased and reached new records, while PGM prices, which constitute a substantial portion of the company's revenue, have been weak.
+
+########################################
+TREND: Core Sector Growth Slowing in India and Its Impact on Industrial Activity
+LLM Search Query: impact of core sector growth slowdown on industrial activity in India stock market
+Articles scraped: 4
+########################################
+
+[1] Moog Flying High On Exceptional Growth And Sector Popularity
+    Source : Seeking Alpha  |  Date: 2026-01-31T18:30:00+00:00
+    URL    : https://seekingalpha.com/article/4864786-moog-flying-high-on-exceptional-growth-sector-popularity
+    Content: Moog shares have been exceptionally strong on robust aerospace, defense, and industrial demand, outperforming most industrial peers. FQ1 revenue beat by 11% with 21% growth, but margin expansion ...  [DDG snippet — full article blocked]
 ----------------------------------------
 
-[10] Car giants suffer £6bn hit as fears rise over steel tariffs
-    Source : The Telegraph· via Yahoo Finance  |  Date: 2025-10-20T17:45:20+00:00
-    URL    : https://finance.yahoo.com/news/car-giants-suffer-6bn-hit-171039148.html
-    Content: More than £6bn was wiped off the value of European carmakers on Wednesday amid fears they will be forced to pay more for steel. The European Commission on Tuesday proposed a 50pc duty on steel, above a quota, in a bid to help EU producers of the metal. But the European Automobile Manufacturers’ Association (ACEA) said the plans could burden carmakers with higher costs. Sigrid de Vries, its director general, said: “We do not contest the need for some level of protection for a commodity industry like steel but we feel that the parameters as proposed by the Commission go too far in ring-fencing the European market. “We need to find a better balance between the needs of European producers and users of steel in this measure.” Although European car manufacturers source around 90pc of their steel purchases from EU producers, they are “most concerned about the inflationary impact” of what the EU calls “strong and permanent protection”.
+[2] Core sector data: India’s eight core industries grow at 1.8% in November 2025 - details
+    Source : MSN  |  Date: 2025-12-22T18:30:00+00:00
+    URL    : https://www.msn.com/en-in/money/markets/core-sector-data-india-s-eight-core-industries-grow-at-1-8-in-november-2025-details/ar-AA1SPIL2?ocid=BingNewsVerp
+    Content: Core sector November 2025 data: India's eight core infrastructure sectors grew at a slower rate by 1.8 per cent in November 2025 against 5.8 per cent recorded in the same month of last year, amid a ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[3] S&P 500 2026 Market Outlook: Sector Growth Expected To Be Skewed
+    Source : Seeking Alpha  |  Date: 2025-12-28T18:30:00+00:00
+    URL    : https://seekingalpha.com/article/4856203-spx-2026-market-outlook-sector-growth-expected-to-be-skewed
+    Content: I maintain a Buy rating on the S&P 500 (SPY), but expect flat performance in 2026 with a 7,014 year-end target. Sector-focused strategies in industrials and basic materials, especially data center ...  [DDG snippet — full article blocked]
+----------------------------------------
+
+[4] WWD Up 25% in a Year: How Should Investors Play the Stock in 2025?
+    Source : Zacks· via Yahoo Finance  |  Date: 2025-03-20T16:01:42+00:00
+    URL    : https://finance.yahoo.com/news/wwd-25-investors-play-stock-132600393.html
+    Content: Woodward, Inc . WWD shares have gained 24.8% in the past year, underperforming the S&P 500 composite and the sub-industry’s growth of 25.6% and 34.7%, respectively. The stock closed the last trading session at $168.70, 16% below its 52-week high of $201.64, reached on Nov. 26, 2024. Does this recent pullback from its 52-week high indicate a buying opportunity? Let’s evaluate Woodward's pros and cons to ascertain the best course of action for your portfolio. Headquartered in Fort Collins, CO, Woodward is an independent designer, manufacturer and service provider of energy control and optimization solutions for the aerospace and industrial markets. Revenues from Woodward’s Aerospace business are expected to improve in the upcoming quarters, driven by strength in commercial markets as well as higher defense activity despite supply-chain challenges. In the fourth quarter of fiscal 2024, net sales for the segment were up 22% year over year while fiscal year revenues were up 15%.
 ----------------------------------------
 
 
@@ -263,205 +213,135 @@ Articles scraped: 10
 === PHASE 3: LLM STOCK IMPACT ANALYSIS ===
 ==================================================
 
-### TREND: Soaring Oil Prices and Supply Disruption in West Asia
+### TREND: US-Iran Conflict Impact on Oil Prices and Global Trade Disruption
 
 **SUMMARY**
-Oil prices have surged due to the escalating conflict in the Middle East, particularly the U.S.-Israeli strikes on Iran, leading to supply disruptions and increased geopolitical tensions.
+The escalating US-Iran conflict is driving oil prices higher and causing disruptions in global trade, particularly affecting sectors reliant on oil and shipping.
 
 **BULLISH SECTORS**
-- **Energy Sector:** Companies like ExxonMobil (XOM), Chevron (CVX), and BP (BP) are likely to benefit from higher oil prices.
-- **Shipping:** Companies like Maersk (MAK) and CMA CGM (CGM) may see increased demand for shipping services due to supply chain disruptions.
+- **Energy Sector**: Companies like Cheniere Energy (LNG exporter) and ConocoPhillips (oil producer) are likely to benefit.
+- **Defense Sector**: Companies like Raytheon Technologies (RTX) and Lockheed Martin (LMT) could see increased demand for defense equipment.
 
 **BEARISH SECTORS**
-- **Consumer Discretionary:** Airlines like American Airlines (AAL) and United Airlines (UAL) will face higher fuel costs, reducing profitability.
-- **Manufacturing:** Companies like General Motors (GM) and Ford (F) will incur higher energy costs, impacting margins.
+- **Airlines**: Companies like Delta Air Lines (DAL) and United Airlines (UAL) are suffering due to higher fuel costs and disrupted routes.
+- **Shipping**: Companies like Maersk (MAA) and Mediterranean Shipping Company (MSCI) are facing increased risks and costs.
 
 **MAGNITUDE**
-- **High**: The impact is significant due to the critical role of oil in global economies and supply chains.
+- **High**: The conflict has already caused significant volatility in oil prices and global trade, with potential for further escalation.
 
 **TIME HORIZON**
-- **Medium (1-6 months)**: The conflict's duration and its effects on supply chains will play a key role in determining the timeline.
+- **Medium (1-6 months)**: The impact is immediate but could persist as the conflict evolves.
 
-### TREND: US Federal Reserve's Hawkish Stance and Interest Rate Policy
+### TREND: Patent Expiry for Semaglutide and Its Impact on Pharma Sector
 
 **SUMMARY**
-The US Federal Reserve has taken a hawkish stance, signaling potential future interest rate hikes amid inflation concerns, which is impacting global stock markets and interest rate-sensitive sectors.
+The patent expiry for semaglutide is expected to open up a significant market opportunity for generic drug manufacturers, particularly in India.
 
 **BULLISH SECTORS**
-- **Financials:** Banks like JPMorgan Chase (JPM) and Wells Fargo (WFC) may benefit from higher interest rates.
-- **Utilities:** Companies like NextEra Energy (NEE) and Dominion Energy (D) may see increased demand for stable dividend yields.
+- **Generic Drug Manufacturers**: Companies like Sun Pharma (SUNPHARM) and Zydus Lifesciences (ZYDUS) are likely to benefit.
+- **Indian Pharmaceutical Companies**: Companies like Lupin (LUPIN) and Dr. Reddy’s Laboratories (DRREDDY) are well-positioned.
 
 **BEARISH SECTORS**
-- **Consumer Discretionary:** Retailers like Walmart (WMT) and Target (TGT) may face higher borrowing costs.
-- **Technology:** Companies like Alphabet (GOOGL) and Microsoft (MSFT) may see reduced investment due to higher interest rates.
+- **Brand Drug Manufacturers**: Companies like Novo Nordisk (NVO) could face reduced sales from generic competition.
+- **Specialty Pharma Companies**: Companies heavily reliant on branded drugs in the obesity and metabolic care market.
 
 **MAGNITUDE**
-- **Medium**: The impact is substantial due to the broad reach of interest rates on various sectors.
+- **Medium**: The market opportunity is significant, but the transition to generics will take time.
 
 **TIME HORIZON**
-- **Medium (1-6 months)**: The timing of rate hikes and their effects on the economy will be crucial.
+- **Long (6 months+)**: The impact will be gradual as generic drugs enter the market.
 
-### TREND: Gold and Silver Price Decline Due to Stronger US Dollar
+### TREND: Core Sector Growth Slowing in India and Its Impact on Industrial Activity
 
 **SUMMARY**
-Gold and silver prices have declined due to a stronger US dollar and higher interest rates, which reduce demand for precious metals as investment alternatives become more attractive.
+India's core sector growth has slowed, which is expected to impact industrial activity and stock performance in related sectors.
 
 **BULLISH SECTORS**
-- **Mining Equipment:** Companies like Caterpillar (CAT) and Komatsu (KOM) may benefit from increased demand for mining equipment.
-- **Industrial Metals:** Companies like Freeport-McMoRan (FCX) and Newmont (NEM) may see increased demand for industrial metals.
+- **Non-Core Sectors**: Companies like Moog India (MGL) and Mahindra & Mahindra (M&M) that are not heavily reliant on core sectors.
+- **Defensive Stocks**: Companies like HDFC Bank (HDB) and Reliance Industries (RELIANCE) that offer stability.
 
 **BEARISH SECTORS**
-- **Gold and Silver Mining:** Companies like Barrick Gold (GOLD) and Newmont (NEM) will face reduced prices for their primary products.
-- **Precious Metals ETFs:** Funds like SPDR Gold Shares (GLD) and iShares Silver Trust (SLV) will see decreased value.
+- **Core Sector Companies**: Companies like Coal India (COALINDIA) and NTPC (NTPL) are likely to suffer.
+- **Industrial Stocks**: Companies like Tata Steel (TISCO) and JSW Steel (JSWSTEEL) could face reduced demand.
 
 **MAGNITUDE**
-- **Medium**: The impact is significant due to the inverse relationship between precious metals and the US dollar.
+- **Medium**: The slowdown is significant but not catastrophic, with potential for recovery.
 
 **TIME HORIZON**
-- **Short (< 1 month)**: The effects of currency strength and interest rates on precious metals prices can be rapid.
+- **Medium (1-6 months)**: The impact is immediate, but recovery could take some time.
 
 ### PORTFOLIO SIGNAL
 
-**URGENCY RANKING:**
-1. **Soaring Oil Prices and Supply Disruption in West Asia** - High urgency due to immediate supply chain disruptions and geopolitical tensions.
-2. **US Federal Reserve's Hawkish Stance and Interest Rate Policy** - Medium urgency as the impact unfolds over the next few months.
-3. **Gold and Silver Price Decline Due to Stronger US Dollar** - Short-term urgency as currency and interest rate effects are rapid.
+**Urgency Ranking:**
+1. **US-Iran Conflict Impact on Oil Prices and Global Trade Disruption** (High Urgency)
+2. **Patent Expiry for Semaglutide and Its Impact on Pharma Sector** (Medium Urgency)
+3. **Core Sector Growth Slowing in India and Its Impact on Industrial Activity** (Medium Urgency)
 
-**ALLOCATION BIAS:**
-- **Overweight Energy, Financials, and Mining Equipment**
-- **Underweight Consumer Discretionary, Technology, and Precious Metals Mining**
+**Allocation Bias:**
+- **Increase Exposure**: Energy sector (Cheniere Energy, ConocoPhillips), Defense sector (Raytheon Technologies, Lockheed Martin).
+- **Reduce Exposure**: Airlines (Delta Air Lines, United Airlines), Shipping (Maersk, Mediterranean Shipping Company).
+- **Moderate Exposure**: Generic Drug Manufacturers (Sun Pharma, Zydus Lifesciences), Indian Pharmaceutical Companies (Lupin, Dr. Reddy’s Laboratories).
+- **Defensive Allocation**: Defensive Stocks (HDFC Bank, Reliance Industries), Non-Core Sectors (Moog India, Mahindra & Mahindra).
 
-This allocation aims to capitalize on the upside of higher oil prices and interest rates while mitigating risks in sectors likely to suffer from these trends.
+This allocation aims to capitalize on the immediate and significant impacts of the US-Iran conflict while also positioning for the medium-term opportunities and challenges in the pharma and industrial sectors.
 
 
 ==================================================
 === PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS ===
 ==================================================
 
-### Predictions for Tomorrow
+### Analysis and Predictions
 
-#### XOM
-- **TICKER:** XOM
-- **DIRECTION:** UP
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bullish due to soaring oil prices, and the stock is near its 50-day average with a bullish MACD trend.
+#### LNG (Cheniere Energy, Inc.)
+- **DIRECTION**: NEUTRAL
+- **CONFIDENCE**: 50%
+- **RATIONALE**: The RSI is overbought (83.03) and the stock is close to its 52-week high, suggesting a potential pullback. However, the bullish news from the US-Iran conflict supports an upward movement.
 
-#### CVX
-- **TICKER:** CVX
-- **DIRECTION:** NEUTRAL
-- **CONFIDENCE:** 60%
-- **RATIONALE:** News is bullish, but the stock is overbought and near its 50-day average, indicating potential consolidation.
+#### COP (ConocoPhillips)
+- **DIRECTION**: NEUTRAL
+- **CONFIDENCE**: 50%
+- **RATIONALE**: The RSI is overbought (76.59) and the stock is near its 52-week high, indicating a possible pullback. The bullish news from the US-Iran conflict supports an upward movement.
 
-#### BP
-- **TICKER:** BP
-- **DIRECTION:** NEUTRAL
-- **CONFIDENCE:** 60%
-- **RATIONALE:** News is bullish, but the stock is overbought and near its 50-day average, indicating potential consolidation.
+#### RTX (RTX Corporation)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 70%
+- **RATIONALE**: The RSI is neutral (44.95) and the MACD is bearish, suggesting a downward trend. Despite the bullish news from the US-Iran conflict, the technical indicators point to a decline.
 
-#### AAL
-- **TICKER:** AAL
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 80%
-- **RATIONALE:** News is bearish due to higher fuel costs, and the stock is below its 50-day average with a bearish MACD trend.
+#### LMT (Lockheed Martin Corporation)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 70%
+- **RATIONALE**: The RSI is neutral (44.02) and the MACD is bearish, indicating a downward trend. Despite the bullish news from the US-Iran conflict, the technical indicators point to a decline.
 
-#### UAL
-- **TICKER:** UAL
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 80%
-- **RATIONALE:** News is bearish due to higher fuel costs, and the stock is below its 50-day average with a bearish MACD trend.
+#### DAL (Delta Air Lines, Inc.)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is neutral (48.02) and the MACD is bullish, but the stock is below its 50-SMA, suggesting a potential pullback. The bearish news from the US-Iran conflict exacerbates the negative sentiment.
 
-#### GM
-- **TICKER:** GM
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to higher energy costs, and the stock is below its 50-day average with a bearish MACD trend.
+#### UAL (United Airlines Holdings, Inc.)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is neutral (39.42) and the MACD is bearish, indicating a downward trend. The bearish news from the US-Iran conflict exacerbates the negative sentiment.
 
-#### F
-- **TICKER:** F
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to higher energy costs, and the stock is oversold and below its 50-day average.
+#### MAA (Mid-America Apartment Communities)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is oversold (27.6) and the MACD is bearish, indicating a downward trend. The bearish news from the US-Iran conflict exacerbates the negative sentiment.
 
-#### JPM
-- **TICKER:** JPM
-- **DIRECTION:** NEUTRAL
-- **CONFIDENCE:** 65%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bearish MACD trend.
+#### MSCI (MSCI Inc.)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is neutral (47.95) and the MACD is bullish, but the stock is below its 50-SMA, suggesting a potential pullback. The bearish news from the US-Iran conflict exacerbates the negative sentiment.
 
-#### WFC
-- **TICKER:** WFC
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
+#### NVO (Novo Nordisk A/S)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is neutral (31.05) and the MACD is bullish, but the stock is below its 50-SMA, suggesting a potential pullback. The bearish news from the patent expiry for semaglutide exacerbates the negative sentiment.
 
-#### NEE
-- **TICKER:** NEE
-- **DIRECTION:** NEUTRAL
-- **CONFIDENCE:** 65%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bearish MACD trend.
+#### HDB (HDFC Bank Limited)
+- **DIRECTION**: DOWN
+- **CONFIDENCE**: 60%
+- **RATIONALE**: The RSI is oversold (17.89) and the MACD is bearish, indicating a downward trend. The bearish news from the core sector growth slowdown in India exacerbates the negative sentiment.
 
-#### D
-- **TICKER:** D
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### WMT
-- **TICKER:** WMT
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### TGT
-- **TICKER:** TGT
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is near its 50-day average with a bearish MACD trend.
-
-#### GOOGL
-- **TICKER:** GOOGL
-- **DIRECTION:** NEUTRAL
-- **CONFIDENCE:** 65%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, but the stock is near its 50-day average with a bullish MACD trend.
-
-#### MSFT
-- **TICKER:** MSFT
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bullish MACD trend.
-
-#### CAT
-- **TICKER:** CAT
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 70%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### FCX
-- **TICKER:** FCX
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### NEM
-- **TICKER:** NEM
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 80%
-- **RATIONALE:** News is bearish due to hawkish Fed stance, and the stock is oversold and below its 50-day average.
-
-#### GOLD
-- **TICKER:** GOLD
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### GLD
-- **TICKER:** GLD
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
-
-#### SLV
-- **TICKER:** SLV
-- **DIRECTION:** DOWN
-- **CONFIDENCE:** 75%
-- **RATIONALE:** News is bearish due to stronger US dollar, and the stock is below its 50-day average with a bearish MACD trend.
+### Summary
+- **LNG and COP**: Neutral due to overbought RSI and proximity to 52-week high, but supported by bullish news.
+- **RTX, LMT, DAL, UAL, MAA, MSCI, NVO, HDB**: Down due to bearish technical indicators and negative news catalysts.

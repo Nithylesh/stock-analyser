@@ -16,7 +16,7 @@ def evaluate_predictions(filepath):
         return
 
     # 2. Parse the new format: "**TICKER: AAPL**" followed by "- **DIRECTION:** UP"
-    pattern = r"-\s*\*\*TICKER\*\*[:\s]+([A-Z0-9.&]+)\s*[\r\n]+\s*-\s*\*\*DIRECTION\*\*[:\s]+(UP|DOWN|NEUTRAL)"
+    pattern = r"TICKER(?:[\*\s:]+)([A-Z0-9.&]+)[^\n]*\n[^\n]*DIRECTION(?:[\*\s:]+)(UP|DOWN|NEUTRAL)"
     matches = re.findall(pattern, text)
 
     predictions = {ticker: direction for ticker, direction in matches}
