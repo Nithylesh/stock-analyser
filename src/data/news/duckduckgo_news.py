@@ -1,4 +1,4 @@
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 def fetch_web_news(query_term, max_results=5):
     """Fetches live news headlines using DuckDuckGo."""
