@@ -4,6 +4,5 @@ feedparser
 beautifulsoup4
 python-dotenv
 pandas
-pandas-ta
 requests
 openai
