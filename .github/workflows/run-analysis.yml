@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+# NEW: This silences the Node.js 20 deprecation warning by forcing Node 24
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   run-analysis:
     runs-on: ubuntu-latest
@@ -30,10 +34,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install yfinance pandas requests
-          # pip install -r requirements.txt
+          pip install -r requirements.txt
 
+      # FIXED: Changed from stock-analyser/outputs to just outputs
       - name: Create output directory
-        run: mkdir -p stock-analyser/outputs
+        run: mkdir -p outputs
 
       - name: Run Trend Analyzer
         env:
@@ -53,7 +58,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add stock-analyser/outputs/
+          
+          # FIXED: Stage the correct outputs folder
+          git add outputs/
+          
           git commit -m "Auto-update prediction files [skip ci]" || echo "No changes to commit"
           git push origin main
 
@@ -62,5 +70,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: stock-analyser-outputs
-          path: stock-analyser/outputs/
+          # FIXED: Look in the correct outputs folder
+          path: outputs/
           retention-days: 7
