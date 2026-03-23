@@ -1,7 +1,35 @@
+from dotenv import find_dotenv, load_dotenv
 import yfinance as yf
 import re
 import os
 import pandas as pd
+import requests
+load_dotenv(find_dotenv())
+
+def send_telegram_message(message):
+    """Sends a text message to your Telegram Bot."""
+    bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    
+    if not bot_token or not chat_id:
+        print("⚠️ Telegram credentials not found in environment variables. Skipping message.")
+        return
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    
+    # We wrap the message in ``` so Telegram formats it like a clean monospaced table
+    payload = {
+        "chat_id": chat_id,
+        "text": f"```text\n{message}\n```",
+        "parse_mode": "MarkdownV2"
+    }
+    
+    try:
+        response = requests.post(url, json=payload)
+        response.raise_for_status()
+        print("\n✅ Report successfully sent to Telegram!")
+    except Exception as e:
+        print(f"\n❌ Failed to send Telegram message: {e}")
 
 def evaluate_predictions(filepath):
     """Parses predictions and grades them using explicit Yesterday vs Today data."""
@@ -16,10 +44,33 @@ def evaluate_predictions(filepath):
         return
 
     # 2. Parse the new format: "**TICKER: AAPL**" followed by "- **DIRECTION:** UP"
-    pattern = r"TICKER(?:[\*\s:]+)([A-Z0-9.&]+)[^\n]*\n[^\n]*DIRECTION(?:[\*\s:]+)(UP|DOWN|NEUTRAL)"
-    matches = re.findall(pattern, text)
+    patterns = [
+        # Pattern 1: The original format -> "**TICKER: AAPL**" followed by "DIRECTION: UP"
+        r"TICKER[\*\s:]+([A-Z0-9.&]+)[^\n]*\n(?:[^\n]*\n){0,4}[^\n]*DIRECTION[\*\s:]+(UP|DOWN|NEUTRAL)",
+        
+        # Pattern 2: The current Markdown header format -> "#### AAPL (Company Name)"
+        r"####\s+([A-Z0-9.&]+)[^\n]*\n(?:[^\n]*\n){0,4}[^\n]*DIRECTION[\*\s:]+(UP|DOWN|NEUTRAL)",
+        
+        # Pattern 3: Bullet points or numbered lists -> "1. **AAPL**" or "- **AAPL**"
+        r"^(?:\d+\.|-)\s*\*\*([A-Z0-9.&]+)\*\*[^\n]*\n(?:[^\n]*\n){0,4}[^\n]*DIRECTION[\*\s:]+(UP|DOWN|NEUTRAL)",
+        
+        # Pattern 4: Bare ticker fallback -> "AAPL:" or "**AAPL**:"
+        r"^\s*\*\*?([A-Z0-9.&]+)\*\*?[\s:]*\n(?:[^\n]*\n){0,4}[^\n]*DIRECTION[\*\s:]+(UP|DOWN|NEUTRAL)"
+    ]
 
-    predictions = {ticker: direction for ticker, direction in matches}
+    predictions = {}
+    
+    # Run through all patterns to extract predictions
+    for pattern in patterns:
+        # re.IGNORECASE catches lowercase variations like "Direction:" or "Neutral"
+        # re.MULTILINE allows ^ to match the start of every line
+        matches = re.findall(pattern, text, re.IGNORECASE | re.MULTILINE)
+        
+        for ticker, direction in matches:
+            ticker_clean = ticker.upper().strip()
+            # Prevent overwriting if multiple patterns catch the same ticker
+            if ticker_clean not in predictions:
+                predictions[ticker_clean] = direction.upper().strip()
 
     if not predictions:
         print("❌ No formatted predictions found in the file. Check the format.")
@@ -88,24 +139,32 @@ def evaluate_predictions(filepath):
             results.append((ticker, predictions[ticker], "ERROR", 0.0, "⚠️ FAIL"))
 
     # 5. Output Report
-    print(f"📅 EVALUATION WINDOW: Prediction Base ({date_base_str}) vs Actual Outcome ({date_actual_str})")
-    print("=====================================================================")
-    print(f"{'TICKER':<15} | {'PREDICTED':<10} | {'ACTUAL':<10} | {'CHANGE %':<10} | {'RESULT'}")
-    print("=====================================================================")
+    report_lines = []
+    report_lines.append(f"📅 EVALUATION WINDOW: {date_base_str} vs {date_actual_str}")
+    report_lines.append("="*65)
+    report_lines.append(f"{'TICKER':<15} | {'PRED':<10} | {'ACTUAL':<10} | {'CHANGE %':<10} | {'RESULT'}")
+    report_lines.append("="*65)
     
     for res in results:
         ticker, pred, act, change, status = res
         change_str = f"{change:+.2f}%" if act != "ERROR" else "N/A"
-        print(f"{ticker:<15} | {pred:<10} | {act:<10} | {change_str:<10} | {status}")
+        report_lines.append(f"{ticker:<15} | {pred:<10} | {act:<10} | {change_str:<10} | {status}")
         
-    print("=====================================================================")
+    report_lines.append("="*65)
     
     if total_scored > 0:
         accuracy = (correct_count / total_scored) * 100
-        print(f"🎯 ALGORITHM ACCURACY: {accuracy:.2f}% ({correct_count}/{total_scored} directional calls correct)")
+        report_lines.append(f"🎯 ACCURACY: {accuracy:.2f}% ({correct_count}/{total_scored} correct)")
     else:
-        print("🎯 ALGORITHM ACCURACY: No UP/DOWN predictions to score.")
-    print("=====================================================================\n")
+        report_lines.append("🎯 ACCURACY: No UP/DOWN predictions to score.")
+    
+    report_lines.append("="*65)
+
+    # Combine all lines into one big text block
+    final_report = "\n".join(report_lines)
+
+    # Send the report via Telegram
+    send_telegram_message(final_report)
 
 if __name__ == "__main__":
     # Point this to your text file containing the predictions
