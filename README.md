@@ -154,6 +154,8 @@ evaluator.py - Parses yesterday's predictions and grades them against today's ac
 
 run analyzer first and run evaluator next day to see how good the result is..
 P.S tried it once and everything was a miss so 100% ig
+kinda fine ig.....did predict dollar strengthening.
+update it to become a hosted app on vercel with front end and stuff
 ---
 
 ---
