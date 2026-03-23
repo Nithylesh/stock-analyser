@@ -9,4 +9,4 @@ pip install python-dotenv
 pip install pandas-ta
 pip install requests
 pip install openai
-pip install DDGS
+pip install ddgs
