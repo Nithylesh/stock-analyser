@@ -10,3 +10,4 @@ pip install pandas-ta
 pip install requests
 pip install openai
 pip install ddgs
+pip install duckduckgo-search
