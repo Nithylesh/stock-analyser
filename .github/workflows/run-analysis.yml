@@ -35,6 +35,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Verify imports
+        run: |
+          python -c "from duckduckgo_search import DDGS; print('✅ duckduckgo_search OK')"
+          python -c "import yfinance; print('✅ yfinance OK')"
+          python -c "import feedparser; print('✅ feedparser OK')"
+
       # FIXED: Changed from stock-analyser/outputs to just outputs
       - name: Create output directory
         run: mkdir -p outputs

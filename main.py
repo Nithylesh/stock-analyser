@@ -1,5 +1,5 @@
 import yfinance as yf
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 def get_price_data(ticker_symbol):
     print(f"\n========== AGENT TARGET: {ticker_symbol} ==========")

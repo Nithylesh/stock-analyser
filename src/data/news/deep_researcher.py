@@ -4,7 +4,7 @@ import os
 import json
 import time
 from openai import OpenAI
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(find_dotenv())

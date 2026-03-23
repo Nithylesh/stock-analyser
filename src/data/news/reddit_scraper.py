@@ -1,4 +1,4 @@
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 def fetch_reddit_chatter(ticker_symbol, max_results=3):
     """Scrapes recent Reddit posts for the ticker symbol."""

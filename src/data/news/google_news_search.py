@@ -1,5 +1,5 @@
 import feedparser
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 import time
 import requests
 from bs4 import BeautifulSoup
