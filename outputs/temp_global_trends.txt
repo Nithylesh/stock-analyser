@@ -1,52 +1,52 @@
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: Gold (XAUUSD) & Silver Price Forecast: 6% Gold Plunge – Is the $4,100 Bottom In? - FXEmpire
-Context: Gold prices slump for a 9th day as oil-driven inflation boosts "higher-for-longer" rate bets, lifting the dollar and crushing silver. Gold (XAUUSD:CUR) recently retreated from a record high of $5,600 per ounce, but ANZ analysts say the correction could attract fresh investment, citing persistent structural support and minimal signs of a trend reversal, with prices now expected to reach $ ...
+Headline: Stock Market Highlights: Sensex Closes 1,300 Points Higher As US Pauses Strike On Iran - NDTV
+Context: Markets recovered losses on Monday as the Sensex closed 938 points higher to settle at 75,502, while Nifty50 closed at 23,408, climbing 257 points. The gains were attributed to the assurances from the Trump administration on safe transit for ships through the Strait of Hormuz. The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open sharply lower on Monday, following a sell-off in global markets, amid a surge in crude oil prices as the expanding US-Israeli war with Iran fuelled fears of tighter supply ... The Sensex and the Nifty are up for the third consecutive session. Over these three sessions, the 30-share pack has gained more than 2,200 points, or 3%, while the NSE counterpart has jumped nearly 650 points,
 ----------------------------------------
 
 Article 2:
-Headline: SENSEX crashes 1,900 pts, NIFTY50 below 22,450 in noon deals; HDFC Bank, L&T, IndiGo among buzzing stocks - Upstox
-Context: Stock market crash today: Higher crude oil prices and a hawkish stance from the US Federal Reserve weighed heavily on investor sentiment.Within minutes of trading, the sharp decline erased over Rs 11 lakh crore from the total market capitalisation of BSE-listed firms. Indian equity markets are set to open on a cautious note on Friday, with benchmark indices indicating mild losses in the pre-open session after a sharp rebound in the previous trading day. The BSE Sensex rang the opening bell below 79,500, crashing a ... Stock market crash today: After a day of relief rally, Nifty50 and BSE Sensex plunged again in trade on Friday. While Nifty50 went below 24,450 intraday, BSE Sensex again gave up the 80,000 mark. Nifty50 ended the day at 24,450.45, down 315 points or 1.27%.
+Headline: Oil prices jump over 2% amid ongoing Middle East attacks By Investing.com - Investing.com India
+Context: Oil and Gas outlook: Brent crude prices have surged by over 60 per cent since the start of the US-Iran-Israel conflict, rising to around USD 112 per barrel from nearly USD 70 earlier, reflecting major disruptions in global energy supply. By Siddharth Cavale NEW YORK, March 18 (Reuters) - Oil prices were up 5% on Wednesday after Iran's Revolutionary Guards threatened to attack several energy facilities across the Middle East in retaliation, There is pain at the pump for drivers across the country — the D.C. area included — as oil prices skyrocket due to the U.S. and Israel-Iran war. Average gas prices in the District have risen nearly 44 cents in the last week, averaging $3.48, according ...
 ----------------------------------------
 
 Article 3:
-Headline: Credit Suisse’s AT1 Bond Crash Fueled HDFC Leadership Crisis - Bloomberg.com
-Context: Shortly before midnight on the eve of a bank holiday in India, HDFC Bank Ltd., a favorite among global investors, stunned the market by announcing the abrupt exit of its chairman. One line in the statement jumped out: Atanu Chakraborty resigned over "ethical" differences with the bank going back two years.
-----------------------------------------
-
-Article 4:
-Headline: Sebi board to consider FPI settlement norms ease, intermediary reforms on Monday - The Economic Times
-Context: The Securities and Exchange Board of India (Sebi) board will meet on Monday to deliberate on a wide-ranging agenda that includes a proposal to ease fund settlement norms for foreign portfolio investors (FPIs) and changes to regulatory frameworks governing market intermediaries, Securities and Exchange Board of India relaxed foreign investor settlement norms, allowing net trade settlement to cut costs amid heavy outflows. It also introduced simplified IPO prospectus summaries, Markets regulator Sebi board is set to meet on Monday to deliberate on a wide-ranging agenda, including a proposal to ease fund settlement norms for foreign portfolio investors (FPIs), and changes to regulatory frameworks for market intermediaries,
-----------------------------------------
-
-Article 5:
-Headline: Two pilots killed in runway collision at New York’s LaGuardia Airport - The Hindu
-Context: New details have emerged about the victims involved in a deadly ground collision at LaGuardia Airport in the hours after an Air Canada jet hit a fire truck on a runway. A flight attendant who was strapped into her seat aboard the aircraft was ejected, sources told FOX5 New York’s Lisa Evers. The flight attendant’s condition was not immediately clear. Two Port Authority officers who were on the fire truck suffered broken bones, but were expected to survive, the New York Post reported. There were 72 passengers and four crew members aboard the Air Canada Express regional jet, which was operated by Jazz Aviation, Air Canada's regional partner. Both pilots were killed and dozens of others were injured. The identities of the two pilots have yet to be released publicly. While many of those hospitalized have since been released, officials say some suffered “serious injuries.” Jack Cabot, a passenger aboard the flight, earlier described many of the passengers as bleeding from their heads.
-----------------------------------------
-
-Article 6:
-Headline: Forex Today: Middle East crisis deepens, Gold plunges to fresh 2026-low - FXStreet
-Context: Rupee tumbled 69 paise on Wednesday, sliding to hit a record low of 92.18 against the US dollar amid surging oil prices and a pullback from riskier assets. Analysts have cautioned that the currency could remain under strain until tensions in the Middle ... Gold futures fell for the fourth time in five sessions, closing below $5,100/oz, pressured by a stronger dollar, rising oil prices, and uncertainty around Federal Reserve policy.
-----------------------------------------
-
-Article 7:
-Headline: The economy has a Strait of Hormuz deadline for Trump: Two weeks - Forex Factory
+Headline: Iran war: Why India must step on the gas with ethanol - The Indian Express
 Context: Full context unavailable for this story.
 ----------------------------------------
 
+Article 4:
+Headline: Rupee under pressure: INR breaches 94-per-dollar mark for the first time; geopolitical tensions, foreign - The Times of India
+Context: The Indian rupee hit an all-time low against the dollar, breaching 94 for the first time amid Middle East tensions, significant foreign fund outflows, and soaring crude oil prices. This sharp decline, Rupee Hits Record Low: The Indian rupee hit a record low amid Middle East tensions, rising oil prices, higher US yields, foreign outflows, increasing import costs and pressuring the currency further. The Indian rupee has reached a record low of 93.94 against the US dollar, influenced by global uncertainties and escalating tensions in West Asia.
+----------------------------------------
+
+Article 5:
+Headline: Swiggy hikes platform fee by 17%, days after Zomato; Platform Cos surge after news - CNBC TV18
+Context: New Delhi: Food delivery platform Swiggy has hiked the platform fee it charges users to Rs 17.58 per order, its app showed on Tuesday, days after rival Zomato increased the charges. Swiggy had last hiked its platform fee in September last year. Swiggy has raised its per-order platform fee, days after rival Zomato's move. This and more in today's ETtech Top 5. Swiggy last raised its platform fee in September 2025, announcing three hikes over three weeks that took the charges to ₹14.99. The company first introduced the fee in April 2023 at just ₹2, which has now risen to nearly eight times that level.
+----------------------------------------
+
+Article 6:
+Headline: NCLAT refuses to stay Adani’s ₹14,543 crore JAL resolution plan, seeks lenders' responses - Mint
+Context: The National Company Law Appellate Tribunal (NCLAT) declined to grant an interim stay on Tuesday regarding the Vedanta Group's appeal against an order that approved the Adani Group's Rs 14,535 crore bid for acquiring Jaiprakash Associates Ltd (JAL). NCLAT has expedited proceedings by scheduling the next hearing for April 10. Vedanta, which had also bid for JAL, challenged both the resolution plan's validity and its approval process. The tribunal clarified that the plan's implementation would continue but would be subject to appeal outcomes. The matter needs a swift resolution due to complex legal implications, NCLAT noted. Despite offering a higher bid value, Vedanta lost out to Adani due to quicker financial terms and substantial upfront cash. JAL, grappling with bankruptcy due to unpaid loans, finds its future hanging between rival legal contestations in a high-stakes corporate acquisition.
+----------------------------------------
+
+Article 7:
+Headline: Temasek- and Dr Ranjan Pai-backed Manipal Hospitals files for mega $1 bn-plus IPO; biggest ever in Indian... - Moneycontrol.com
+Context: Singapore investment major Temasek- and Dr Ranjan Pai-backed Manipal Hospitals has filed draft papers with Sebi for a mega billion dollar-plus IPO, India’s biggest ever in the healthcare sector, multiple industry sources in the know told Moneycontrol. The IPO comprises a fresh issue of Rs 8,000 crore and an offer for sale (OFS) of up to 43.23 million shares by promoters and existing shareholders, as per the draft papers. Under the OFS, Imperius Healthcare Investments plans to sell 21.62 million shares, Manipal Education and Medical Group 13.58 million shares, TPG SG Magazine 4.66 million shares, and Seventy Second Investment 1.58 million shares, among others. “This is a marquee deal for the segment and the selling shareholders include Manipal Group, Temasek, TPG, Mubadala and others,” a person in the know said. A second person added that subject to market conditions, the plan is to launch the firm’s IPO by end-2026.
+----------------------------------------
+
 Article 8:
-Headline: 'Crisis worse than two 1970s oil shocks put together': IEA chief's big warning on Strait of Hormuz - The Times of India
-Context: The world faces an unprecedented energy crisis, a potent mix of oil and gas shocks, warns the International Energy Agency. With infrastructure damaged and the vital Strait of Hormuz threatened, global economic stability is at risk. There is a warning now echoing across global capitals…and it has come… from one of the most authoritative voices in the energy domain…The head of the International Energy Agency …Dr Fatih Birol…has issued a stark The conflict in West Asia is leading to a potential energy crisis of unprecedented severity, according to the International Energy Agency (IEA).
+Headline: Airlines cancel more flights as West Asia conflict escalates - The Hindu
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 Article 9:
-Headline: Silver (XAG) Forecast: Fed Pressure Builds as Price Slides Toward 52-Week Moving Average - FXEmpire
-Context: Bearish silver outlook as weak demand and high rates push prices toward the 52-week moving average, with sellers still in control. Silver was calmer on March 20, with spot prices hovering at $70 after the previous session's unwind knocked it to its lowest levels in weeks. The bounce was modest rather than decisive.
+Headline: 22k gold rate today: check 22K, 24K gold prices (March 24, 2026) on Tanishq, Malabar Gold & Diamonds, Joya - The Economic Times
+Context: Gold Rate Today (March 22, 2026): Gold prices remain volatile amid the Iran-Israel-US conflict and domestic cues. Check prices of 24K, 22K and 18K in Delhi, Chennai, Mumbai and other major cities. Gold Price Today in India, Tuesday, March 24: Gold prices slipped on Tuesday, extending a broader global downtrend and trading more than 20 per cent below January's peak. Prices were pressured by a stronger US dollar and lingering US‑Iran tensions, Silver and gold prices saw a sharp reversal on Thursday, snapping a two-day recovery as futures came under heavy selling pressure amid weak global cues and a firm US dollar. On the Multi Commodity Exchange (MCX), silver futures for March delivery plunged ...
 ----------------------------------------
 
 Article 10:
-Headline: Indian drugmakers flood market with cheaper versions of Novo's Ozempic, Wegovy - Reuters
-Context: March 23 (Reuters) - At least half a dozen Indian generic drugmakers launched cheaper versions of Novo Nordisk's blockbuster diabetes drug Ozempic and weight‑loss drug Wegovy over the weekend, at globally unmatched ‌prices and slashing treatment costs by about 70%. The patent for semaglutide, the active ingredient in Novo's ‌drugs, expired in India last week, paving the way for drugmakers to flood the market with dozens of brands. Analysts expect more than ​40 Indian drugmakers to launch over 50 cheaper variants. Large Indian drugmakers are racing to capture a share of the global obesity market, projected to be worth about $100 billion by the end of the decade. They are eyeing overseas markets, including Canada, Brazil, Latin America, and Turkey, for future launches.
+Headline: Gold falls as Iran rejects U.S. talks claims, missile strikes hit Middle East By Investing.com - Investing.com India
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 
@@ -57,329 +57,92 @@ Context: March 23 (Reuters) - At least half a dozen Indian generic drugmakers la
 
 
 ########################################
-TREND: Oil Price Surge and Inflation Expectations Impacting Global Markets and Currencies
-LLM Search Query: impact of rising oil prices on global stock markets and currency exchange rates 2023
-Articles scraped: 10
+TREND: Oil Price Surge Due to Middle East Tensions
+LLM Search Query: impact of rising oil prices on global energy sector supply chains
+Articles scraped: 0
 ########################################
-
-[1] Oil Shock: What History Says About the Stock Market and Rising Energy Prices
-    Source : The Motley Fool  |  Date: 2026-03-21T04:15:00+00:00
-    URL    : https://www.msn.com/en-us/money/economy/oil-shock-what-history-says-about-the-stock-market-and-rising-energy-prices/ar-AA1Z5U8E
-    Content: Are we headed for a bear market?  [DDG snippet — full article blocked]
-----------------------------------------
-
-[2] Higher oil prices have pummeled stocks. Rising Treasury yields are also hitting hard.
-    Source : Barron's  |  Date: 2026-03-20T11:38:00+00:00
-    URL    : https://www.msn.com/en-us/money/top-stocks/higher-oil-prices-have-pummeled-stocks-rising-treasury-yields-are-also-hitting-hard/ar-AA1Z3uTJ
-    Content: Yields on the 2-year note suggest the Federal Reserve won't be cutting rates for a very long time.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[3] Surging Oil Prices Are Forcing A Massive Repricing Across Markets
-    Source : Seeking Alpha  |  Date: 2026-03-19T16:53:00+00:00
-    URL    : https://seekingalpha.com/article/4884187-surging-oil-prices-are-forcing-a-massive-repricing-across-markets
-    Content: Surging oil prices are shifting global rate outlooks, lifting yields, and widening credit spreads—pressuring equities. Read what investors need to know.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[4] Oil prices resume their rise, but US stocks hold steadier this time around
-    Source : Associated Press News  |  Date: 2026-03-17T21:50:00+00:00
-    URL    : https://apnews.com/article/stocks-markets-rates-oil-iran-trump-c206d3ca9d54f9cb2c0548eb6bb639d0
-    Content: Philip Finale works on the floor at the New York Stock Exchange in New York, Tuesday, March 10, 2026. (AP Photo/Seth Wenig) NEW YORK (AP) — Oil prices resumed their rise on Tuesday because of the war with Iran , but U.S. stocks held steadier this time around. The S&P 500 rose 0.2% to add to its gain from the day before, which was its biggest since the war began. The Dow Jones Industrial Average climbed 46 points, or 0.1%, and the Nasdaq composite rose 0.5%. It’s a break, for now at least, from the usual playbook since the start of the war, where stock prices have tended to go in the opposite direction of oil prices . The fear in financial markets has been that a long-term disruption to the global flow of oil could send prices so high for so long that it damages the global economy. Not only would higher gasoline prices sap households’ budgets, it could also push companies to pass on their own higher transportation costs to customers. On Tuesday, the price for a barrel of benchmark U.S.
-----------------------------------------
-
-[5] Oil prices are the No. 1 thing investors are watching right now. Here's why.
-    Source : Morningstar  |  Date: 2026-03-09T09:49:00+00:00
-    URL    : https://www.morningstar.com/news/marketwatch/20260309114/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why
-    Content: Rising oil prices can affect the stock market in significant ways Rising oil prices influence the stock market in a few important ways. A previous version of this story included the wrong title for Gene Goldman. He is chief investment officer at Cetera Financial Group. The escalating conflict in the Middle East has investors worried for one big reason: rising oil prices. Stocks finished this past week lower across the board. The Dow Jones Industrial Average DJIA dropped 3% - the index's worst week since April 4, 2025, when markets sold off in response to President Donald Trump's sweeping "liberation day" tariffs. Meanwhile, the S&P 500 SPX fell 2% over the course of the week, and the Nasdaq Composite COMP lost 1.2%. At the same time, oil prices shot sharply higher. U.S. benchmark West Texas Intermediate crude oil (CL00) was up nearly 36% for the week, while global benchmark Brent crude (BRN00) was 27% higher.
-----------------------------------------
-
-[6] US stock market remains calm, even as oil prices rise
-    Source : Associated Press News  |  Date: 2026-03-11T23:19:00+00:00
-    URL    : https://apnews.com/article/stocks-markets-oil-iran-trump-9015cbc7db4569fddd124659acfcaf86
-    Content: Traders work on the floor at the New York Stock Exchange in New York, Tuesday, March 10, 2026. (AP Photo/Seth Wenig) NEW YORK (AP) — The U.S. stock market remained calm Wednesday, even as the price of oil got back to rising. The S&P 500 edged down 0.1% for a second day of modest moves following what had been a wild stretch caused by the war with Iran . The Dow Jones Industrial Average dropped 289 points, or 0.6%, and the Nasdaq composite rose 0.1%. Since the start of the war, sharp moves for oil prices have triggered swings up and down for financial markets worldwide, sometimes by the hour . Oil prices briefly spiked to their highest levels since 2022 this week because of the possibility that production in the Middle East could be blocked for a long time, which in turn raised worries about a surge of debilitating inflation for the global economy.
-----------------------------------------
-
-[7] Asian central banks face policy dilemma amid Iran conflict and market volatility
-    Source : Regtechtimes  |  Date: 2026-03-09T09:29:23+00:00
-    URL    : https://www.msn.com/en-us/money/economy/asian-central-banks-face-policy-dilemma-amid-iran-conflict-and-market-volatility/ar-AA1XOhjV
-    Content: The conflict in West Asia, centered around Iran, is sending shockwaves through Asian economies. Oil prices have surged past $110 a barrel, raising fears of long-term disruptions in global energy supplies.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[8] Oil Shock Sends Tremors Through World Economy: 'This Really Is the Big One'
-    Source : The New York Times  |  Date: 2026-03-12T18:09:00+00:00
-    URL    : https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html
-    Content: Countries already walloped by a breakdown of the international trading order, war in Ukraine and chaotic U.S. policymaking are facing potentially lasting economic damage.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[9] Global Sugar Prices Rally as Oil surges, Driven by Middle East War
-    Source : Asharq Al-Awsat  |  Date: 2026-03-09T16:03:55+00:00
-    URL    : https://www.msn.com/en-ae/news/other/global-sugar-prices-rally-as-oil-surges-driven-by-middle-east-war/ar-AA1XQrxo
-    Content: Asharq Al Awsat World sugar prices surged on Monday as the US-Israel war with Iran disrupted oil supplies, pushing crude oil prices to $119 a barrel and sparking fears that Brazilian cane mills would ramp up ethanol production at the expense of sugar.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[10] What does the oil price hike mean for your pensions and savings?
-    Source : MSN  |  Date: 2026-03-09T13:57:00+00:00
-    URL    : https://www.msn.com/en-ca/money/news/what-does-the-oil-price-hike-mean-for-your-pensions-and-savings/ar-AA1XPITS
-    Content: Oil prices have surged to their highest levels since 2022, as the escalating conflict in the Middle East rattles global energy markets and threatens key supply routes. Brent crude, the international benchmark, has climbed above $100 a barrel and briefly ...  [DDG snippet — full article blocked]
-----------------------------------------
 
 
 ########################################
-TREND: US Federal Reserve's Hawkish Stance and Its Effect on Emerging Markets
-LLM Search Query: US Federal Reserve hawkish stance impact on Indian stock market and NIFTY50 performance 2023
-Articles scraped: 7
+TREND: Indian Rupee Depreciation Against the US Dollar
+LLM Search Query: effects of rupee depreciation on Indian import-dependent industries
+Articles scraped: 0
 ########################################
-
-[1] US Fed meeting: Rates remain unchanged; how can the policy decision impact Indian stock market?
-    Source : Mint  |  Date: 2026-03-18T23:28:52+00:00
-    URL    : https://www.msn.com/en-in/money/general/us-fed-meeting-rates-remain-unchanged-how-can-the-policy-decision-impact-indian-stock-market/ar-AA1YWzrc
-    Content: The US Federal Open Market Committee (FOMC) on March 18 kept benchmark interest rates steady at 3.5% to 3.75%. Experts say the Fed's policy is on expected lines. The central bank slightly revised its inflation estimates for 2026 upward.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[2] US Fed keeps rates unchanged: What it means for Indian stock markets
-    Source : NDTV  |  Date: 2026-03-19T02:15:09+00:00
-    URL    : https://www.msn.com/en-in/money/economy/us-fed-keeps-rates-unchanged-what-it-means-for-indian-stock-markets/ar-AA1YWIgf
-    Content: US Federal Reserve's Federal Open Market Committee (FOMC) kept federal funds rate unchanged at the range of 3.5 per cent-to-3.75 per cent.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[3] Indian shares set to open lower on oil spike, hawkish Fed; HDFC Bank in focus
-    Source : Reuters  |  Date: 2026-03-19T02:34:05+00:00
-    URL    : https://www.msn.com/en-us/money/economy/indian-shares-set-to-open-lower-on-oil-spike-hawkish-fed-hdfc-bank-in-focus/ar-AA1YXeyR
-    Content: March 19 (Reuters) - Indian shares are set to open sharply lower on Thursday as Brent crude jumped above $110 a barrel following a fresh escalation in the Iran war, while a hawkish U.S. Federal Reserve,  [DDG snippet — full article blocked]
-----------------------------------------
-
-[4] Infosys, TCS, other IT stocks fall up to 2% as US Fed's hawkish tone clouds rate cut trajectory
-    Source : The Economic Times  |  Date: 2026-03-19T03:33:38+00:00
-    URL    : https://www.msn.com/en-in/money/economy/infosys-tcs-other-it-stocks-in-focus-as-us-fed-chief-says-inflation-is-not-coming-down-as-much-as-hoped/ar-AA1YWUM6
-    Content: Indian IT stocks are in focus after the US Federal Reserve held rates steady, warning that inflation remains elevated amid rising oil prices and geopolitical tensions. Powell's cautious stance and higher inflation projections triggered a sharp fall on Wall Street,  [DDG snippet — full article blocked]
-----------------------------------------
-
-[5] Stock market today: Nifty50 trades below 25,200; BSE Sensex plunges over 500 points
-    Source : MSN  |  Date: 2026-01-29T05:30:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/stock-market-today-nifty50-trades-below-25-200-bse-sensex-plunges-over-500-points/ar-AA1VdzR8
-    Content: Stock market today: Nifty50 and BSE Sensex, the Indian equity benchmarks, opened in red on Thursday on weak global cues. While Nifty50 went below 25,200, BSE Sensex was down over 500 points. At 10:00 AM, Nifty50 was trading at 25,182.10, down 160 points or ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[6] Stock market today: Nifty50 opens above 25,800; BSE Sensex rallies over 500 points
-    Source : MSN  |  Date: 2026-02-09T00:00:00+00:00
-    URL    : https://www.msn.com/en-in/money/top-stocks/stock-market-today-nifty50-opens-above-25-800-bse-sensex-rallies-over-500-points/ar-AA1VXauK
-    Content: Stock market today: Indian equity benchmarks, Nifty50 and BSE Sensex, opened in green on Monday, rallying strongly on the back of India-US trade deal joint statement issued over the weekend, and US President Donald Trump's executive order revoking 25% ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[7] Stock market today: Nifty50 nears 26,000 mark; BSE Sensex opens over 100 points up
-    Source : MSN  |  Date: 2026-02-11T04:19:00+00:00
-    URL    : https://www.msn.com/en-in/money/markets/stock-market-today-nifty50-nears-26000-mark-bse-sensex-opens-over-100-points-up/ar-AA1W6thC
-    Content: Stock market today: Nifty50 and BSE Sensex, the main stock market benchmarks, rose in opening trade on Wednesday as global cues remained positive and optimism around the India-US trade deal continued. While Nifty was near the 26,000 mark, BSE Sensex rose ...  [DDG snippet — full article blocked]
-----------------------------------------
 
 
 ########################################
-TREND: Energy Crisis in the Middle East and Its Impact on Global Supply Chains
-LLM Search Query: impact of Middle East conflict on global energy supply chains and stock market sectors 2023
-Articles scraped: 10
+TREND: Food Delivery Platform Fee Hikes
+LLM Search Query: impact of platform fee hikes on food delivery industry profitability
+Articles scraped: 0
 ########################################
-
-[1] How Will the Conflict in Iran Impact the Stock Market? Here's What History Tells Us.
-    Source : The Motley Fool  |  Date: 2026-03-10T17:26:00+00:00
-    URL    : https://www.msn.com/en-us/money/markets/how-will-the-conflict-in-iran-impact-the-stock-market-heres-what-history-tells-us/ar-AA1XVeQ0
-    Content: Recent events have created significant uncertainty in the stock market.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[2] More than 40 Middle East energy assets 'severely damaged,' IEA chief says
-    Source : CNBC  |  Date: 2026-03-23T08:59:11+00:00
-    URL    : https://www.msn.com/en-us/money/markets/more-than-40-middle-east-energy-assets-severely-damaged-iea-chief-says/ar-AA1ZczRo
-    Content: The IEA's Fatih Birol warned that damage to energy infrastructure across the Middle East would take some time to repair.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[3] Will The Middle East Crisis Upend The Bull Market In Stocks?
-    Source : Seeking Alpha  |  Date: 2026-03-22T06:33:00+00:00
-    URL    : https://seekingalpha.com/article/4884775-will-the-middle-east-crisis-upend-the-bull-market-in-stocks
-    Content: Equity markets are underpricing the risk of a major energy crisis stemming from the closure of the Strait of Hormuz. Read more on the market here.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[4] How Middle East war is pushing oil prices up and is hurting Kenya, Nigeria and South Africa - Scholars
-    Source : The Kenya Times  |  Date: 2026-03-20T11:15:35+00:00
-    URL    : https://www.msn.com/en-us/money/economy/how-middle-east-war-is-pushing-oil-prices-up-and-is-hurting-kenya-nigeria-and-south-africa-scholars/ar-AA1Z2O5q
-    Content: The attacks by the US and Israel on Iran, which started on 28 February 2026, upended key supply chains, driving oil prices above US$100 a barrel. The spike followed Iran's closure of the Strait of Hormuz in response to the US and Israeli action.  [DDG snippet — full article blocked]
-----------------------------------------
-
-[5] Middle East Conflict Clouds The Economic Outlook
-    Source : Seeking Alpha  |  Date: 2026-03-12T07:00:00+00:00
-    URL    : https://seekingalpha.com/article/4881457-middle-east-conflict-clouds-economic-outlook
-    Content: The military conflict in Iran and the Middle East is curtailing the global flow of oil and natural gas. Along with potentially pressuring inflation higher, the energy shock also creates downside risks to growth,  [DDG snippet — full article blocked]
-----------------------------------------
-
-[6] Middle East conflict disrupts fertilizer supply chain, threatening global agriculture
-    Source : MSN  |  Date: 2026-03-09T09:13:00+00:00
-    URL    : https://www.msn.com/en-in/news/world/middle-east-conflict-disrupts-fertilizer-supply-chain-threatening-global-agriculture/ar-AA1XOlPs
-    Content: Global Agriculture Under Pressure as Fertilizer Costs Surge Amid Conflict The escalation of conflict in the Middle East has triggered a surge in fertilizer prices, leaving farmers worldwide scrambling to secure supplies as the critical spring planting ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[7] What to know about impact of US-Israel-Iran conflict on regional energy supply
-    Source : standardmedia.co.ke  |  Date: 2021-06-28T00:00:00+00:00
-    URL    : https://www.standardmedia.co.ke/business/business/article/2001542621/what-to-know-about-impact-of-us-israel-iran-conflict-on-regional-energy-supply
-    Content: Photo taken on June 28, 2021 shows the industrial estate of Saudi oil giant Aramco in Dammam, Saudi Arabia. [Xinhua] Premium Article Get Full Access for Ksh299/Week. Fact-first reporting that puts you at the heart of the newsroom. Subscribe for full access. 🔥 Flash Sale — 50% Off Monthly & Yearly Plans Offer ends in… 0 Days 00 Hours 00 Mins 00 Secs Continue Reading  → What you get Unlimited access to all premium content Ad-free browsing experience Mobile-optimised reading Weekly newsletters & digests Pay via M - PESA VISA Airtel Money Secure Payments Kenya's most trusted newsroom since 1902 Already a subscriber? Log in to continue Premium Article Get Full Access for Ksh299/Week. Fact-first reporting that puts you at the heart of the newsroom. Subscribe for full access.
-----------------------------------------
-
-[8] Middle East conflict: Long-term political opportunity for BRICS, Global South
-    Source : MSN  |  Date: 2026-03-08T09:07:00+00:00
-    URL    : https://www.msn.com/en-za/politics/international-relations/middle-east-conflict-long-term-political-opportunity-for-brics-global-south/ar-AA1XKWnx
-    Content: The events of 28 February 2026 marked a watershed in Middle East geopolitics. Under the pretext of prolonged indirect negotiations, the United States and Israel executed a precision decapitation strike that killed Iranian Supreme Leader Ayatollah Ali ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[9] Hormuz supply shock: India diversifies oil basket as Middle East conflict drags on
-    Source : MSN  |  Date: 2026-03-08T11:01:00+00:00
-    URL    : https://www.msn.com/en-in/money/economy/hormuz-supply-shock-india-diversifies-oil-basket-as-middle-east-conflict-drags-on/ar-AA1XKSpV
-    Content: As the Middle East conflict continues to escalate, India is rerouting its crude supply chains to secure uninterrupted fuel imports. Indian refiners are securing additional crude oil from the United States, Russia, and West Africa to maintain adequate ...  [DDG snippet — full article blocked]
-----------------------------------------
-
-[10] Current disruption in global energy market is 'the biggest crisis' in global history - analyst
-    Source : Seeking Alpha  |  Date: 2026-03-09T15:31:00+00:00
-    URL    : https://seekingalpha.com/news/4562323-current-disruption-in-global-energy-market-is-the-biggest-crises-in-global-history-analyst
-    Content: The current disruption to global energy markets represents "the biggest shortage and energy crisis we've had in global history," according to Amos Hochstein, TWG Global managing partner and former Biden administration senior advisor. In an interview ...  [DDG snippet — full article blocked]
-----------------------------------------
 
 
 ==================================================
 === PHASE 3: LLM STOCK IMPACT ANALYSIS ===
 ==================================================
 
-### TREND: Oil Price Surge and Inflation Expectations Impacting Global Markets and Currencies
+### TREND: Oil Price Surge Due to Middle East Tensions
 
-**SUMMARY**
-Rising oil prices are causing significant volatility in global stock markets and affecting currency exchange rates, particularly due to geopolitical tensions in the Middle East.
+**SUMMARY**  
+Rising oil prices are driven by heightened geopolitical tensions in the Middle East, leading to supply disruptions and increased uncertainty in global energy markets.
 
-**BULLISH SECTORS**
-- **Energy Sector**: Companies like ExxonMobil (XOM) and Chevron (CVX) are likely to benefit from higher oil prices.
-- **Agriculture Sector**: Fertilizer companies such as CF Industries Holdings (CF) could see increased demand due to higher oil prices driving up fertilizer costs.
+**BULLISH SECTORS**  
+- **Energy and Oil & Gas Companies**: ExxonMobil (XOM), Chevron (CVX), BP (BP)
+- **Alternative Energy Companies**: SolarEdge Technologies (SEDG), First Solar (FSLR)
 
-**BEARISH SECTORS**
-- **Consumer Discretionary Sector**: Retailers like Walmart (WMT) and Target (TGT) may face higher costs, reducing profit margins.
-- **Transportation Sector**: Airlines such as Delta Air Lines (DAL) and United Airlines (UAL) could see increased fuel costs, impacting profitability.
+**BEARISH SECTORS**  
+- **Transportation**: Union Pacific (UNP), CSX Corporation (CSX)
+- **Manufacturing**: General Motors (GM), Ford Motor Company (F)
 
-**MAGNITUDE**
-- **Medium**: The impact is significant but not catastrophic, with markets adjusting over time as seen in recent history.
+**MAGNITUDE**  
+High — Direct impact on energy costs and supply chain logistics.
 
-**TIME HORIZON**
-- **Medium (1-6 months)**: The effects are likely to be felt over several months as markets and economies adapt to new price levels.
+**TIME HORIZON**  
+Medium (1-6 months) — Tensions could persist, but supply chain adjustments may take time.
 
-### TREND: US Federal Reserve's Hawkish Stance and Its Effect on Emerging Markets
+**PORTFOLIO SIGNAL**  
+Allocate 20% to energy and oil & gas companies, reduce exposure to transportation and manufacturing by 10%.
 
-**SUMMARY**
-The US Federal Reserve's hawkish stance on interest rates is impacting emerging markets, particularly India, by increasing borrowing costs and reducing investor confidence.
+### TREND: Indian Rupee Depreciation Against the US Dollar
 
-**BULLISH SECTORS**
-- **Financial Services Sector**: Banks like HDFC Bank (HDFCBANK) in India may benefit from higher interest rates.
-- **Export-Oriented Sectors**: Companies like Tata Consultancy Services (TCS) and Infosys (INFY) could see increased demand from international clients.
+**SUMMARY**  
+The depreciation of the Indian Rupee against the US Dollar increases import costs for India, impacting import-dependent industries and potentially leading to inflation.
 
-**BEARISH SECTORS**
-- **Consumer Discretionary Sector**: Retail and consumer goods companies like Reliance Industries (RELIANCE) may face reduced demand due to higher borrowing costs.
-- **IT Sector**: IT companies like Wipro (WIT) and Tech Mahindra (TECHM) could see decreased investment and demand.
+**BULLISH SECTORS**  
+- **Export-Oriented Industries**: Tata Consultancy Services (TCS), Infosys (INFY)
+- **Consumer Staples with Domestic Supply Chains**: Hindustan Unilever (HINDUNILVR), Marico (MARICO)
 
-**MAGNITUDE**
-- **Medium**: The impact is substantial but not immediate, with emerging markets adjusting over time.
+**BEARISH SECTORS**  
+- **Import-Dependent Industries**: Hero MotoCorp (HEROMOTOCO), Eicher Motors (EICHERMOT)
+- **Consumer Discretionary**: HDFC Bank (HDB), HDFC Life Insurance (HDFCBANK)
 
-**TIME HORIZON**
-- **Medium (1-6 months)**: The effects will be felt over several months as emerging markets adapt to the Fed's policy changes.
+**MAGNITUDE**  
+Medium — Significant impact on import costs but less immediate on domestic operations.
 
-### TREND: Energy Crisis in the Middle East and Its Impact on Global Supply Chains
+**TIME HORIZON**  
+Medium (1-6 months) — Inflationary pressures may build over time, affecting consumer spending.
 
-**SUMMARY**
-The ongoing conflict in the Middle East is disrupting global energy supply chains, leading to higher oil prices and affecting various industries worldwide.
+**PORTFOLIO SIGNAL**  
+Increase allocation to export-oriented and domestically focused sectors by 15%, reduce exposure to import-dependent and consumer discretionary sectors by 10%.
 
-**BULLISH SECTORS**
-- **Energy Sector**: Companies like Saudi Aramco (SAUDI ARAMCO) and BP (BP) are likely to benefit from higher oil prices.
-- **Agriculture Sector**: Fertilizer companies such as Yara International (YAR) could see increased demand due to higher oil prices driving up fertilizer costs.
+### TREND: Food Delivery Platform Fee Hikes
 
-**BEARISH SECTORS**
-- **Manufacturing Sector**: Companies like General Motors (GM) and Ford (F) may face higher raw material costs, reducing profit margins.
-- **Transportation Sector**: Airlines such as American Airlines (AAL) and Southwest Airlines (LUV) could see increased fuel costs, impacting profitability.
+**SUMMARY**  
+Food delivery platform fee hikes reduce profitability for restaurants and food delivery services, potentially leading to a shift in consumer behavior and increased competition.
 
-**MAGNITUDE**
-- **High**: The impact is severe, with global supply chains and economies facing significant disruptions.
+**BULLISH SECTORS**  
+- **Food Delivery Platforms with Strong Margins**: DoorDash (DASH), Uber Eats (UBER)
+- **E-commerce with Food Delivery Services**: Amazon (AMZN), Walmart (WMT)
 
-**TIME HORIZON**
-- **Long (6 months+)**: The effects are likely to be long-lasting, with recovery taking time as supply chains are rebuilt.
+**BEARISH SECTORS**  
+- **Restaurants and Food Services**: McDonald's (MCD), Yum! Brands (YUM)
+- **Food Delivery Services with Thin Margins**: Just Eat Takeaway.com (TAK)
 
-### PORTFOLIO SIGNAL
+**MAGNITUDE**  
+Medium — Direct impact on profitability but potential for long-term shifts in consumer behavior.
 
-**URGENCY RANKING**
-1. **Energy Crisis in the Middle East**: Given the severity and immediate impact on global supply chains, this trend is the most urgent.
-2. **Oil Price Surge and Inflation Expectations**: The medium-term impact on global markets and currencies is significant.
-3. **US Federal Reserve's Hawkish Stance**: The medium-term impact on emerging markets is substantial but less immediate than the other two trends.
+**TIME HORIZON**  
+Medium (1-6 months) — Short-term financial impacts with potential long-term strategic shifts.
 
-**ALLOCATION BIAS**
-- **Increase Exposure to Energy Sector**: Allocate more to energy companies like ExxonMobil (XOM) and Saudi Aramco (SAUDI ARAMCO).
-- **Moderate Exposure to Agriculture Sector**: Consider positions in fertilizer companies like CF Industries Holdings (CF) and Yara International (YAR).
-- **Reduce Exposure to Consumer Discretionary and Transportation Sectors**: Reduce holdings in retailers like Walmart (WMT) and airlines like American Airlines (AAL).
-- **Monitor Emerging Markets Cautiously**: Be cautious with emerging market stocks, particularly in the IT and consumer discretionary sectors.
-
-This allocation bias aims to capitalize on the bullish sectors while mitigating the risks posed by the bearish sectors in the context of these macro trends.
-
-
-==================================================
-=== PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS ===
-==================================================
-
-### Analysis and Predictions
-
-#### XOM (Exxon Mobil Corporation)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: RSI is overbought at 71.09, indicating potential overextension, and the energy sector faces increased costs due to the energy crisis in the Middle East.
-
-#### CVX (Chevron Corporation)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: RSI is overbought at 77.16, suggesting overextension, and the energy crisis in the Middle East poses cost pressures.
-
-#### CF (CF Industries Holdings, Inc.)
-- **DIRECTION**: NEUTRAL
-- **CONFIDENCE**: 50%
-- **RATIONALE**: RSI is neutral at 60.72, and while the fertilizer sector benefits from higher oil prices, the stock is not overbought and recent volume is not exceptionally high.
-
-#### WMT (Walmart Inc.)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and higher oil prices will increase costs for Walmart, reducing profit margins.
-
-#### TGT (Target Corporation)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and rising oil prices will increase costs for Target, impacting profitability.
-
-#### DAL (Delta Air Lines, Inc.)
-- **DIRECTION**: NEUTRAL
-- **CONFIDENCE**: 50%
-- **RATIONALE**: RSI is neutral and MACD is bullish, but the airline sector faces increased fuel costs due to higher oil prices, creating a mixed signal.
-
-#### UAL (United Airlines Holdings, Inc.)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and higher oil prices will increase fuel costs for United Airlines, reducing profitability.
-
-#### BP (BP p.l.c.)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 75%
-- **RATIONALE**: RSI is overbought at 71.38, indicating potential overextension, and the energy crisis in the Middle East poses cost pressures.
-
-#### GM (General Motors Company)
-- **DIRECTION**: NEUTRAL
-- **CONFIDENCE**: 50%
-- **RATIONALE**: RSI is neutral and MACD is bullish, but the manufacturing sector faces higher raw material costs due to higher oil prices, creating a mixed signal.
-
-#### F (Ford Motor Company)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and higher oil prices will increase raw material costs for Ford, reducing profitability.
-
-#### AAL (American Airlines Group, Inc.)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and higher oil prices will increase fuel costs for American Airlines, impacting profitability.
-
-#### LUV (Southwest Airlines Company)
-- **DIRECTION**: DOWN
-- **CONFIDENCE**: 60%
-- **RATIONALE**: RSI is neutral but MACD is bearish, and higher oil prices will increase fuel costs for Southwest Airlines, reducing profitability.
-
-Each prediction is based on the convergence of news sentiment and technical indicators, with a focus on RSI levels and MACD trends to gauge momentum and potential reversals.
+**PORTFOLIO SIGNAL**  
+Allocate 15% to food delivery platforms with strong margins and e-commerce players, reduce exposure to restaurants and food delivery services with thin margins by 10%.

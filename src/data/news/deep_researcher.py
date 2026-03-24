@@ -4,7 +4,7 @@ import os
 import json
 import time
 from openai import OpenAI
-from duckduckgo_search import DDGS
+from ddgs import DDGS                          # ← updated from duckduckgo_search
 from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(find_dotenv())
@@ -12,10 +12,19 @@ from src.data.news.google_news_search import fetch_article_content
 from src.data.market.yfinance_client import get_comprehensive_stock_data
 
 
+# ── CI-aware performance settings ─────────────────────────────────────
+_IS_CI            = os.getenv("CI", "false").lower() == "true"
+ARTICLES_PER_TREND = 3 if _IS_CI else 10      # 3 in CI, 10 locally
+SKIP_FULL_SCRAPE   = _IS_CI                    # skip slow HTTP scrape in CI
+DDG_SLEEP          = 0.2 if _IS_CI else 0.5   # shorter pause in CI
+
+
 def _llm_client() -> OpenAI:
     return OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=os.getenv("LLM_API_KEY"),
+        timeout=180.0,    # ← hard timeout: fail fast instead of hanging
+        max_retries=3,   # ← auto-retry on transient network errors
     )
 
 
@@ -23,7 +32,6 @@ def _llm_client() -> OpenAI:
 # PHASE 1A — Global macro dossier queries (--trending mode)
 # ══════════════════════════════════════════════════════════
 def generate_search_queries(filepath: str) -> list[dict]:
-    """Reads a global macro dossier and returns 3 deep-dive search queries."""
     print("[2/6] 🧠 STRATEGIZING: Reading global dossier and generating queries...")
 
     try:
@@ -61,20 +69,14 @@ def generate_search_queries(filepath: str) -> list[dict]:
 
 
 # ══════════════════════════════════════════════════════════
-# PHASE 1B — Stock-specific dossier builder (--deep-research mode)
+# PHASE 1B — Stock-specific dossier builder (--deep-research)
 # ══════════════════════════════════════════════════════════
 def build_stock_dossier(ticker: str, filepath: str) -> None:
-    """
-    Phase 1 for single-stock mode.
-    Pulls live DDG news for the ticker, writes a seed dossier to `filepath`.
-    This replaces scrape_trending_news() for the --deep-research flow.
-    """
     print(f"[1/6] 🕵️  SCOUTING: Fetching live news for {ticker}...")
 
     articles_text = f"=== STOCK DOSSIER: {ticker} ===\n\n"
 
     with DDGS() as ddgs:
-        # Three targeted searches: recent news, analyst sentiment, sector/macro impact
         searches = [
             f"{ticker} stock news",
             f"{ticker} earnings analyst forecast",
@@ -82,7 +84,7 @@ def build_stock_dossier(ticker: str, filepath: str) -> None:
         ]
         for query in searches:
             try:
-                results = ddgs.news(query, max_results=5)
+                results = ddgs.news(query, max_results=ARTICLES_PER_TREND)
             except Exception as e:
                 print(f"    ⚠️  DDG error on '{query}': {e}")
                 continue
@@ -91,13 +93,16 @@ def build_stock_dossier(ticker: str, filepath: str) -> None:
             for r in results:
                 url     = r.get("url", "")
                 snippet = r.get("body", "")
-                content = fetch_article_content(url) if url else ""
-                if len(content) < 150:
-                    content = snippet + "  [DDG snippet]"
+                if SKIP_FULL_SCRAPE:
+                    content = snippet + "  [DDG snippet — CI mode]"
+                else:
+                    content = fetch_article_content(url) if url else ""
+                    if len(content) < 150:
+                        content = snippet + "  [DDG snippet]"
                 articles_text += f"Headline: {r.get('title', '')}\n"
                 articles_text += f"Context : {content[:800]}\n"
                 articles_text += "-" * 30 + "\n"
-            time.sleep(1)
+            time.sleep(DDG_SLEEP)
 
     os.makedirs(os.path.dirname(filepath) if os.path.dirname(filepath) else ".", exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:
@@ -106,11 +111,6 @@ def build_stock_dossier(ticker: str, filepath: str) -> None:
 
 
 def generate_stock_queries(ticker: str, filepath: str) -> list[dict]:
-    """
-    Phase 2 for single-stock mode.
-    Reads the stock dossier and asks the LLM to generate 3 deep-dive
-    search queries specific to that company, its competitors, and its sector.
-    """
     print(f"[2/6] 🧠 STRATEGIZING: Generating deep-dive queries for {ticker}...")
 
     try:
@@ -155,10 +155,10 @@ def generate_stock_queries(ticker: str, filepath: str) -> list[dict]:
 
 
 # ══════════════════════════════════════════════════════════
-# PHASE 3 — Scrape 10 articles per trend/angle
+# PHASE 3 — Scrape articles per trend/angle
 # ══════════════════════════════════════════════════════════
-def scrape_trend(ddgs, trend: str, query: str, max_results: int = 10) -> dict:
-    print(f"      -> Scraping 10 articles for: '{query}'")
+def scrape_trend(ddgs, trend: str, query: str, max_results: int = ARTICLES_PER_TREND) -> dict:
+    print(f"      -> Scraping {max_results} articles for: '{query}'")
     trend_data = {"trend": trend, "query": query, "articles": []}
 
     try:
@@ -172,9 +172,14 @@ def scrape_trend(ddgs, trend: str, query: str, max_results: int = 10) -> dict:
         url     = result.get("url", "")
         snippet = result.get("body", "")
         print(f"         [{i+1}/{len(results)}] {title[:60]}...")
-        content = fetch_article_content(url) if url else ""
-        if len(content) < 150:
-            content = snippet + "  [DDG snippet — full article blocked]"
+
+        if SKIP_FULL_SCRAPE:
+            content = snippet + "  [DDG snippet — CI mode]"
+        else:
+            content = fetch_article_content(url) if url else ""
+            if len(content) < 150:
+                content = snippet + "  [DDG snippet — full article blocked]"
+
         trend_data["articles"].append({
             "index":   i + 1,
             "title":   title,
@@ -183,13 +188,12 @@ def scrape_trend(ddgs, trend: str, query: str, max_results: int = 10) -> dict:
             "url":     url,
             "content": content,
         })
-        time.sleep(0.5)
+        time.sleep(DDG_SLEEP)
     return trend_data
 
 
 def execute_deep_dive(queries: list[dict], filepath: str) -> list[dict]:
-    """Scrapes 10 articles per query, appends structured report to filepath."""
-    print("[3/6] 🔍 RESEARCHING: Deep-dive scraping (10 articles × angle)...")
+    print(f"[3/6] 🔍 RESEARCHING: Deep-dive scraping ({ARTICLES_PER_TREND} articles × angle)...")
     all_trends: list[dict] = []
 
     with DDGS() as ddgs:
@@ -216,7 +220,6 @@ def execute_deep_dive(queries: list[dict], filepath: str) -> list[dict]:
 # PHASE 4 — Sector-level stock impact analysis
 # ══════════════════════════════════════════════════════════
 def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
-    """Produces a bullish/bearish sector analysis. Returns the LLM text."""
     print("[4/6] 📊 ANALYSING: Asking LLM how each trend affects stock sectors...")
 
     context_parts = []
@@ -224,13 +227,13 @@ def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
         block = [f"TREND: {td['trend']}", f"Research Query: {td['query']}", ""]
         for a in td["articles"]:
             block.append(f"  Article {a['index']}: {a['title']} ({a['source']}, {a['date']})")
-            block.append(f"  {a['content'][:600]}")
+            block.append(f"  {a['content'][:400]}")   # tighter cap in CI
             block.append("")
         context_parts.append("\n".join(block))
 
     system_prompt = """
     You are a senior equity strategist at a top hedge fund.
-    You will receive research data on several macro trends, each backed by 10 news articles.
+    You will receive research data on several macro trends.
 
     For EACH trend produce:
     1. SUMMARY         — 2-sentence synthesis of the trend.
@@ -239,9 +242,7 @@ def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
     4. MAGNITUDE       — Rate expected price impact: Low / Medium / High, with 1-line reason.
     5. TIME HORIZON    — Short (< 1 month) / Medium (1-6 months) / Long (6 months+).
 
-    End with a PORTFOLIO SIGNAL section that ranks trends by urgency and suggests
-    a concrete allocation bias.
-
+    End with a PORTFOLIO SIGNAL section with a concrete allocation bias.
     Be direct. No filler. Back every claim with the research data provided.
     """
 
@@ -252,9 +253,13 @@ def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
             {"role": "user",   "content": "Here is the deep-dive research:\n\n" + "\n\n---\n\n".join(context_parts)},
         ],
         temperature=0.3,
-        max_tokens=2000,
+        max_tokens=1500,    # ← reduced from 2000 to cut response time
     )
     analysis = response.choices[0].message.content
+
+    if analysis is None:
+        print("         ⚠️  LLM returned an empty response! (Likely tripped a safety filter).")
+        analysis = "ERROR: No analysis generated by LLM due to API filter or timeout."
 
     with open(filepath, "a", encoding="utf-8") as f:
         f.write("\n\n" + "="*50 + "\n=== PHASE 3: LLM STOCK IMPACT ANALYSIS ===\n" + "="*50 + "\n\n" + analysis + "\n")
@@ -263,22 +268,16 @@ def analyse_stock_impact(all_trends: list[dict], filepath: str) -> str:
 
 
 # ══════════════════════════════════════════════════════════
-# PHASE 5 — Extract tickers from the analysis text
+# PHASE 5 — Extract tickers from analysis text
 # ══════════════════════════════════════════════════════════
 def extract_tickers_from_analysis(analysis_text: str, seed_ticker: str | None = None) -> list[str]:
-    """
-    Asks the LLM to pull all ticker symbols from the analysis.
-    If `seed_ticker` is provided (single-stock mode), it is always included.
-    """
     print("[5/6] 🔎 EXTRACTING: Parsing tickers from macro analysis...")
 
     system_prompt = """
     You are a data extraction bot. Read the provided stock market analysis and extract 
     ALL valid US stock ticker symbols mentioned (including sector ETFs).
-    
-    Output ONLY a valid JSON object:
-    {"tickers": ["AAPL", "NVDA", "XOM"]}
-    If no tickers are found, return {"tickers": []}.
+    Output ONLY: {"tickers": ["AAPL", "NVDA", "XOM"]}
+    If no tickers found: {"tickers": []}
     """
     response = _llm_client().chat.completions.create(
         model="qwen/qwen2.5-coder-32b-instruct",
@@ -291,10 +290,10 @@ def extract_tickers_from_analysis(analysis_text: str, seed_ticker: str | None = 
     )
     tickers = json.loads(response.choices[0].message.content).get("tickers", [])
 
-    # In single-stock mode make sure the target is always included
     if seed_ticker and seed_ticker.upper() not in [t.upper() for t in tickers]:
         tickers.insert(0, seed_ticker.upper())
 
+    tickers = tickers[:15]
     print(f"    Tickers to analyse: {tickers}")
     return tickers
 
@@ -308,20 +307,11 @@ def predict_tomorrows_movers(
     filepath: str,
     focus_ticker: str | None = None,
 ) -> str:
-    """
-    Fetches comprehensive yfinance data for every ticker then asks the
-    LLM for a next-day UP/DOWN/NEUTRAL verdict.
-
-    Parameters
-    ----------
-    focus_ticker : if set (single-stock mode), the prompt is personalised
-                   to that stock and its direct competitors/sector.
-    """
     if not tickers:
         print("[6/6] ⏭️  SKIPPING: No tickers found.")
         return ""
 
-    print(f"[6/6] 🔮 PREDICTING: Fetching financials for {len(tickers)} tickers and forecasting tomorrow...")
+    print(f"[6/6] 🔮 PREDICTING: Fetching financials for {len(tickers)} tickers...")
 
     financial_data = []
     for ticker in tickers:
@@ -329,37 +319,26 @@ def predict_tomorrows_movers(
         if data:
             financial_data.append(data)
 
-    # Personalise the prompt for single-stock vs macro mode
-    if focus_ticker:
-        focus_line = (
-            f"Your PRIMARY focus is {focus_ticker.upper()}. "
-            f"Analyse competitors and sector peers only as context for the {focus_ticker.upper()} prediction."
-        )
-    else:
-        focus_line = "Analyse all tickers equally."
+    focus_line = (
+        f"Your PRIMARY focus is {focus_ticker.upper()}. "
+        f"Analyse competitors only as context for the {focus_ticker.upper()} prediction."
+        if focus_ticker else "Analyse all tickers equally."
+    )
 
     system_prompt = f"""
-    You are a high-frequency trading algorithm's final decision module.
-    You will be provided with:
-    1. A research analysis (macro or stock-specific news).
-    2. Real technical and fundamental data (recent prices, volume, P/E, moving averages) for specific stocks.
+    You are a trading algorithm's final decision module.
+    You have: (1) a research analysis and (2) technical/fundamental stock data.
 
     {focus_line}
 
-    Based on the convergence of NEWS SENTIMENT and TECHNICAL REALITY, predict if each stock 
-    will increase or decrease TOMORROW.
-
+    Predict if each stock will increase or decrease TOMORROW.
     For each stock provide:
     - TICKER
     - DIRECTION: UP, DOWN, or NEUTRAL
     - CONFIDENCE: 0-100%
-    - RATIONALE: 2 sentences max. Cite a specific technical reading + a specific news catalyst.
+    - RATIONALE: 2 sentences max. Cite a specific technical reading + news catalyst.
 
-    Rules:
-    - RSI > 70 + bearish news = strong DOWN signal
-    - RSI < 30 + bullish news = strong UP signal  
-    - News bullish but price way above 52-week high with falling volume = likely pullback
-    - Be objective. Contradictory signals → NEUTRAL with low confidence.
+    Rules: RSI>70+bearish=DOWN | RSI<30+bullish=UP | contradictory signals=NEUTRAL
     """
 
     response = _llm_client().chat.completions.create(
@@ -372,14 +351,13 @@ def predict_tomorrows_movers(
             )},
         ],
         temperature=0.3,
-        max_tokens=2000,
+        max_tokens=1500,    # ← reduced from 2000
     )
     predictions = response.choices[0].message.content
 
     phase_label = (
         f"PHASE 4: NEXT-DAY PREDICTION — {focus_ticker.upper()}"
-        if focus_ticker else
-        "PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS"
+        if focus_ticker else "PHASE 4: NEXT-DAY DIRECTIONAL PREDICTIONS"
     )
     with open(filepath, "a", encoding="utf-8") as f:
         f.write("\n\n" + "="*50 + f"\n=== {phase_label} ===\n" + "="*50 + "\n\n" + predictions + "\n")
@@ -391,29 +369,22 @@ def predict_tomorrows_movers(
 # Orchestrators
 # ══════════════════════════════════════════════════════════
 def run_pipeline(filepath: str = "outputs/temp_global_trends.txt") -> str:
-    """Full macro pipeline (used by --trending mode)."""
-    queries    = generate_search_queries(filepath)
-    all_trends = execute_deep_dive(queries, filepath)
-    analysis   = analyse_stock_impact(all_trends, filepath)
-    tickers    = extract_tickers_from_analysis(analysis)
+    queries     = generate_search_queries(filepath)
+    all_trends  = execute_deep_dive(queries, filepath)
+    analysis    = analyse_stock_impact(all_trends, filepath)
+    tickers     = extract_tickers_from_analysis(analysis)
     predictions = predict_tomorrows_movers(analysis, tickers, filepath)
     print("\n✅ DONE. Full predictive report saved to:", filepath)
     return predictions
 
 
 def run_stock_pipeline(ticker: str, filepath: str) -> str:
-    """
-    Full single-stock deep-research pipeline (used by --deep-research mode).
-    Mirrors run_pipeline() but all 6 phases are focused on one ticker.
-    """
-    build_stock_dossier(ticker, filepath)                            # Phase 1
-    queries    = generate_stock_queries(ticker, filepath)            # Phase 2
-    all_trends = execute_deep_dive(queries, filepath)                # Phase 3
-    analysis   = analyse_stock_impact(all_trends, filepath)          # Phase 4
-    tickers    = extract_tickers_from_analysis(analysis, seed_ticker=ticker)  # Phase 5
-    predictions = predict_tomorrows_movers(                          # Phase 6
-        analysis, tickers, filepath, focus_ticker=ticker
-    )
+    build_stock_dossier(ticker, filepath)
+    queries     = generate_stock_queries(ticker, filepath)
+    all_trends  = execute_deep_dive(queries, filepath)
+    analysis    = analyse_stock_impact(all_trends, filepath)
+    tickers     = extract_tickers_from_analysis(analysis, seed_ticker=ticker)
+    predictions = predict_tomorrows_movers(analysis, tickers, filepath, focus_ticker=ticker)
     print(f"\n✅ DONE. Full {ticker} research report saved to: {filepath}")
     return predictions
 
