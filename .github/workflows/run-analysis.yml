@@ -1,80 +1,80 @@
-name: AI Trend Analyzer and Evaluator
+# name: AI Trend Analyzer and Evaluator
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-  schedule:
-    - cron: '30 14 * * *'
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '30 14 * * *'
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-# NEW: This silences the Node.js 20 deprecation warning by forcing Node 24
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+# # NEW: This silences the Node.js 20 deprecation warning by forcing Node 24
+# env:
+#   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-jobs:
-  run-analysis:
-    runs-on: ubuntu-latest
+# jobs:
+#   run-analysis:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
+#         with:
+#           fetch-depth: 0
 
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+#       - name: Set up Python 3.10
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+#       - name: Install dependencies
+#         run: |
+#           python -m pip install --upgrade pip
+#           pip install -r requirements.txt
 
-      - name: Verify imports
-        run: |
-          python -c "from duckduckgo_search import DDGS; print('✅ duckduckgo_search OK')"
-          python -c "import yfinance; print('✅ yfinance OK')"
-          python -c "import feedparser; print('✅ feedparser OK')"
+#       - name: Verify imports
+#         run: |
+#           python -c "from duckduckgo_search import DDGS; print('✅ duckduckgo_search OK')"
+#           python -c "import yfinance; print('✅ yfinance OK')"
+#           python -c "import feedparser; print('✅ feedparser OK')"
 
-      # FIXED: Changed from stock-analyser/outputs to just outputs
-      - name: Create output directory
-        run: mkdir -p outputs
+#       # FIXED: Changed from stock-analyser/outputs to just outputs
+#       - name: Create output directory
+#         run: mkdir -p outputs
 
-      - name: Run Trend Analyzer
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-        run: |
-          python analyzer.py --trending
+#       - name: Run Trend Analyzer
+#         env:
+#           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+#         run: |
+#           python analyzer.py --trending
 
-      - name: Run Evaluator (Sends to Telegram)
-        env:
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python src/data/alternative/evaluator.py
+#       - name: Run Evaluator (Sends to Telegram)
+#         env:
+#           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+#           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+#           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+#         run: |
+#           python src/data/alternative/evaluator.py
 
-      - name: Commit and Push Output Files
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#       - name: Commit and Push Output Files
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # FIXED: Stage the correct outputs folder
-          git add outputs/
+#           # FIXED: Stage the correct outputs folder
+#           git add outputs/
           
-          git commit -m "Auto-update prediction files [skip ci]" || echo "No changes to commit"
-          git push origin main
+#           git commit -m "Auto-update prediction files [skip ci]" || echo "No changes to commit"
+#           git push origin main
 
-      - name: Upload Output Files as Artifacts
-        if: always() 
-        uses: actions/upload-artifact@v4
-        with:
-          name: stock-analyser-outputs
-          # FIXED: Look in the correct outputs folder
-          path: outputs/
-          retention-days: 7
+#       - name: Upload Output Files as Artifacts
+#         if: always() 
+#         uses: actions/upload-artifact@v4
+#         with:
+#           name: stock-analyser-outputs
+#           # FIXED: Look in the correct outputs folder
+#           path: outputs/
+#           retention-days: 7
