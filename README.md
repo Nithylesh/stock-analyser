@@ -26,7 +26,7 @@ Stock Analyser is a comprehensive toolkit for analyzing stock performance, trend
 | Layer | Technology |
 |-------|-----------|
 | Language | Python 3.8+ |
-| Data Source | Yahoo Finance / Alpha Vantage |
+| Data Source | Yahoo Finance |
 | Data Processing | Pandas, NumPy |
 | Visualization | Matplotlib, Plotly |
 | Technical Analysis | TA-Lib / pandas-ta |
@@ -64,7 +64,7 @@ venv\Scripts\activate           # On Windows
 pip install -r requirements.txt
 ```
 
-**4. (Optional) Configure API keys:**
+**4. (Optional) Configure API keys:**(Not yet supported....)
 
 If using a premium data provider like Alpha Vantage, create a `.env` file in the root directory:
 
@@ -76,57 +76,21 @@ ALPHA_VANTAGE_API_KEY=your_api_key_here
 
 ## Usage
 
-### Basic Stock Analysis
+### Basic Stock Analysis (Showing the most effective arguments)
 
 ```bash
-python analyser.py --ticker AAPL
+python analyzer.py --trending
 ```
+Summary of how it works: This scrapes trending news snippets and identifies the stocks associated with the news. Deep research (where 10 full news articles based on that issue/stock are scraped) is then conducted. The complete summary is sent to an LLM along with statistical stock data, such as the 50-day average, to generate a prediction.
 
-### Specify a Date Range
+### Compare Single or Multiple Stocks
 
 ```bash
-python analyser.py --ticker TSLA --start 2023-01-01 --end 2024-01-01
+python analyser.py --tickers AAPL MSFT GOOGL # (could have single stock too)
 ```
-
-### Compare Multiple Stocks
-
-```bash
-python analyser.py --tickers AAPL MSFT GOOGL --period 6mo
-```
-
-### Generate a Full Report with Charts
-
-```bash
-python analyser.py --ticker NVDA --report --charts
-```
-
-### Available Flags
-
-| Flag | Description | Example |
-|------|-------------|---------|
-| `--ticker` | Single stock ticker symbol | `--ticker AAPL` |
-| `--tickers` | Multiple ticker symbols | `--tickers AAPL MSFT` |
-| `--start` | Start date (YYYY-MM-DD) | `--start 2023-01-01` |
-| `--end` | End date (YYYY-MM-DD) | `--end 2024-01-01` |
-| `--period` | Predefined period | `--period 1y` |
-| `--report` | Export full analysis report | `--report` |
-| `--charts` | Generate visual charts | `--charts` |
-| `--indicator` | Specific technical indicator | `--indicator RSI` |
-
----
-
-## Technical Indicators Supported
-
-- **Moving Averages** — SMA (Simple), EMA (Exponential)
-- **RSI** — Relative Strength Index
-- **MACD** — Moving Average Convergence Divergence
-- **Bollinger Bands** — Volatility bands around a moving average
-- **Volume Analysis** — On-Balance Volume (OBV), VWAP
-- **Momentum** — Stochastic Oscillator, Williams %R
-
----
-
-## Project Structure
+Summary of how it works: Same as above but deep research is done on only the specified stocks
+NOTE: for Indian stock it should end with .NS(eg: WIPRO.NS)
+## Project Structure(kinda follows this ig)
 
 ```
 stock-analyser/
@@ -184,17 +148,6 @@ Contributions are welcome! To get started:
 
 Please make sure your code follows the existing style and includes relevant tests.
 
----
-
-## Roadmap
-
-- [ ] Portfolio tracking and analysis
-- [ ] Sentiment analysis from news headlines
-- [ ] Machine learning price prediction models
-- [ ] Web dashboard interface (Flask/Streamlit)
-- [ ] Email/Slack alert notifications
-
----
 
 ## License
 
