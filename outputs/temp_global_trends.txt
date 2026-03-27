@@ -1,148 +1,52 @@
 === GLOBAL MACRO TRENDS ===
 Article 1:
-Headline: Stock Market Highlights: Sensex Closes 1,300 Points Higher As US Pauses Strike On Iran - NDTV
-Context: Markets recovered losses on Monday as the Sensex closed 938 points higher to settle at 75,502, while Nifty50 closed at 23,408, climbing 257 points. The gains were attributed to the assurances from the Trump administration on safe transit for ships through the Strait of Hormuz. The Indian stock market benchmark indices, Sensex and Nifty 50, are expected to open sharply lower on Monday, following a sell-off in global markets, amid a surge in crude oil prices as the expanding US-Israeli war with Iran fuelled fears of tighter supply ... The Sensex and the Nifty are up for the third consecutive session. Over these three sessions, the 30-share pack has gained more than 2,200 points, or 3%, while the NSE counterpart has jumped nearly 650 points,
+Headline: Iran war is a 'catastrophe,' G7 ministers warn — but there's little they can do to stop it - Forex Factory
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 Article 2:
-Headline: Oil prices jump over 2% amid ongoing Middle East attacks By Investing.com - Investing.com India
-Context: Oil and Gas outlook: Brent crude prices have surged by over 60 per cent since the start of the US-Iran-Israel conflict, rising to around USD 112 per barrel from nearly USD 70 earlier, reflecting major disruptions in global energy supply. By Siddharth Cavale NEW YORK, March 18 (Reuters) - Oil prices were up 5% on Wednesday after Iran's Revolutionary Guards threatened to attack several energy facilities across the Middle East in retaliation, There is pain at the pump for drivers across the country — the D.C. area included — as oil prices skyrocket due to the U.S. and Israel-Iran war. Average gas prices in the District have risen nearly 44 cents in the last week, averaging $3.48, according ...
+Headline: Nayara Energy hikes petrol price by ₹5 per litre, diesel by ₹3 - The Hindu
+Context: The logo of Nayara is seen at its fuel station on the outskirts of Ahmedabad. File 
+                                          | Photo Credit: Reuters Nayara Energy, India's largest private fuel retailer, on Thursday (March 26, 2026) raised petrol prices by ₹5 per litre and diesel by ₹3 a litre, passing on part of the recent surge in global oil prices following the war in West Asia, sources said. Fuel marketing companies in India have been under strain as retail petrol and diesel prices remained frozen despite a nearly 50% surge in international oil prices since February 28, when the United States and Israel launched military strikes against Iran, triggering sweeping retaliation from Tehran. Nayara Energy, which operates 6,967 of India's 102,075 petrol pumps, has decided to pass on part of the increase in input costs to consumers, two sources with direct knowledge of the matter said. A company spokesperson did not immediately offer any comment on the story.
 ----------------------------------------
 
 Article 3:
-Headline: Iran war: Why India must step on the gas with ethanol - The Indian Express
-Context: Full context unavailable for this story.
+Headline: Iran war: India's fertiliser supply under strain after Hormuz blockade - BBC
+Context: India's fertiliser supplies are under pressure after disruptions to shipping routes due to the war in the Middle East, raising concerns about lower farm produce and higher food prices. India, the world's second-largest fertiliser user after China, depends heavily on imports of both raw materials and finished products - much of which comes from the Gulf, passing through the Strait of Hormuz, where shipping has been disrupted. Prime Minister Narendra Modi has said his government has taken measures to ensure fertiliser supplies are not affected and to protect farmers from any impact. Analysts say current stocks are enough for the upcoming sowing season, but this may change if the war stretches on. Nitrogen fertilisers such as urea - the most widely used in India - are crucial for farmers because many major food crops, including rice and wheat, cannot absorb adequate nitrogen directly from the air.
 ----------------------------------------
 
 Article 4:
-Headline: Rupee under pressure: INR breaches 94-per-dollar mark for the first time; geopolitical tensions, foreign - The Times of India
-Context: The Indian rupee hit an all-time low against the dollar, breaching 94 for the first time amid Middle East tensions, significant foreign fund outflows, and soaring crude oil prices. This sharp decline, Rupee Hits Record Low: The Indian rupee hit a record low amid Middle East tensions, rising oil prices, higher US yields, foreign outflows, increasing import costs and pressuring the currency further. The Indian rupee has reached a record low of 93.94 against the US dollar, influenced by global uncertainties and escalating tensions in West Asia.
+Headline: Jio Financial Services, Allianz join hands to launch reinsurance JV in India - Moneycontrol.com
+Context: Jio Financial Services and Allianz Group have launched their reinsurance joint venture, Allianz Jio Reinsurance Ltd, which has now started operations in India. The company received final approval from the Insurance Regulatory and Development Authority of India on March 12, allowing it to begin underwriting reinsurance business with immediate effect. Mumbai-based Allianz Jio Re aims to become a long-term partner in India's insurance sector. The venture will combine Jio Financial Services' local reach and digital capabilities with Allianz's global expertise in underwriting and reinsurance. The company said it plans to support insurers in managing risks more effectively and strengthen the overall resilience of India's insurance ecosystem, in line with the government's 'Insurance for All' 2047 vision.
 ----------------------------------------
 
 Article 5:
-Headline: Swiggy hikes platform fee by 17%, days after Zomato; Platform Cos surge after news - CNBC TV18
-Context: New Delhi: Food delivery platform Swiggy has hiked the platform fee it charges users to Rs 17.58 per order, its app showed on Tuesday, days after rival Zomato increased the charges. Swiggy had last hiked its platform fee in September last year. Swiggy has raised its per-order platform fee, days after rival Zomato's move. This and more in today's ETtech Top 5. Swiggy last raised its platform fee in September 2025, announcing three hikes over three weeks that took the charges to ₹14.99. The company first introduced the fee in April 2023 at just ₹2, which has now risen to nearly eight times that level.
+Headline: Vedanta's Cairn targets 1 million barrels a day, looks to US shale to cut import reliance - Moneycontrol.com
+Context: Vedanta Ltd.’s Cairn Oil & Gas is looking to quadruple daily output to the equivalent of 1 million barrels over the better part of the next decade as India’s largest private sector oil producers basks in the war-drive surge in crude prices. Cairn executives are in Houston this week looking to spend as much as $5 billion with oilfield contractors who will help the company develop fields at home that include shale formations, Vedanta Chairman Anil Agarwal said during an interview. Cairn’s aim is to hire 10 Americans to apply the US shale playbook in India, where the company hopes to shave drilling and completion times by one-third to accelerate the ramp up of output, he said. It’s a significant move for the broader India economy, which is almost wholly reliant on imported cargoes for crude. “They produce the fastest shale in the world, they’re the master, so we would like to take that also to India,” Agarwal said on the sidelines of the CERAWeek by S&P Global conference on Wednesday.
 ----------------------------------------
 
 Article 6:
-Headline: NCLAT refuses to stay Adani’s ₹14,543 crore JAL resolution plan, seeks lenders' responses - Mint
-Context: The National Company Law Appellate Tribunal (NCLAT) declined to grant an interim stay on Tuesday regarding the Vedanta Group's appeal against an order that approved the Adani Group's Rs 14,535 crore bid for acquiring Jaiprakash Associates Ltd (JAL). NCLAT has expedited proceedings by scheduling the next hearing for April 10. Vedanta, which had also bid for JAL, challenged both the resolution plan's validity and its approval process. The tribunal clarified that the plan's implementation would continue but would be subject to appeal outcomes. The matter needs a swift resolution due to complex legal implications, NCLAT noted. Despite offering a higher bid value, Vedanta lost out to Adani due to quicker financial terms and substantial upfront cash. JAL, grappling with bankruptcy due to unpaid loans, finds its future hanging between rival legal contestations in a high-stakes corporate acquisition.
+Headline: 5x Capacity Surge: 2 stocks cornering India’s ₹20,000 crore data centre policy prize - The Financial Express
+Context: India’s data center opportunity is no longer a distant theme. Rather, it is translating into tangible demand across power, cooling, and digital infrastructure . The country’s IT load is expected to expand from about 1.7 gigawatt (GW) currently to 7-8 GW over the next five years, driven by AI adoption, cloud expansion, and tailwinds from digitalisation. This Shift is not just about capacity addition, but it is also reshaping how infrastructure is designed, deployed, and monetised. These two companies are positioning themselves at different layers of this value chain. One enables power distribution and digital backbone, the other addresses precision cooling and electromechanical execution. Both are already seeing data centers emerge as a meaningful growth driver within their order books and project pipelines. Schneider Electric (SEIL) specializes in energy management, power distribution , and industrial automation.
 ----------------------------------------
 
 Article 7:
-Headline: Temasek- and Dr Ranjan Pai-backed Manipal Hospitals files for mega $1 bn-plus IPO; biggest ever in Indian... - Moneycontrol.com
-Context: Singapore investment major Temasek- and Dr Ranjan Pai-backed Manipal Hospitals has filed draft papers with Sebi for a mega billion dollar-plus IPO, India’s biggest ever in the healthcare sector, multiple industry sources in the know told Moneycontrol. The IPO comprises a fresh issue of Rs 8,000 crore and an offer for sale (OFS) of up to 43.23 million shares by promoters and existing shareholders, as per the draft papers. Under the OFS, Imperius Healthcare Investments plans to sell 21.62 million shares, Manipal Education and Medical Group 13.58 million shares, TPG SG Magazine 4.66 million shares, and Seventy Second Investment 1.58 million shares, among others. “This is a marquee deal for the segment and the selling shareholders include Manipal Group, Temasek, TPG, Mubadala and others,” a person in the know said. A second person added that subject to market conditions, the plan is to launch the firm’s IPO by end-2026.
+Headline: Gold prices fall amid mixed signals on US-Iran de-escalation efforts - Investing.com
+Context: Full context unavailable for this story.
 ----------------------------------------
 
 Article 8:
-Headline: Airlines cancel more flights as West Asia conflict escalates - The Hindu
-Context: Full context unavailable for this story.
+Headline: Gold Rate Today, March 26: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express
+Context: Gold Rate Today: The gold prices reached their lowest level since early January this year, with Good Returns highlighting that prices for both gold and silver have fallen by 12 to 17 per cent so far in March. The rates for yellow metal in India have been under intense pressure at the start of the new week in March 2026, amid the ongoing conflict in West Asia, which began on 28 February with US-Israeli military actions against Iran. READ: For the first time, Indians invest more in gold ETFs than equity MFs However, as of today, March 26 (Thursday), gold and silver rates in India rebounded, as international bullion markets experienced substantial upside, negating weeks of downward trend . The price of 24K gold today, March 26, 2026 (Thursday), in India stands at ₹14,689 per gram, reflecting an increase of ₹22. Similarly, 22K gold is priced at ₹13,465 per gram, up by ₹20, while 18K gold is available at ₹11,017 per gram after an increase of ₹16.
 ----------------------------------------
 
 Article 9:
-Headline: 22k gold rate today: check 22K, 24K gold prices (March 24, 2026) on Tanishq, Malabar Gold & Diamonds, Joya - The Economic Times
-Context: Gold Rate Today (March 22, 2026): Gold prices remain volatile amid the Iran-Israel-US conflict and domestic cues. Check prices of 24K, 22K and 18K in Delhi, Chennai, Mumbai and other major cities. Gold Price Today in India, Tuesday, March 24: Gold prices slipped on Tuesday, extending a broader global downtrend and trading more than 20 per cent below January's peak. Prices were pressured by a stronger US dollar and lingering US‑Iran tensions, Silver and gold prices saw a sharp reversal on Thursday, snapping a two-day recovery as futures came under heavy selling pressure amid weak global cues and a firm US dollar. On the Multi Commodity Exchange (MCX), silver futures for March delivery plunged ...
+Headline: Indian Oil buys first Iranian LPG since 2018 as crunch worsens - The Economic Times
+Context: Indian Oil Corporation has bought LPG from Iran for the first time in nearly eight years as India faces a supply crunch due to the Middle East conflict disrupting shipments via the Strait of Hormuz. The cargo, India has restarted LPG imports from Iran after halting them in 2019 due to Western sanctions, prompted by supply disruptions in the Strait of Hormuz. By Nidhi Verma NEW DELHI, March 25 (Reuters) - India has bought its first cargo of Iranian liquefied petroleum gas in years after the U.S. temporarily removed sanctions on Tehran's oil and refined fuels,
 ----------------------------------------
 
 Article 10:
-Headline: Gold falls as Iran rejects U.S. talks claims, missile strikes hit Middle East By Investing.com - Investing.com India
-Context: Full context unavailable for this story.
+Headline: Meta boosts top executives' pay with stock options as AI race heats up - Reuters
+Context: By Mrinmay Dey and Katie Paul March 24 (Reuters) - Meta Platforms has offered top executives stock options that could pay out hundreds of millions of dollars and are tied to lifting its valuation six-fold to more than $9 trillion, March 24 (Reuters) - Meta Platforms on Tuesday granted restricted stock units and stock options for some of its senior executives, including CFO Susan Li and Chief Technology Officer Andrew Bosworth, Meta Platforms (META) is granting stock options to its top executives for the first time since its 2012 IPO, aiming to retain and reward leadership as it continues heavy spending to stay competitive in the intensifying AI race.
 ----------------------------------------
 
-
-
-==================================================
-=== PHASE 2: DEEP DIVE RESEARCH DATA ===
-==================================================
-
-
-########################################
-TREND: Oil Price Surge Due to Middle East Tensions
-LLM Search Query: impact of rising oil prices on global energy sector supply chains
-Articles scraped: 0
-########################################
-
-
-########################################
-TREND: Indian Rupee Depreciation Against the US Dollar
-LLM Search Query: effects of rupee depreciation on Indian import-dependent industries
-Articles scraped: 0
-########################################
-
-
-########################################
-TREND: Food Delivery Platform Fee Hikes
-LLM Search Query: impact of platform fee hikes on food delivery industry profitability
-Articles scraped: 0
-########################################
-
-
-==================================================
-=== PHASE 3: LLM STOCK IMPACT ANALYSIS ===
-==================================================
-
-### TREND: Oil Price Surge Due to Middle East Tensions
-
-**SUMMARY**  
-Rising oil prices are driven by heightened geopolitical tensions in the Middle East, leading to supply disruptions and increased uncertainty in global energy markets.
-
-**BULLISH SECTORS**  
-- **Energy and Oil & Gas Companies**: ExxonMobil (XOM), Chevron (CVX), BP (BP)
-- **Alternative Energy Companies**: SolarEdge Technologies (SEDG), First Solar (FSLR)
-
-**BEARISH SECTORS**  
-- **Transportation**: Union Pacific (UNP), CSX Corporation (CSX)
-- **Manufacturing**: General Motors (GM), Ford Motor Company (F)
-
-**MAGNITUDE**  
-High — Direct impact on energy costs and supply chain logistics.
-
-**TIME HORIZON**  
-Medium (1-6 months) — Tensions could persist, but supply chain adjustments may take time.
-
-**PORTFOLIO SIGNAL**  
-Allocate 20% to energy and oil & gas companies, reduce exposure to transportation and manufacturing by 10%.
-
-### TREND: Indian Rupee Depreciation Against the US Dollar
-
-**SUMMARY**  
-The depreciation of the Indian Rupee against the US Dollar increases import costs for India, impacting import-dependent industries and potentially leading to inflation.
-
-**BULLISH SECTORS**  
-- **Export-Oriented Industries**: Tata Consultancy Services (TCS), Infosys (INFY)
-- **Consumer Staples with Domestic Supply Chains**: Hindustan Unilever (HINDUNILVR), Marico (MARICO)
-
-**BEARISH SECTORS**  
-- **Import-Dependent Industries**: Hero MotoCorp (HEROMOTOCO), Eicher Motors (EICHERMOT)
-- **Consumer Discretionary**: HDFC Bank (HDB), HDFC Life Insurance (HDFCBANK)
-
-**MAGNITUDE**  
-Medium — Significant impact on import costs but less immediate on domestic operations.
-
-**TIME HORIZON**  
-Medium (1-6 months) — Inflationary pressures may build over time, affecting consumer spending.
-
-**PORTFOLIO SIGNAL**  
-Increase allocation to export-oriented and domestically focused sectors by 15%, reduce exposure to import-dependent and consumer discretionary sectors by 10%.
-
-### TREND: Food Delivery Platform Fee Hikes
-
-**SUMMARY**  
-Food delivery platform fee hikes reduce profitability for restaurants and food delivery services, potentially leading to a shift in consumer behavior and increased competition.
-
-**BULLISH SECTORS**  
-- **Food Delivery Platforms with Strong Margins**: DoorDash (DASH), Uber Eats (UBER)
-- **E-commerce with Food Delivery Services**: Amazon (AMZN), Walmart (WMT)
-
-**BEARISH SECTORS**  
-- **Restaurants and Food Services**: McDonald's (MCD), Yum! Brands (YUM)
-- **Food Delivery Services with Thin Margins**: Just Eat Takeaway.com (TAK)
-
-**MAGNITUDE**  
-Medium — Direct impact on profitability but potential for long-term shifts in consumer behavior.
-
-**TIME HORIZON**  
-Medium (1-6 months) — Short-term financial impacts with potential long-term strategic shifts.
-
-**PORTFOLIO SIGNAL**  
-Allocate 15% to food delivery platforms with strong margins and e-commerce players, reduce exposure to restaurants and food delivery services with thin margins by 10%.
